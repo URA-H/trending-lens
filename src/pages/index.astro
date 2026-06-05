@@ -1,0 +1,90 @@
+---
+import "../styles/global.css";
+import RepoCard from "../components/RepoCard.astro";
+import data from "../data/trending.json";
+import type { TrendingSnapshot } from "../lib/types";
+
+const snapshot = data as TrendingSnapshot;
+const fetchedAt = new Date(snapshot.fetchedAt);
+const fetchedAtLabel = fetchedAt.toLocaleString("ja-JP", {
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit",
+  hour: "2-digit",
+  minute: "2-digit",
+});
+const rangeLabel =
+  snapshot.range === "daily"
+    ? "今日"
+    : snapshot.range === "weekly"
+      ? "今週"
+      : "今月";
+---
+
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>trending-lens — {rangeLabel}の GitHub Trending</title>
+    <meta
+      name="description"
+      content="GitHub Trending を Claude が要約・分類して並べる静的ダッシュボード。"
+    />
+  </head>
+  <body>
+    <main class="mx-auto max-w-3xl px-4 py-12 md:py-16">
+      <header class="mb-10">
+        <p class="font-mono text-xs text-zinc-500 dark:text-zinc-400 mb-2">
+          trending-lens
+        </p>
+        <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-3">
+          {rangeLabel}の GitHub Trending
+        </h1>
+        <p class="text-sm text-zinc-600 dark:text-zinc-400 leading-relaxed">
+          GitHub Trending を Claude が要約して、カテゴリと「なぜ今 trending か」を付けて並べた静的ダッシュボード。
+        </p>
+        <div class="mt-4 flex items-center gap-3 text-xs text-zinc-500 dark:text-zinc-400">
+          <span>取得: {fetchedAtLabel}</span>
+          <span aria-hidden="true">•</span>
+          <span>{snapshot.repos.length} repos</span>
+          <span aria-hidden="true">•</span>
+          <span>{snapshot.aiEnabled ? "AI summary: live" : "AI summary: mock"}</span>
+        </div>
+      </header>
+
+      <section class="space-y-4">
+        {
+          snapshot.repos.map((repo, i) => (
+            <RepoCard repo={repo} rank={i + 1} />
+          ))
+        }
+      </section>
+
+      <footer class="mt-16 pt-8 border-t border-zinc-200 dark:border-zinc-800 text-xs text-zinc-500 dark:text-zinc-400 space-y-2">
+        <p>
+          source:
+          <a
+            href="https://github.com/trending"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="underline underline-offset-2 hover:text-zinc-700 dark:hover:text-zinc-300"
+          >
+            github.com/trending
+          </a>
+          / AI summary by Claude
+        </p>
+        <p>
+          repository:
+          <a
+            href="https://github.com/URA-H/trending-lens"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="underline underline-offset-2 hover:text-zinc-700 dark:hover:text-zinc-300"
+          >
+            URA-H/trending-lens
+          </a>
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>
