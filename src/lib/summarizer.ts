@@ -16,6 +16,7 @@ const summarySchema = z.object({
   shortSummary: z.string().min(1).max(280),
   category: z.string().min(1).max(40),
   whyTrending: z.string().min(1).max(280),
+  descriptionJa: z.string().min(1).max(400).optional(),
 });
 
 export interface SummarizeOptions {
@@ -78,10 +79,11 @@ const SYSTEM_PROMPT = `あなたは GitHub Trending を毎日見ている開発�
 {
   "shortSummary": "そのリポジトリが何をするものか、1-2 文（日本語、最大 280 文字）",
   "category": "AI / Web Framework / Developer Tools / Infra / Data / Game / Education / Productivity などのカテゴリラベル",
-  "whyTrending": "なぜ今 trending しているかの仮説 1 文（日本語、最大 280 文字）"
+  "whyTrending": "なぜ今 trending しているかの仮説 1 文（日本語、最大 280 文字）",
+  "descriptionJa": "GitHub の description を読みやすい日本語に訳したもの（最大 400 文字）。description が無い場合または既に日本語の場合は省略してよい"
 }
 
-トーンは淡々と。煽らない。
+トーンは淡々と。煽らない。技術用語はそのまま英語で残してよい。
 返答は JSON オブジェクトのみ、前置き・後置きの文章は禁止。`;
 
 function buildPrompt(repo: TrendingRepo): string {
@@ -133,5 +135,9 @@ function mockSummary(repo: TrendingRepo): ClaudeSummary {
     shortSummary: `[mock] ${desc.slice(0, 140)}`,
     category: `[mock] ${category}`,
     whyTrending: `[mock] 直近で ${repo.starsToday} stars 増。`,
+    // mock では実翻訳できないので、原文 description をそのまま返してフォールバックの動作確認に使う
+    descriptionJa: repo.description
+      ? `[mock 訳] ${repo.description}`
+      : undefined,
   };
 }

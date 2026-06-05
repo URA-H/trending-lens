@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-05T06:23:15.909Z",
+  "fetchedAt": "2026-06-05T07:18:11.408Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,13 +10,14 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13144,
-      "forks": 843,
+      "stars": 13263,
+      "forks": 848,
       "starsToday": 3142,
       "ai": {
         "shortSummary": "[mock] Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 3142 stars 増。"
+        "whyTrending": "[mock] 直近で 3142 stars 増。",
+        "descriptionJa": "[mock 訳] Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server."
       }
     },
     {
@@ -25,13 +26,14 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 181418,
-      "forks": 31132,
+      "stars": 181497,
+      "forks": 31148,
       "starsToday": 1913,
       "ai": {
         "shortSummary": "[mock] The agent that grows with you",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1913 stars 増。"
+        "whyTrending": "[mock] 直近で 1913 stars 増。",
+        "descriptionJa": "[mock 訳] The agent that grows with you"
       }
     },
     {
@@ -40,13 +42,14 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 207560,
-      "forks": 31852,
+      "stars": 207615,
+      "forks": 31861,
       "starsToday": 1750,
       "ai": {
         "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 1750 stars 増。"
+        "whyTrending": "[mock] 直近で 1750 stars 増。",
+        "descriptionJa": "[mock 訳] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
       }
     },
     {
@@ -55,13 +58,14 @@
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 80089,
-      "forks": 10613,
+      "stars": 80128,
+      "forks": 10616,
       "starsToday": 141,
       "ai": {
         "shortSummary": "[mock] Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDF",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 141 stars 増。"
+        "whyTrending": "[mock] 直近で 141 stars 増。",
+        "descriptionJa": "[mock 訳] Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
       }
     },
     {
@@ -70,13 +74,14 @@
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 108740,
-      "forks": 9606,
+      "stars": 108769,
+      "forks": 9610,
       "starsToday": 321,
       "ai": {
         "shortSummary": "[mock] 💫 Toolkit to help you get started with Spec-Driven Development",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 321 stars 増。"
+        "whyTrending": "[mock] 直近で 321 stars 増。",
+        "descriptionJa": "[mock 訳] 💫 Toolkit to help you get started with Spec-Driven Development"
       }
     },
     {
@@ -85,13 +90,14 @@
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 9127,
-      "forks": 585,
+      "stars": 9150,
+      "forks": 586,
       "starsToday": 133,
       "ai": {
         "shortSummary": "[mock] NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous v",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 133 stars 増。"
+        "whyTrending": "[mock] 直近で 133 stars 増。",
+        "descriptionJa": "[mock 訳] NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more."
       }
     },
     {
@@ -100,13 +106,14 @@
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25295,
-      "forks": 2931,
+      "stars": 25334,
+      "forks": 2932,
       "starsToday": 212,
       "ai": {
         "shortSummary": "[mock] An Open Source implementation of Notebook LM with more flexibility and features",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 212 stars 増。"
+        "whyTrending": "[mock] 直近で 212 stars 増。",
+        "descriptionJa": "[mock 訳] An Open Source implementation of Notebook LM with more flexibility and features"
       }
     },
     {
@@ -115,13 +122,14 @@
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9751,
-      "forks": 1166,
+      "stars": 9775,
+      "forks": 1169,
       "starsToday": 581,
       "ai": {
         "shortSummary": "[mock] Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 581 stars 増。"
+        "whyTrending": "[mock] 直近で 581 stars 増。",
+        "descriptionJa": "[mock 訳] Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms"
       }
     },
     {
@@ -130,13 +138,14 @@
       "description": "A complete computer science study plan to become a software engineer.",
       "language": null,
       "languageColor": null,
-      "stars": 349898,
-      "forks": 83249,
+      "stars": 349937,
+      "forks": 83253,
       "starsToday": 632,
       "ai": {
         "shortSummary": "[mock] A complete computer science study plan to become a software engineer.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 632 stars 増。"
+        "whyTrending": "[mock] 直近で 632 stars 増。",
+        "descriptionJa": "[mock 訳] A complete computer science study plan to become a software engineer."
       }
     },
     {
@@ -145,13 +154,14 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9052,
-      "forks": 1215,
+      "stars": 9061,
+      "forks": 1216,
       "starsToday": 38,
       "ai": {
         "shortSummary": "[mock] Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 38 stars 増。"
+        "whyTrending": "[mock] 直近で 38 stars 増。",
+        "descriptionJa": "[mock 訳] Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
       }
     },
     {
@@ -160,13 +170,14 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35717,
+      "stars": 35723,
       "forks": 434,
       "starsToday": 255,
       "ai": {
         "shortSummary": "[mock] Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 255 stars 増。"
+        "whyTrending": "[mock] 直近で 255 stars 増。",
+        "descriptionJa": "[mock 訳] Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
       }
     },
     {
@@ -175,13 +186,14 @@
       "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
       "language": "C#",
       "languageColor": "#178600",
-      "stars": 1409,
+      "stars": 1419,
       "forks": 171,
       "starsToday": 411,
       "ai": {
         "shortSummary": "[mock] Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 411 stars 増。"
+        "whyTrending": "[mock] 直近で 411 stars 増。",
+        "descriptionJa": "[mock 訳] Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension"
       }
     },
     {
@@ -190,13 +202,14 @@
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5390,
-      "forks": 649,
+      "stars": 5405,
+      "forks": 650,
       "starsToday": 308,
       "ai": {
         "shortSummary": "[mock] A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 308 stars 増。"
+        "whyTrending": "[mock] 直近で 308 stars 増。",
+        "descriptionJa": "[mock 訳] A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators."
       }
     },
     {
@@ -205,13 +218,14 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 27789,
-      "forks": 2368,
+      "stars": 27835,
+      "forks": 2370,
       "starsToday": 199,
       "ai": {
         "shortSummary": "[mock] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 199 stars 増。"
+        "whyTrending": "[mock] 直近で 199 stars 増。",
+        "descriptionJa": "[mock 訳] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
       }
     }
   ]

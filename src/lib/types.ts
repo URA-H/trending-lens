@@ -28,6 +28,11 @@ export interface ClaudeSummary {
   category: string;
   /** 「なぜ今 trending か」の仮説（1 文） */
   whyTrending: string;
+  /**
+   * GitHub 原文 description の日本語訳。原文が日本語ならそのまま、
+   * 原文が無いときは省略される。UI 側は description より優先して表示する。
+   */
+  descriptionJa?: string;
 }
 
 export interface EnrichedRepo extends TrendingRepo {

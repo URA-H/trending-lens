@@ -36,11 +36,15 @@ const { repo, rank } = Astro.props;
     </div>
   </header>
 
-  {repo.description && (
-    <p class="text-sm text-zinc-700 dark:text-zinc-300 mb-4 leading-relaxed">
-      {repo.description}
-    </p>
-  )}
+  {(() => {
+    // 日本語訳があれば優先、無ければ GitHub 原文（多くは英語）
+    const desc = repo.ai?.descriptionJa ?? repo.description;
+    return desc ? (
+      <p class="text-sm text-zinc-700 dark:text-zinc-300 mb-4 leading-relaxed">
+        {desc}
+      </p>
+    ) : null;
+  })()}
 
   {repo.ai && (
     <div class="space-y-3 border-t border-zinc-100 dark:border-zinc-800 pt-3 mt-2">
