@@ -7,6 +7,8 @@
 [![Tech: Claude](https://img.shields.io/badge/Anthropic-Claude-cc785c)](https://www.anthropic.com/)
 [![Tech: Node 20+](https://img.shields.io/badge/Node-20%2B-339933)](https://nodejs.org/)
 
+🔗 **Live**: https://ura-h.github.io/trending-lens/（毎日 23:00 UTC = 08:00 JST に自動更新）
+
 ---
 
 ## 目次
