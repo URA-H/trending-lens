@@ -135,9 +135,7 @@ function mockSummary(repo: TrendingRepo): ClaudeSummary {
     shortSummary: `[mock] ${desc.slice(0, 140)}`,
     category: `[mock] ${category}`,
     whyTrending: `[mock] 直近で ${repo.starsToday} stars 増。`,
-    // mock では実翻訳できないので、原文 description をそのまま返してフォールバックの動作確認に使う
-    descriptionJa: repo.description
-      ? `[mock 訳] ${repo.description}`
-      : undefined,
+    // mock では実翻訳できないので未設定。UI 側は原文 description にフォールバックする
+    descriptionJa: undefined,
   };
 }
