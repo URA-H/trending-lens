@@ -1,172 +1,37 @@
 {
-  "fetchedAt": "2026-06-06T00:04:01.679Z",
+  "fetchedAt": "2026-06-07T00:01:58.523Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
-    {
-      "fullName": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 183078,
-      "forks": 31398,
-      "starsToday": 1845,
-      "ai": {
-        "shortSummary": "[mock] The agent that grows with you",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1845 stars 増。"
-      }
-    },
-    {
-      "fullName": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 14481,
-      "forks": 921,
-      "starsToday": 2473,
-      "ai": {
-        "shortSummary": "[mock] Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2473 stars 増。"
-      }
-    },
-    {
-      "fullName": "CopilotKit/CopilotKit",
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 32664,
-      "forks": 4192,
-      "starsToday": 366,
-      "ai": {
-        "shortSummary": "[mock] The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 366 stars 増。"
-      }
-    },
-    {
-      "fullName": "lfnovo/open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 25984,
-      "forks": 2991,
-      "starsToday": 1152,
-      "ai": {
-        "shortSummary": "[mock] An Open Source implementation of Notebook LM with more flexibility and features",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1152 stars 増。"
-      }
-    },
-    {
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 208342,
-      "forks": 31960,
-      "starsToday": 1361,
-      "ai": {
-        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 1361 stars 増。"
-      }
-    },
-    {
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 21546,
-      "forks": 1861,
-      "starsToday": 148,
-      "ai": {
-        "shortSummary": "[mock] Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero AP",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 148 stars 増。"
-      }
-    },
-    {
-      "fullName": "NVIDIA/cosmos",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 9406,
-      "forks": 601,
-      "starsToday": 479,
-      "ai": {
-        "shortSummary": "[mock] NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous v",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 479 stars 増。"
-      }
-    },
-    {
-      "fullName": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 64690,
-      "forks": 10087,
-      "starsToday": 320,
-      "ai": {
-        "shortSummary": "[mock] A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 320 stars 増。"
-      }
-    },
     {
       "fullName": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 28194,
-      "forks": 2391,
-      "starsToday": 731,
+      "stars": 28780,
+      "forks": 2438,
+      "starsToday": 439,
       "ai": {
         "shortSummary": "[mock] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 731 stars 増。"
+        "whyTrending": "[mock] 直近で 439 stars 増。"
       }
     },
     {
-      "fullName": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 80531,
-      "forks": 10632,
-      "starsToday": 747,
+      "fullName": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 33196,
+      "forks": 4238,
+      "starsToday": 631,
       "ai": {
-        "shortSummary": "[mock] Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDF",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 747 stars 増。"
-      }
-    },
-    {
-      "fullName": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 1527,
-      "forks": 239,
-      "starsToday": 49,
-      "ai": {
-        "shortSummary": "[mock] OpenAI Plugins",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 49 stars 増。"
+        "shortSummary": "[mock] The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 631 stars 増。"
       }
     },
     {
@@ -175,43 +40,88 @@
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 53869,
-      "forks": 7079,
-      "starsToday": 227,
+      "stars": 54268,
+      "forks": 7109,
+      "starsToday": 446,
       "ai": {
         "shortSummary": "[mock] The best-benchmarked open-source AI memory system. And it's free.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 227 stars 増。"
+        "whyTrending": "[mock] 直近で 446 stars 増。"
       }
     },
     {
-      "fullName": "withastro/flue",
-      "url": "https://github.com/withastro/flue",
-      "description": "The sandbox agent framework.",
+      "fullName": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4509,
-      "forks": 241,
-      "starsToday": 126,
+      "stars": 14953,
+      "forks": 2122,
+      "starsToday": 70,
       "ai": {
-        "shortSummary": "[mock] The sandbox agent framework.",
+        "shortSummary": "[mock] Agentic AI Infrastructure for magnifying HUMAN capabilities.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 126 stars 増。"
+        "whyTrending": "[mock] 直近で 70 stars 増。"
       }
     },
     {
-      "fullName": "openclaw/openclaw-windows-node",
-      "url": "https://github.com/openclaw/openclaw-windows-node",
-      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
-      "language": "C#",
-      "languageColor": "#178600",
-      "stars": 1598,
-      "forks": 180,
-      "starsToday": 326,
+      "fullName": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 1765,
+      "forks": 256,
+      "starsToday": 213,
       "ai": {
-        "shortSummary": "[mock] Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+        "shortSummary": "[mock] OpenAI Plugins",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 213 stars 増。"
+      }
+    },
+    {
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 22304,
+      "forks": 1907,
+      "starsToday": 683,
+      "ai": {
+        "shortSummary": "[mock] Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero AP",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 683 stars 増。"
+      }
+    },
+    {
+      "fullName": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 86981,
+      "forks": 4937,
+      "starsToday": 25,
+      "ai": {
+        "shortSummary": "[mock] web development for the rest of us",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 25 stars 増。"
+      }
+    },
+    {
+      "fullName": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 30686,
+      "forks": 7956,
+      "starsToday": 20,
+      "ai": {
+        "shortSummary": "[mock] The official NGINX Open Source repository.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 326 stars 増。"
+        "whyTrending": "[mock] 直近で 20 stars 増。"
       }
     },
     {
@@ -220,43 +130,148 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35851,
-      "forks": 443,
-      "starsToday": 207,
+      "stars": 35998,
+      "forks": 454,
+      "starsToday": 159,
       "ai": {
         "shortSummary": "[mock] Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 207 stars 増。"
+        "whyTrending": "[mock] 直近で 159 stars 増。"
       }
     },
     {
-      "fullName": "jwasham/coding-interview-university",
-      "url": "https://github.com/jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "language": null,
-      "languageColor": null,
-      "stars": 350373,
-      "forks": 83289,
-      "starsToday": 745,
+      "fullName": "golang/go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 134505,
+      "forks": 19085,
+      "starsToday": 30,
       "ai": {
-        "shortSummary": "[mock] A complete computer science study plan to become a software engineer.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 745 stars 増。"
+        "shortSummary": "[mock] The Go programming language",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 30 stars 増。"
       }
     },
     {
-      "fullName": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9236,
-      "forks": 1223,
-      "starsToday": 309,
+      "fullName": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 26599,
+      "forks": 3037,
+      "starsToday": 794,
       "ai": {
-        "shortSummary": "[mock] Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "shortSummary": "[mock] An Open Source implementation of Notebook LM with more flexibility and features",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 309 stars 増。"
+        "whyTrending": "[mock] 直近で 794 stars 増。"
+      }
+    },
+    {
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 219643,
+      "forks": 19542,
+      "starsToday": 700,
+      "ai": {
+        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 700 stars 増。"
+      }
+    },
+    {
+      "fullName": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 49325,
+      "forks": 10197,
+      "starsToday": 193,
+      "ai": {
+        "shortSummary": "[mock] AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 193 stars 増。"
+      }
+    },
+    {
+      "fullName": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 101850,
+      "forks": 12440,
+      "starsToday": 150,
+      "ai": {
+        "shortSummary": "[mock] Robust Speech Recognition via Large-Scale Weak Supervision",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 150 stars 増。"
+      }
+    },
+    {
+      "fullName": "vitejs/vite",
+      "url": "https://github.com/vitejs/vite",
+      "description": "Next generation frontend tooling. It's fast!",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 81178,
+      "forks": 8274,
+      "starsToday": 25,
+      "ai": {
+        "shortSummary": "[mock] Next generation frontend tooling. It's fast!",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 25 stars 増。"
+      }
+    },
+    {
+      "fullName": "microsoft/mxc",
+      "url": "https://github.com/microsoft/mxc",
+      "description": "Policy-driven, layered isolation and containment",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 572,
+      "forks": 24,
+      "starsToday": 64,
+      "ai": {
+        "shortSummary": "[mock] Policy-driven, layered isolation and containment",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 64 stars 増。"
+      }
+    },
+    {
+      "fullName": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 80954,
+      "forks": 10657,
+      "starsToday": 433,
+      "ai": {
+        "shortSummary": "[mock] Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDF",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 433 stars 増。"
+      }
+    },
+    {
+      "fullName": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 48467,
+      "forks": 5391,
+      "starsToday": 216,
+      "ai": {
+        "shortSummary": "[mock] Open-Source Frontier Voice AI",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 216 stars 増。"
       }
     }
   ]
