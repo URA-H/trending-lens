@@ -1,0 +1,13 @@
+{
+  "devCommand": "pnpm dev",
+  "baseUrl": "http://localhost:4321/trending-lens/",
+  "readyTimeoutMs": 60000,
+  "delayMs": 800,
+  "outputDir": "docs/screenshots",
+  "fullPage": true,
+  "routes": ["/"],
+  "viewports": [
+    { "name": "desktop", "width": 1440, "height": 900 },
+    { "name": "mobile", "width": 390, "height": 844, "deviceScaleFactor": 2 }
+  ]
+}
