@@ -41,11 +41,10 @@ Trending を眺めるけど内容を全部読む気力はない、というと�
 
 | 画面 | 説明 |
 |------|------|
-| ![Top](./docs/screenshots/top.png) | トップ（今日の Trending、カードで縦並び） |
-| ![Card](./docs/screenshots/card.png) | リポカード（AI 要約 + カテゴリ + 「なぜ trending」） |
-| ![Dark](./docs/screenshots/dark.png) | ダークモード（OS 設定追従） |
+| ![Desktop](./docs/screenshots/index-desktop.png) | デスクトップ（今日の Trending、カードで縦並び。ダークモードは OS 追従） |
+| ![Mobile](./docs/screenshots/index-mobile.png) | モバイル |
 
-*（撮影予定）*
+撮影は [routeshot](https://github.com/URA-H/routeshot) CLI で生成（設定は `routeshot.config.json`）。
 
 ---
 
