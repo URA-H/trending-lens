@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-07T00:01:58.523Z",
+  "fetchedAt": "2026-06-08T00:03:55.212Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,148 +10,58 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 28780,
-      "forks": 2438,
-      "starsToday": 439,
+      "stars": 30870,
+      "forks": 2589,
+      "starsToday": 1111,
       "ai": {
         "shortSummary": "[mock] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 439 stars 増。"
+        "whyTrending": "[mock] 直近で 1111 stars 増。"
       }
     },
     {
-      "fullName": "CopilotKit/CopilotKit",
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 33196,
-      "forks": 4238,
-      "starsToday": 631,
+      "fullName": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 88067,
+      "forks": 56597,
+      "starsToday": 65,
       "ai": {
-        "shortSummary": "[mock] The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+        "shortSummary": "[mock] Open Source Computer Vision Library",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 631 stars 増。"
+        "whyTrending": "[mock] 直近で 65 stars 増。"
       }
     },
     {
-      "fullName": "MemPalace/mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "fullName": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 36565,
+      "forks": 2642,
+      "starsToday": 1103,
+      "ai": {
+        "shortSummary": "[mock] Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1103 stars 増。"
+      }
+    },
+    {
+      "fullName": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 54268,
-      "forks": 7109,
-      "starsToday": 446,
+      "stars": 185895,
+      "forks": 31977,
+      "starsToday": 1112,
       "ai": {
-        "shortSummary": "[mock] The best-benchmarked open-source AI memory system. And it's free.",
+        "shortSummary": "[mock] The agent that grows with you",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 446 stars 増。"
-      }
-    },
-    {
-      "fullName": "danielmiessler/Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 14953,
-      "forks": 2122,
-      "starsToday": 70,
-      "ai": {
-        "shortSummary": "[mock] Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 70 stars 増。"
-      }
-    },
-    {
-      "fullName": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 1765,
-      "forks": 256,
-      "starsToday": 213,
-      "ai": {
-        "shortSummary": "[mock] OpenAI Plugins",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 213 stars 増。"
-      }
-    },
-    {
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 22304,
-      "forks": 1907,
-      "starsToday": 683,
-      "ai": {
-        "shortSummary": "[mock] Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero AP",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 683 stars 増。"
-      }
-    },
-    {
-      "fullName": "sveltejs/svelte",
-      "url": "https://github.com/sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 86981,
-      "forks": 4937,
-      "starsToday": 25,
-      "ai": {
-        "shortSummary": "[mock] web development for the rest of us",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 25 stars 増。"
-      }
-    },
-    {
-      "fullName": "nginx/nginx",
-      "url": "https://github.com/nginx/nginx",
-      "description": "The official NGINX Open Source repository.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 30686,
-      "forks": 7956,
-      "starsToday": 20,
-      "ai": {
-        "shortSummary": "[mock] The official NGINX Open Source repository.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 20 stars 増。"
-      }
-    },
-    {
-      "fullName": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 35998,
-      "forks": 454,
-      "starsToday": 159,
-      "ai": {
-        "shortSummary": "[mock] Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 159 stars 増。"
-      }
-    },
-    {
-      "fullName": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 134505,
-      "forks": 19085,
-      "starsToday": 30,
-      "ai": {
-        "shortSummary": "[mock] The Go programming language",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 30 stars 増。"
+        "whyTrending": "[mock] 直近で 1112 stars 増。"
       }
     },
     {
@@ -160,118 +70,163 @@
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 26599,
-      "forks": 3037,
-      "starsToday": 794,
+      "stars": 27233,
+      "forks": 3096,
+      "starsToday": 554,
       "ai": {
         "shortSummary": "[mock] An Open Source implementation of Notebook LM with more flexibility and features",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 794 stars 増。"
+        "whyTrending": "[mock] 直近で 554 stars 増。"
       }
     },
     {
-      "fullName": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 219643,
-      "forks": 19542,
-      "starsToday": 700,
-      "ai": {
-        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 700 stars 増。"
-      }
-    },
-    {
-      "fullName": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 49325,
-      "forks": 10197,
-      "starsToday": 193,
-      "ai": {
-        "shortSummary": "[mock] AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 193 stars 増。"
-      }
-    },
-    {
-      "fullName": "openai/whisper",
-      "url": "https://github.com/openai/whisper",
-      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 101850,
-      "forks": 12440,
-      "starsToday": 150,
-      "ai": {
-        "shortSummary": "[mock] Robust Speech Recognition via Large-Scale Weak Supervision",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 150 stars 増。"
-      }
-    },
-    {
-      "fullName": "vitejs/vite",
-      "url": "https://github.com/vitejs/vite",
-      "description": "Next generation frontend tooling. It's fast!",
+      "fullName": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 81178,
-      "forks": 8274,
-      "starsToday": 25,
+      "stars": 18734,
+      "forks": 2907,
+      "starsToday": 183,
       "ai": {
-        "shortSummary": "[mock] Next generation frontend tooling. It's fast!",
+        "shortSummary": "[mock] Let's use AI to Earn!",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 25 stars 増。"
+        "whyTrending": "[mock] 直近で 183 stars 増。"
       }
     },
     {
-      "fullName": "microsoft/mxc",
-      "url": "https://github.com/microsoft/mxc",
-      "description": "Policy-driven, layered isolation and containment",
+      "fullName": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 572,
-      "forks": 24,
-      "starsToday": 64,
+      "stars": 47490,
+      "forks": 5009,
+      "starsToday": 322,
       "ai": {
-        "shortSummary": "[mock] Policy-driven, layered isolation and containment",
+        "shortSummary": "[mock] an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 64 stars 増。"
+        "whyTrending": "[mock] 直近で 322 stars 増。"
       }
     },
     {
-      "fullName": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 80954,
-      "forks": 10657,
-      "starsToday": 433,
+      "fullName": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 29711,
+      "forks": 2944,
+      "starsToday": 309,
       "ai": {
-        "shortSummary": "[mock] Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDF",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 433 stars 増。"
+        "shortSummary": "[mock] Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and emp",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 309 stars 増。"
       }
     },
     {
-      "fullName": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
+      "fullName": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 115312,
+      "forks": 19299,
+      "starsToday": 158,
+      "ai": {
+        "shortSummary": "[mock] LLM inference in C/C++",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 158 stars 増。"
+      }
+    },
+    {
+      "fullName": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 48467,
-      "forks": 5391,
-      "starsToday": 216,
+      "stars": 7125,
+      "forks": 695,
+      "starsToday": 1554,
       "ai": {
-        "shortSummary": "[mock] Open-Source Frontier Voice AI",
+        "shortSummary": "[mock] A vector index built on TurboQuant, written in Rust with Python bindings",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 216 stars 増。"
+        "whyTrending": "[mock] 直近で 1554 stars 増。"
+      }
+    },
+    {
+      "fullName": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "languageColor": "#ecdebe",
+      "stars": 72426,
+      "forks": 16238,
+      "starsToday": 350,
+      "ai": {
+        "shortSummary": "[mock] 所有小初高、大学PDF教材。",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 350 stars 増。"
+      }
+    },
+    {
+      "fullName": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 2022,
+      "forks": 271,
+      "starsToday": 262,
+      "ai": {
+        "shortSummary": "[mock] OpenAI Plugins",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 262 stars 増。"
+      }
+    },
+    {
+      "fullName": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 12853,
+      "forks": 907,
+      "starsToday": 245,
+      "ai": {
+        "shortSummary": "[mock] Desktop app to manage markdown knowledge bases",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 245 stars 増。"
+      }
+    },
+    {
+      "fullName": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 13721,
+      "forks": 1833,
+      "starsToday": 28,
+      "ai": {
+        "shortSummary": "[mock] Useful tool to track location or mobile number",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 28 stars 増。"
+      }
+    },
+    {
+      "fullName": "microsoft/pg_durable",
+      "url": "https://github.com/microsoft/pg_durable",
+      "description": "PostgreSQL in-database durable execution",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1446,
+      "forks": 32,
+      "starsToday": 316,
+      "ai": {
+        "shortSummary": "[mock] PostgreSQL in-database durable execution",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 316 stars 増。"
       }
     }
   ]
