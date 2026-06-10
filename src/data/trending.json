@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-09T00:02:56.986Z",
+  "fetchedAt": "2026-06-10T00:10:04.826Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,13 +10,13 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 34467,
-      "forks": 2819,
-      "starsToday": 3558,
+      "stars": 37275,
+      "forks": 3027,
+      "starsToday": 3191,
       "ai": {
         "shortSummary": "[mock] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 3558 stars 増。"
+        "whyTrending": "[mock] 直近で 3191 stars 増。"
       }
     },
     {
@@ -25,148 +25,13 @@
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8823,
-      "forks": 812,
-      "starsToday": 1729,
+      "stars": 10153,
+      "forks": 868,
+      "starsToday": 1801,
       "ai": {
         "shortSummary": "[mock] A vector index built on TurboQuant, written in Rust with Python bindings",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1729 stars 増。"
-      }
-    },
-    {
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 12379,
-      "forks": 967,
-      "starsToday": 461,
-      "ai": {
-        "shortSummary": "[mock] Agent Skills for Google products and technologies",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 461 stars 増。"
-      }
-    },
-    {
-      "fullName": "refactoringhq/tolaria",
-      "url": "https://github.com/refactoringhq/tolaria",
-      "description": "Desktop app to manage markdown knowledge bases",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 13558,
-      "forks": 951,
-      "starsToday": 651,
-      "ai": {
-        "shortSummary": "[mock] Desktop app to manage markdown knowledge bases",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 651 stars 増。"
-      }
-    },
-    {
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 24075,
-      "forks": 2030,
-      "starsToday": 679,
-      "ai": {
-        "shortSummary": "[mock] Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero AP",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 679 stars 増。"
-      }
-    },
-    {
-      "fullName": "danielmiessler/Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 15412,
-      "forks": 2159,
-      "starsToday": 62,
-      "ai": {
-        "shortSummary": "[mock] Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 62 stars 増。"
-      }
-    },
-    {
-      "fullName": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 50490,
-      "forks": 10333,
-      "starsToday": 308,
-      "ai": {
-        "shortSummary": "[mock] AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 308 stars 増。"
-      }
-    },
-    {
-      "fullName": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": null,
-      "languageColor": null,
-      "stars": 12641,
-      "forks": 1497,
-      "starsToday": 164,
-      "ai": {
-        "shortSummary": "[mock] PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 164 stars 増。"
-      }
-    },
-    {
-      "fullName": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 2312,
-      "forks": 289,
-      "starsToday": 296,
-      "ai": {
-        "shortSummary": "[mock] OpenAI Plugins",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 296 stars 増。"
-      }
-    },
-    {
-      "fullName": "Andyyyy64/whichllm",
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3435,
-      "forks": 202,
-      "starsToday": 143,
-      "ai": {
-        "shortSummary": "[mock] Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 143 stars 増。"
-      }
-    },
-    {
-      "fullName": "MemPalace/mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 54920,
-      "forks": 7159,
-      "starsToday": 170,
-      "ai": {
-        "shortSummary": "[mock] The best-benchmarked open-source AI memory system. And it's free.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 170 stars 増。"
+        "whyTrending": "[mock] 直近で 1801 stars 増。"
       }
     },
     {
@@ -175,58 +40,43 @@
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 42325,
-      "forks": 3782,
-      "starsToday": 1288,
+      "stars": 42966,
+      "forks": 3835,
+      "starsToday": 733,
       "ai": {
         "shortSummary": "[mock] We write your reusable computer vision tools. 💜",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1288 stars 増。"
+        "whyTrending": "[mock] 直近で 733 stars 増。"
       }
     },
     {
-      "fullName": "CopilotKit/CopilotKit",
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "fullName": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 88622,
+      "forks": 56622,
+      "starsToday": 102,
+      "ai": {
+        "shortSummary": "[mock] Open Source Computer Vision Library",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 102 stars 増。"
+      }
+    },
+    {
+      "fullName": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 34119,
-      "forks": 4304,
-      "starsToday": 378,
+      "stars": 14305,
+      "forks": 994,
+      "starsToday": 829,
       "ai": {
-        "shortSummary": "[mock] The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+        "shortSummary": "[mock] Desktop app to manage markdown knowledge bases",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 378 stars 増。"
-      }
-    },
-    {
-      "fullName": "TapXWorld/ChinaTextbook",
-      "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "description": "所有小初高、大学PDF教材。",
-      "language": "Roff",
-      "languageColor": "#ecdebe",
-      "stars": 72962,
-      "forks": 16332,
-      "starsToday": 592,
-      "ai": {
-        "shortSummary": "[mock] 所有小初高、大学PDF教材。",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 592 stars 増。"
-      }
-    },
-    {
-      "fullName": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 35757,
-      "forks": 4347,
-      "starsToday": 312,
-      "ai": {
-        "shortSummary": "[mock] A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 312 stars 増。"
+        "whyTrending": "[mock] 直近で 829 stars 増。"
       }
     },
     {
@@ -235,13 +85,163 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 48092,
-      "forks": 5063,
-      "starsToday": 699,
+      "stars": 48490,
+      "forks": 5094,
+      "starsToday": 489,
       "ai": {
         "shortSummary": "[mock] an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 699 stars 増。"
+        "whyTrending": "[mock] 直近で 489 stars 増。"
+      }
+    },
+    {
+      "fullName": "Andyyyy64/whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4074,
+      "forks": 226,
+      "starsToday": 633,
+      "ai": {
+        "shortSummary": "[mock] Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 633 stars 増。"
+      }
+    },
+    {
+      "fullName": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "languageColor": "#ecdebe",
+      "stars": 73455,
+      "forks": 16445,
+      "starsToday": 519,
+      "ai": {
+        "shortSummary": "[mock] 所有小初高、大学PDF教材。",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 519 stars 増。"
+      }
+    },
+    {
+      "fullName": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": null,
+      "languageColor": null,
+      "stars": 139138,
+      "forks": 34559,
+      "starsToday": 79,
+      "ai": {
+        "shortSummary": "[mock] FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Pe",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 79 stars 増。"
+      }
+    },
+    {
+      "fullName": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 19902,
+      "forks": 3017,
+      "starsToday": 402,
+      "ai": {
+        "shortSummary": "[mock] Let's use AI to Earn!",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 402 stars 増。"
+      }
+    },
+    {
+      "fullName": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": null,
+      "languageColor": null,
+      "stars": 13410,
+      "forks": 1538,
+      "starsToday": 806,
+      "ai": {
+        "shortSummary": "[mock] PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 806 stars 増。"
+      }
+    },
+    {
+      "fullName": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 51627,
+      "forks": 10415,
+      "starsToday": 1110,
+      "ai": {
+        "shortSummary": "[mock] AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 1110 stars 増。"
+      }
+    },
+    {
+      "fullName": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 2595,
+      "forks": 305,
+      "starsToday": 284,
+      "ai": {
+        "shortSummary": "[mock] OpenAI Plugins",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 284 stars 増。"
+      }
+    },
+    {
+      "fullName": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1845,
+      "forks": 214,
+      "starsToday": 191,
+      "ai": {
+        "shortSummary": "[mock] open-source healthcare ai",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 191 stars 増。"
+      }
+    },
+    {
+      "fullName": "francescopace/espectre",
+      "url": "https://github.com/francescopace/espectre",
+      "description": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 8196,
+      "forks": 632,
+      "starsToday": 134,
+      "ai": {
+        "shortSummary": "[mock] 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 134 stars 増。"
+      }
+    },
+    {
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 49809,
+      "forks": 5565,
+      "starsToday": 443,
+      "ai": {
+        "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 443 stars 増。"
       }
     }
   ]
