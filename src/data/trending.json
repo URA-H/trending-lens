@@ -1,142 +1,37 @@
 {
-  "fetchedAt": "2026-06-11T00:12:46.123Z",
+  "fetchedAt": "2026-06-12T00:17:09.257Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
+    {
+      "fullName": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 32358,
+      "forks": 906,
+      "starsToday": 2430,
+      "ai": {
+        "shortSummary": "[mock] A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Appl",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 2430 stars 増。"
+      }
+    },
     {
       "fullName": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 51729,
-      "forks": 5701,
-      "starsToday": 821,
+      "stars": 54670,
+      "forks": 5945,
+      "starsToday": 3278,
       "ai": {
         "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 821 stars 増。"
-      }
-    },
-    {
-      "fullName": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": null,
-      "languageColor": null,
-      "stars": 14824,
-      "forks": 1617,
-      "starsToday": 804,
-      "ai": {
-        "shortSummary": "[mock] PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 804 stars 増。"
-      }
-    },
-    {
-      "fullName": "refactoringhq/tolaria",
-      "url": "https://github.com/refactoringhq/tolaria",
-      "description": "Desktop app to manage markdown knowledge bases",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 14892,
-      "forks": 1028,
-      "starsToday": 612,
-      "ai": {
-        "shortSummary": "[mock] Desktop app to manage markdown knowledge bases",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 612 stars 増。"
-      }
-    },
-    {
-      "fullName": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 39050,
-      "forks": 3154,
-      "starsToday": 2535,
-      "ai": {
-        "shortSummary": "[mock] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2535 stars 増。"
-      }
-    },
-    {
-      "fullName": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 31994,
-      "forks": 2339,
-      "starsToday": 318,
-      "ai": {
-        "shortSummary": "[mock] 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 318 stars 増。"
-      }
-    },
-    {
-      "fullName": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "language": null,
-      "languageColor": null,
-      "stars": 139505,
-      "forks": 34590,
-      "starsToday": 393,
-      "ai": {
-        "shortSummary": "[mock] FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Pe",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 393 stars 増。"
-      }
-    },
-    {
-      "fullName": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 223576,
-      "forks": 19875,
-      "starsToday": 1104,
-      "ai": {
-        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1104 stars 増。"
-      }
-    },
-    {
-      "fullName": "masterking32/MasterDnsVPN",
-      "url": "https://github.com/masterking32/MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5199,
-      "forks": 502,
-      "starsToday": 354,
-      "ai": {
-        "shortSummary": "[mock] Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 354 stars 増。"
-      }
-    },
-    {
-      "fullName": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 84993,
-      "forks": 12136,
-      "starsToday": 1389,
-      "ai": {
-        "shortSummary": "[mock] 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1389 stars 増。"
+        "whyTrending": "[mock] 直近で 3278 stars 増。"
       }
     },
     {
@@ -145,118 +40,253 @@
       "description": "open-source healthcare ai",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2276,
-      "forks": 243,
-      "starsToday": 527,
+      "stars": 2743,
+      "forks": 269,
+      "starsToday": 426,
       "ai": {
         "shortSummary": "[mock] open-source healthcare ai",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 527 stars 増。"
+        "whyTrending": "[mock] 直近で 426 stars 増。"
       }
     },
     {
-      "fullName": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "fullName": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": null,
+      "languageColor": null,
+      "stars": 16194,
+      "forks": 1684,
+      "starsToday": 1978,
+      "ai": {
+        "shortSummary": "[mock] PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1978 stars 増。"
+      }
+    },
+    {
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 36519,
-      "forks": 4411,
-      "starsToday": 211,
+      "stars": 2629,
+      "forks": 210,
+      "starsToday": 319,
       "ai": {
-        "shortSummary": "[mock] A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value",
+        "shortSummary": "[mock] Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 211 stars 増。"
+        "whyTrending": "[mock] 直近で 319 stars 増。"
       }
     },
     {
-      "fullName": "activeloopai/hivemind",
-      "url": "https://github.com/activeloopai/hivemind",
-      "description": "One brain for all your agents",
+      "fullName": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 32597,
+      "forks": 2386,
+      "starsToday": 661,
+      "ai": {
+        "shortSummary": "[mock] 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 661 stars 増。"
+      }
+    },
+    {
+      "fullName": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": null,
+      "languageColor": null,
+      "stars": 139864,
+      "forks": 34615,
+      "starsToday": 368,
+      "ai": {
+        "shortSummary": "[mock] FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Pe",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 368 stars 増。"
+      }
+    },
+    {
+      "fullName": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 822,
-      "forks": 49,
-      "starsToday": 64,
+      "stars": 15379,
+      "forks": 1061,
+      "starsToday": 604,
       "ai": {
-        "shortSummary": "[mock] One brain for all your agents",
+        "shortSummary": "[mock] Desktop app to manage markdown knowledge bases",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 64 stars 増。"
+        "whyTrending": "[mock] 直近で 604 stars 増。"
       }
     },
     {
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 72888,
-      "forks": 9727,
-      "starsToday": 420,
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 224797,
+      "forks": 19984,
+      "starsToday": 1322,
       "ai": {
-        "shortSummary": "[mock] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a sin",
+        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1322 stars 増。"
+      }
+    },
+    {
+      "fullName": "restic/restic",
+      "url": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 34150,
+      "forks": 1785,
+      "starsToday": 61,
+      "ai": {
+        "shortSummary": "[mock] Fast, secure, efficient backup program",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 420 stars 増。"
+        "whyTrending": "[mock] 直近で 61 stars 増。"
       }
     },
     {
-      "fullName": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 43558,
-      "forks": 3869,
-      "starsToday": 695,
+      "fullName": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 111537,
+      "forks": 18252,
+      "starsToday": 1599,
       "ai": {
-        "shortSummary": "[mock] We write your reusable computer vision tools. 💜",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 695 stars 増。"
-      }
-    },
-    {
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 13276,
-      "forks": 1007,
-      "starsToday": 211,
-      "ai": {
-        "shortSummary": "[mock] Agent Skills for Google products and technologies",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 211 stars 増。"
-      }
-    },
-    {
-      "fullName": "FareedKhan-dev/train-llm-from-scratch",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 5244,
-      "forks": 709,
-      "starsToday": 247,
-      "ai": {
-        "shortSummary": "[mock] A straightforward method for training your LLM, from downloading data to generating text.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 247 stars 増。"
-      }
-    },
-    {
-      "fullName": "apple/container",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 29737,
-      "forks": 829,
-      "starsToday": 1611,
-      "ai": {
-        "shortSummary": "[mock] A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Appl",
+        "shortSummary": "[mock] A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each ",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1611 stars 増。"
+        "whyTrending": "[mock] 直近で 1599 stars 増。"
+      }
+    },
+    {
+      "fullName": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5684,
+      "forks": 518,
+      "starsToday": 507,
+      "ai": {
+        "shortSummary": "[mock] Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 507 stars 増。"
+      }
+    },
+    {
+      "fullName": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 30349,
+      "forks": 7506,
+      "starsToday": 67,
+      "ai": {
+        "shortSummary": "[mock] Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 67 stars 増。"
+      }
+    },
+    {
+      "fullName": "kenn-io/agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1627,
+      "forks": 172,
+      "starsToday": 114,
+      "ai": {
+        "shortSummary": "[mock] Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x f",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 114 stars 増。"
+      }
+    },
+    {
+      "fullName": "alchaincyf/zhangxuefeng-skill",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "language": null,
+      "languageColor": null,
+      "stars": 7935,
+      "forks": 2413,
+      "starsToday": 89,
+      "ai": {
+        "shortSummary": "[mock] 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 89 stars 増。"
+      }
+    },
+    {
+      "fullName": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "languageColor": "#ecdebe",
+      "stars": 73918,
+      "forks": 16537,
+      "starsToday": 88,
+      "ai": {
+        "shortSummary": "[mock] 所有小初高、大学PDF教材。",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 88 stars 増。"
+      }
+    },
+    {
+      "fullName": "hexo-ai/sia",
+      "url": "https://github.com/hexo-ai/sia",
+      "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1287,
+      "forks": 158,
+      "starsToday": 199,
+      "ai": {
+        "shortSummary": "[mock] SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 199 stars 増。"
+      }
+    },
+    {
+      "fullName": "mattermost/mattermost",
+      "url": "https://github.com/mattermost/mattermost",
+      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 37306,
+      "forks": 8697,
+      "starsToday": 53,
+      "ai": {
+        "shortSummary": "[mock] Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 53 stars 増。"
+      }
+    },
+    {
+      "fullName": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 46749,
+      "forks": 8004,
+      "starsToday": 161,
+      "ai": {
+        "shortSummary": "[mock] 翻墙-科学上网",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 161 stars 増。"
       }
     }
   ]
