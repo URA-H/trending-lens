@@ -1,22 +1,37 @@
 {
-  "fetchedAt": "2026-06-16T00:28:10.028Z",
+  "fetchedAt": "2026-06-17T00:13:22.694Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
+      "fullName": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 122844,
-      "forks": 6594,
-      "starsToday": 2657,
+      "stars": 448544,
+      "forks": 45036,
+      "starsToday": 633,
       "ai": {
-        "shortSummary": "[mock] Collection of publicly available IPTV channels from all over the world",
+        "shortSummary": "[mock] freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2657 stars 増。"
+        "whyTrending": "[mock] 直近で 633 stars 増。"
+      }
+    },
+    {
+      "fullName": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 33964,
+      "forks": 1417,
+      "starsToday": 20,
+      "ai": {
+        "shortSummary": "[mock] Rust-based platform for the Web",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 20 stars 増。"
       }
     },
     {
@@ -25,28 +40,43 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 8226,
-      "forks": 946,
-      "starsToday": 33,
+      "stars": 8401,
+      "forks": 956,
+      "starsToday": 215,
       "ai": {
         "shortSummary": "[mock] A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 33 stars 増。"
+        "whyTrending": "[mock] 直近で 215 stars 増。"
       }
     },
     {
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 30116,
-      "forks": 2447,
-      "starsToday": 1100,
+      "fullName": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 124029,
+      "forks": 6691,
+      "starsToday": 1197,
       "ai": {
-        "shortSummary": "[mock] Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero AP",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1100 stars 増。"
+        "shortSummary": "[mock] Collection of publicly available IPTV channels from all over the world",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1197 stars 増。"
+      }
+    },
+    {
+      "fullName": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 94879,
+      "forks": 9451,
+      "starsToday": 56,
+      "ai": {
+        "shortSummary": "[mock] JavaScript API for Chrome and Firefox",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 56 stars 増。"
       }
     },
     {
@@ -55,8 +85,8 @@
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10623,
-      "forks": 3434,
+      "stars": 10843,
+      "forks": 3448,
       "starsToday": 228,
       "ai": {
         "shortSummary": "[mock] Meshery, the cloud native manager",
@@ -65,93 +95,18 @@
       }
     },
     {
-      "fullName": "chatwoot/chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 31671,
-      "forks": 7628,
-      "starsToday": 431,
-      "ai": {
-        "shortSummary": "[mock] Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 431 stars 増。"
-      }
-    },
-    {
-      "fullName": "krahets/hello-algo",
-      "url": "https://github.com/krahets/hello-algo",
-      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 126885,
-      "forks": 15135,
-      "starsToday": 71,
-      "ai": {
-        "shortSummary": "[mock] 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 71 stars 増。"
-      }
-    },
-    {
-      "fullName": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "fullName": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 447877,
-      "forks": 44989,
-      "starsToday": 736,
+      "stars": 50200,
+      "forks": 3426,
+      "starsToday": 13,
       "ai": {
-        "shortSummary": "[mock] freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "shortSummary": "[mock] Fast, easy and reliable testing for anything that runs in a browser.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 736 stars 増。"
-      }
-    },
-    {
-      "fullName": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 18141,
-      "forks": 1171,
-      "starsToday": 70,
-      "ai": {
-        "shortSummary": "[mock] Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full de",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 70 stars 増。"
-      }
-    },
-    {
-      "fullName": "jwasham/coding-interview-university",
-      "url": "https://github.com/jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "language": null,
-      "languageColor": null,
-      "stars": 352292,
-      "forks": 83563,
-      "starsToday": 364,
-      "ai": {
-        "shortSummary": "[mock] A complete computer science study plan to become a software engineer.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 364 stars 増。"
-      }
-    },
-    {
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 33067,
-      "forks": 5410,
-      "starsToday": 562,
-      "ai": {
-        "shortSummary": "[mock] Learn it. Build it. Ship it for others.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 562 stars 増。"
+        "whyTrending": "[mock] 直近で 13 stars 増。"
       }
     },
     {
@@ -160,118 +115,88 @@
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2381,
-      "forks": 444,
-      "starsToday": 225,
+      "stars": 2563,
+      "forks": 450,
+      "starsToday": 157,
       "ai": {
         "shortSummary": "[mock] Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 225 stars 増。"
+        "whyTrending": "[mock] 直近で 157 stars 増。"
       }
     },
     {
-      "fullName": "Free-TV/IPTV",
-      "url": "https://github.com/Free-TV/IPTV",
-      "description": "M3U Playlist for free TV channels",
+      "fullName": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7285,
+      "forks": 314,
+      "starsToday": 146,
+      "ai": {
+        "shortSummary": "[mock] Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of y",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 146 stars 増。"
+      }
+    },
+    {
+      "fullName": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17273,
-      "forks": 2562,
-      "starsToday": 361,
+      "stars": 30119,
+      "forks": 3406,
+      "starsToday": 408,
       "ai": {
-        "shortSummary": "[mock] M3U Playlist for free TV channels",
+        "shortSummary": "[mock] VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 361 stars 増。"
+        "whyTrending": "[mock] 直近で 408 stars 増。"
       }
     },
     {
-      "fullName": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "description": "Introduction to Autonomous Robots",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 3061,
-      "forks": 655,
-      "starsToday": 489,
+      "fullName": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10444,
+      "forks": 606,
+      "starsToday": 156,
       "ai": {
-        "shortSummary": "[mock] Introduction to Autonomous Robots",
+        "shortSummary": "[mock] A lightweight, lightning-fast, in-process vector database",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 489 stars 増。"
+        "whyTrending": "[mock] 直近で 156 stars 増。"
       }
     },
     {
-      "fullName": "Raphire/Win11Debloat",
-      "url": "https://github.com/Raphire/Win11Debloat",
-      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 48010,
-      "forks": 1936,
-      "starsToday": 112,
+      "fullName": "rmyndharis/OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 9074,
+      "forks": 1997,
+      "starsToday": 185,
       "ai": {
-        "shortSummary": "[mock] A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other ch",
+        "shortSummary": "[mock] Free, Open Source, Self-Hosted WhatsApp API Gateway",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 112 stars 増。"
+        "whyTrending": "[mock] 直近で 185 stars 増。"
       }
     },
     {
-      "fullName": "mikeroyal/Self-Hosting-Guide",
-      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
-      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 21015,
-      "forks": 1062,
-      "starsToday": 188,
+      "fullName": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9276,
+      "forks": 436,
+      "starsToday": 334,
       "ai": {
-        "shortSummary": "[mock] Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or yo",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 188 stars 増。"
-      }
-    },
-    {
-      "fullName": "itsfatduck/optimizerDuck",
-      "url": "https://github.com/itsfatduck/optimizerDuck",
-      "description": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
-      "language": "C#",
-      "languageColor": "#178600",
-      "stars": 3677,
-      "forks": 159,
-      "starsToday": 340,
-      "ai": {
-        "shortSummary": "[mock] Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 340 stars 増。"
-      }
-    },
-    {
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 6333,
-      "forks": 463,
-      "starsToday": 1079,
-      "ai": {
-        "shortSummary": "[mock] Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1079 stars 増。"
-      }
-    },
-    {
-      "fullName": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 30270,
-      "forks": 5192,
-      "starsToday": 396,
-      "ai": {
-        "shortSummary": "[mock] Kronos: A Foundation Model for the Language of Financial Markets",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 396 stars 増。"
+        "shortSummary": "[mock] IP addresses break, dial keys instead. Modular networking stack in Rust.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 334 stars 増。"
       }
     }
   ]
