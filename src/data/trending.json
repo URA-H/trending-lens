@@ -1,187 +1,22 @@
 {
-  "fetchedAt": "2026-06-17T00:13:22.694Z",
+  "fetchedAt": "2026-06-18T00:14:10.562Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 448544,
-      "forks": 45036,
-      "starsToday": 633,
+      "fullName": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5231,
+      "forks": 484,
+      "starsToday": 371,
       "ai": {
-        "shortSummary": "[mock] freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "shortSummary": "[mock] High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 langu",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 633 stars 増。"
-      }
-    },
-    {
-      "fullName": "swc-project/swc",
-      "url": "https://github.com/swc-project/swc",
-      "description": "Rust-based platform for the Web",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 33964,
-      "forks": 1417,
-      "starsToday": 20,
-      "ai": {
-        "shortSummary": "[mock] Rust-based platform for the Web",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 20 stars 増。"
-      }
-    },
-    {
-      "fullName": "teslamate-org/teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 8401,
-      "forks": 956,
-      "starsToday": 215,
-      "ai": {
-        "shortSummary": "[mock] A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 215 stars 増。"
-      }
-    },
-    {
-      "fullName": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 124029,
-      "forks": 6691,
-      "starsToday": 1197,
-      "ai": {
-        "shortSummary": "[mock] Collection of publicly available IPTV channels from all over the world",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1197 stars 増。"
-      }
-    },
-    {
-      "fullName": "puppeteer/puppeteer",
-      "url": "https://github.com/puppeteer/puppeteer",
-      "description": "JavaScript API for Chrome and Firefox",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 94879,
-      "forks": 9451,
-      "starsToday": 56,
-      "ai": {
-        "shortSummary": "[mock] JavaScript API for Chrome and Firefox",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 56 stars 増。"
-      }
-    },
-    {
-      "fullName": "meshery/meshery",
-      "url": "https://github.com/meshery/meshery",
-      "description": "Meshery, the cloud native manager",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 10843,
-      "forks": 3448,
-      "starsToday": 228,
-      "ai": {
-        "shortSummary": "[mock] Meshery, the cloud native manager",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 228 stars 増。"
-      }
-    },
-    {
-      "fullName": "cypress-io/cypress",
-      "url": "https://github.com/cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 50200,
-      "forks": 3426,
-      "starsToday": 13,
-      "ai": {
-        "shortSummary": "[mock] Fast, easy and reliable testing for anything that runs in a browser.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 13 stars 増。"
-      }
-    },
-    {
-      "fullName": "music-assistant/server",
-      "url": "https://github.com/music-assistant/server",
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2563,
-      "forks": 450,
-      "starsToday": 157,
-      "ai": {
-        "shortSummary": "[mock] Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 157 stars 増。"
-      }
-    },
-    {
-      "fullName": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 7285,
-      "forks": 314,
-      "starsToday": 146,
-      "ai": {
-        "shortSummary": "[mock] Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of y",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 146 stars 増。"
-      }
-    },
-    {
-      "fullName": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 30119,
-      "forks": 3406,
-      "starsToday": 408,
-      "ai": {
-        "shortSummary": "[mock] VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 408 stars 増。"
-      }
-    },
-    {
-      "fullName": "alibaba/zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10444,
-      "forks": 606,
-      "starsToday": 156,
-      "ai": {
-        "shortSummary": "[mock] A lightweight, lightning-fast, in-process vector database",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 156 stars 増。"
-      }
-    },
-    {
-      "fullName": "rmyndharis/OpenWA",
-      "url": "https://github.com/rmyndharis/OpenWA",
-      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 9074,
-      "forks": 1997,
-      "starsToday": 185,
-      "ai": {
-        "shortSummary": "[mock] Free, Open Source, Self-Hosted WhatsApp API Gateway",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 185 stars 増。"
+        "whyTrending": "[mock] 直近で 371 stars 増。"
       }
     },
     {
@@ -190,13 +25,283 @@
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9276,
-      "forks": 436,
-      "starsToday": 334,
+      "stars": 9635,
+      "forks": 449,
+      "starsToday": 421,
       "ai": {
         "shortSummary": "[mock] IP addresses break, dial keys instead. Modular networking stack in Rust.",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 334 stars 増。"
+        "whyTrending": "[mock] 直近で 421 stars 増。"
+      }
+    },
+    {
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 33139,
+      "forks": 2668,
+      "starsToday": 1161,
+      "ai": {
+        "shortSummary": "[mock] Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero AP",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 1161 stars 増。"
+      }
+    },
+    {
+      "fullName": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 11014,
+      "forks": 3458,
+      "starsToday": 196,
+      "ai": {
+        "shortSummary": "[mock] Meshery, the cloud native manager",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 196 stars 増。"
+      }
+    },
+    {
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 231037,
+      "forks": 20542,
+      "starsToday": 1129,
+      "ai": {
+        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1129 stars 増。"
+      }
+    },
+    {
+      "fullName": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 21876,
+      "forks": 2129,
+      "starsToday": 606,
+      "ai": {
+        "shortSummary": "[mock] TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 606 stars 増。"
+      }
+    },
+    {
+      "fullName": "RocketChat/Rocket.Chat",
+      "url": "https://github.com/RocketChat/Rocket.Chat",
+      "description": "The Secure CommsOS™ for mission-critical operations",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 45571,
+      "forks": 13656,
+      "starsToday": 22,
+      "ai": {
+        "shortSummary": "[mock] The Secure CommsOS™ for mission-critical operations",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 22 stars 増。"
+      }
+    },
+    {
+      "fullName": "continuedev/continue",
+      "url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 33889,
+      "forks": 4696,
+      "starsToday": 49,
+      "ai": {
+        "shortSummary": "[mock] open-source coding agent",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 49 stars 増。"
+      }
+    },
+    {
+      "fullName": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 50076,
+      "forks": 3234,
+      "starsToday": 70,
+      "ai": {
+        "shortSummary": "[mock] Penpot: The open-source design tool for design and code collaboration",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 70 stars 増。"
+      }
+    },
+    {
+      "fullName": "krahets/hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 127432,
+      "forks": 15175,
+      "starsToday": 96,
+      "ai": {
+        "shortSummary": "[mock] 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 96 stars 増。"
+      }
+    },
+    {
+      "fullName": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7633,
+      "forks": 328,
+      "starsToday": 457,
+      "ai": {
+        "shortSummary": "[mock] Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of y",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 457 stars 増。"
+      }
+    },
+    {
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 133520,
+      "forks": 11600,
+      "starsToday": 1523,
+      "ai": {
+        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .claude directory.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1523 stars 増。"
+      }
+    },
+    {
+      "fullName": "yairm210/Unciv",
+      "url": "https://github.com/yairm210/Unciv",
+      "description": "Open-source Android/Desktop remake of Civ V",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 10650,
+      "forks": 1844,
+      "starsToday": 24,
+      "ai": {
+        "shortSummary": "[mock] Open-source Android/Desktop remake of Civ V",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 24 stars 増。"
+      }
+    },
+    {
+      "fullName": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 449127,
+      "forks": 45088,
+      "starsToday": 757,
+      "ai": {
+        "shortSummary": "[mock] freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 757 stars 増。"
+      }
+    },
+    {
+      "fullName": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 36686,
+      "forks": 3700,
+      "starsToday": 150,
+      "ai": {
+        "shortSummary": "[mock] The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 150 stars 増。"
+      }
+    },
+    {
+      "fullName": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 23800,
+      "forks": 3017,
+      "starsToday": 98,
+      "ai": {
+        "shortSummary": "[mock] Production-grade Rust-native trading engine with deterministic event-driven architecture",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 98 stars 増。"
+      }
+    },
+    {
+      "fullName": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 32361,
+      "forks": 7712,
+      "starsToday": 264,
+      "ai": {
+        "shortSummary": "[mock] Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 264 stars 増。"
+      }
+    },
+    {
+      "fullName": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5294,
+      "forks": 1005,
+      "starsToday": 98,
+      "ai": {
+        "shortSummary": "[mock] World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a ",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 98 stars 増。"
+      }
+    },
+    {
+      "fullName": "alexzhang13/rlm",
+      "url": "https://github.com/alexzhang13/rlm",
+      "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4914,
+      "forks": 822,
+      "starsToday": 43,
+      "ai": {
+        "shortSummary": "[mock] General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 43 stars 増。"
+      }
+    },
+    {
+      "fullName": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 51269,
+      "forks": 4561,
+      "starsToday": 89,
+      "ai": {
+        "shortSummary": "[mock] 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, do",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 89 stars 増。"
       }
     }
   ]
