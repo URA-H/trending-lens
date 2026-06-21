@@ -1,187 +1,22 @@
 {
-  "fetchedAt": "2026-06-20T00:06:27.655Z",
+  "fetchedAt": "2026-06-21T00:03:24.495Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
-    {
-      "fullName": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 8203,
-      "forks": 624,
-      "starsToday": 1058,
-      "ai": {
-        "shortSummary": "[mock] High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 langu",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1058 stars 増。"
-      }
-    },
-    {
-      "fullName": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 24076,
-      "forks": 2271,
-      "starsToday": 1510,
-      "ai": {
-        "shortSummary": "[mock] TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1510 stars 増。"
-      }
-    },
     {
       "fullName": "palmier-io/palmier-pro",
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1885,
-      "forks": 187,
-      "starsToday": 756,
+      "stars": 3318,
+      "forks": 276,
+      "starsToday": 902,
       "ai": {
         "shortSummary": "[mock] macOS video editor built for AI",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 756 stars 増。"
-      }
-    },
-    {
-      "fullName": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 57223,
-      "forks": 9135,
-      "starsToday": 156,
-      "ai": {
-        "shortSummary": "[mock] Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situ",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 156 stars 増。"
-      }
-    },
-    {
-      "fullName": "aishwaryanr/awesome-generative-ai-guide",
-      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 27609,
-      "forks": 5738,
-      "starsToday": 107,
-      "ai": {
-        "shortSummary": "[mock] A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 107 stars 増。"
-      }
-    },
-    {
-      "fullName": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agent-native applications.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 1035,
-      "forks": 117,
-      "starsToday": 147,
-      "ai": {
-        "shortSummary": "[mock] A framework for building agent-native applications.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 147 stars 増。"
-      }
-    },
-    {
-      "fullName": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 38638,
-      "forks": 2635,
-      "starsToday": 4005,
-      "ai": {
-        "shortSummary": "[mock] Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 4005 stars 増。"
-      }
-    },
-    {
-      "fullName": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 6270,
-      "forks": 1080,
-      "starsToday": 156,
-      "ai": {
-        "shortSummary": "[mock] World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a ",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 156 stars 増。"
-      }
-    },
-    {
-      "fullName": "zai-org/GLM-5",
-      "url": "https://github.com/zai-org/GLM-5",
-      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "language": null,
-      "languageColor": null,
-      "stars": 4574,
-      "forks": 461,
-      "starsToday": 480,
-      "ai": {
-        "shortSummary": "[mock] GLM-5: From Vibe Coding to Agentic Engineering",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 480 stars 増。"
-      }
-    },
-    {
-      "fullName": "withastro/flue",
-      "url": "https://github.com/withastro/flue",
-      "description": "The sandbox agent framework.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5828,
-      "forks": 323,
-      "starsToday": 309,
-      "ai": {
-        "shortSummary": "[mock] The sandbox agent framework.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 309 stars 増。"
-      }
-    },
-    {
-      "fullName": "n0-computer/iroh",
-      "url": "https://github.com/n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 10246,
-      "forks": 466,
-      "starsToday": 302,
-      "ai": {
-        "shortSummary": "[mock] IP addresses break, dial keys instead. Modular networking stack in Rust.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 302 stars 増。"
-      }
-    },
-    {
-      "fullName": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 233326,
-      "forks": 20723,
-      "starsToday": 1110,
-      "ai": {
-        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1110 stars 増。"
+        "whyTrending": "[mock] 直近で 902 stars 増。"
       }
     },
     {
@@ -190,13 +25,88 @@
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 50579,
-      "forks": 3268,
-      "starsToday": 85,
+      "stars": 51397,
+      "forks": 3299,
+      "starsToday": 420,
       "ai": {
         "shortSummary": "[mock] Penpot: The open-source design tool for design and code collaboration",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 85 stars 増。"
+        "whyTrending": "[mock] 直近で 420 stars 増。"
+      }
+    },
+    {
+      "fullName": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 7041,
+      "forks": 1147,
+      "starsToday": 677,
+      "ai": {
+        "shortSummary": "[mock] World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a ",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 677 stars 増。"
+      }
+    },
+    {
+      "fullName": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 20319,
+      "forks": 1042,
+      "starsToday": 801,
+      "ai": {
+        "shortSummary": "[mock] Turso is an in-process SQL database, compatible with SQLite.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 801 stars 増。"
+      }
+    },
+    {
+      "fullName": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 9324,
+      "forks": 706,
+      "starsToday": 1271,
+      "ai": {
+        "shortSummary": "[mock] High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 langu",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1271 stars 増。"
+      }
+    },
+    {
+      "fullName": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 24535,
+      "forks": 2326,
+      "starsToday": 433,
+      "ai": {
+        "shortSummary": "[mock] TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 433 stars 増。"
+      }
+    },
+    {
+      "fullName": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 50854,
+      "forks": 7412,
+      "starsToday": 140,
+      "ai": {
+        "shortSummary": "[mock] The open alternative to Salesforce, designed for AI.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 140 stars 増。"
       }
     },
     {
@@ -205,28 +115,148 @@
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 38968,
-      "forks": 2300,
-      "starsToday": 292,
+      "stars": 39320,
+      "forks": 2324,
+      "starsToday": 329,
       "ai": {
         "shortSummary": "[mock] The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 292 stars 増。"
+        "whyTrending": "[mock] 直近で 329 stars 増。"
       }
     },
     {
-      "fullName": "Lightricks/LTX-2",
-      "url": "https://github.com/Lightricks/LTX-2",
-      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "fullName": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 54696,
+      "forks": 10871,
+      "starsToday": 2546,
+      "ai": {
+        "shortSummary": "[mock] 🤱🏻 Turn any webpage into a desktop app with one command.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 2546 stars 増。"
+      }
+    },
+    {
+      "fullName": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7666,
-      "forks": 1220,
-      "starsToday": 196,
+      "stars": 41820,
+      "forks": 2871,
+      "starsToday": 3795,
       "ai": {
-        "shortSummary": "[mock] Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+        "shortSummary": "[mock] Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 196 stars 増。"
+        "whyTrending": "[mock] 直近で 3795 stars 増。"
+      }
+    },
+    {
+      "fullName": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 31007,
+      "forks": 3834,
+      "starsToday": 145,
+      "ai": {
+        "shortSummary": "[mock] The open-source AI voice studio. Clone, dictate, create.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 145 stars 増。"
+      }
+    },
+    {
+      "fullName": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 23341,
+      "forks": 2742,
+      "starsToday": 513,
+      "ai": {
+        "shortSummary": "[mock] Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 513 stars 増。"
+      }
+    },
+    {
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 138190,
+      "forks": 11991,
+      "starsToday": 1395,
+      "ai": {
+        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .claude directory.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1395 stars 増。"
+      }
+    },
+    {
+      "fullName": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 6089,
+      "forks": 344,
+      "starsToday": 316,
+      "ai": {
+        "shortSummary": "[mock] The sandbox agent framework.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 316 stars 増。"
+      }
+    },
+    {
+      "fullName": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "language": null,
+      "languageColor": null,
+      "stars": 14772,
+      "forks": 2354,
+      "starsToday": 48,
+      "ai": {
+        "shortSummary": "[mock] A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 48 stars 増。"
+      }
+    },
+    {
+      "fullName": "pppscn/SmsForwarder",
+      "url": "https://github.com/pppscn/SmsForwarder",
+      "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 26486,
+      "forks": 3273,
+      "starsToday": 104,
+      "ai": {
+        "shortSummary": "[mock] 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 104 stars 増。"
+      }
+    },
+    {
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7391,
+      "forks": 827,
+      "starsToday": 87,
+      "ai": {
+        "shortSummary": "[mock] Coding Agent Harness",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 87 stars 増。"
       }
     }
   ]
