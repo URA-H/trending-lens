@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-23T00:02:36.508Z",
+  "fetchedAt": "2026-06-23T23:53:42.219Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,163 +10,13 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11952,
-      "forks": 1542,
-      "starsToday": 2938,
+      "stars": 15553,
+      "forks": 1848,
+      "starsToday": 3590,
       "ai": {
         "shortSummary": "[mock] World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a ",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2938 stars 増。"
-      }
-    },
-    {
-      "fullName": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 7311,
-      "forks": 503,
-      "starsToday": 2463,
-      "ai": {
-        "shortSummary": "[mock] macOS video editor built for AI",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2463 stars 増。"
-      }
-    },
-    {
-      "fullName": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 32207,
-      "forks": 3930,
-      "starsToday": 529,
-      "ai": {
-        "shortSummary": "[mock] The open-source AI voice studio. Clone, dictate, create.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 529 stars 増。"
-      }
-    },
-    {
-      "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 18660,
-      "forks": 2209,
-      "starsToday": 956,
-      "ai": {
-        "shortSummary": "[mock] 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & M",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 956 stars 増。"
-      }
-    },
-    {
-      "fullName": "penpot/penpot",
-      "url": "https://github.com/penpot/penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 52852,
-      "forks": 3385,
-      "starsToday": 728,
-      "ai": {
-        "shortSummary": "[mock] Penpot: The open-source design tool for design and code collaboration",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 728 stars 増。"
-      }
-    },
-    {
-      "fullName": "Stirling-Tools/Stirling-PDF",
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 82876,
-      "forks": 7238,
-      "starsToday": 547,
-      "ai": {
-        "shortSummary": "[mock] #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 547 stars 増。"
-      }
-    },
-    {
-      "fullName": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 113125,
-      "forks": 16795,
-      "starsToday": 573,
-      "ai": {
-        "shortSummary": "[mock] Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and Q",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 573 stars 増。"
-      }
-    },
-    {
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 29964,
-      "forks": 2821,
-      "starsToday": 395,
-      "ai": {
-        "shortSummary": "[mock] Write HTML. Render video. Built for agents.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 395 stars 増。"
-      }
-    },
-    {
-      "fullName": "tursodatabase/turso",
-      "url": "https://github.com/tursodatabase/turso",
-      "description": "Turso is an in-process SQL database, compatible with SQLite.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 21460,
-      "forks": 1085,
-      "starsToday": 540,
-      "ai": {
-        "shortSummary": "[mock] Turso is an in-process SQL database, compatible with SQLite.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 540 stars 増。"
-      }
-    },
-    {
-      "fullName": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 73224,
-      "forks": 9895,
-      "starsToday": 738,
-      "ai": {
-        "shortSummary": "[mock] An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, suba",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 738 stars 増。"
-      }
-    },
-    {
-      "fullName": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 11512,
-      "forks": 853,
-      "starsToday": 1185,
-      "ai": {
-        "shortSummary": "[mock] High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 langu",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1185 stars 増。"
+        "whyTrending": "[mock] 直近で 3590 stars 増。"
       }
     },
     {
@@ -175,28 +25,148 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 45786,
-      "forks": 41905,
-      "starsToday": 1557,
+      "stars": 47000,
+      "forks": 42367,
+      "starsToday": 1121,
       "ai": {
         "shortSummary": "[mock] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1557 stars 増。"
+        "whyTrending": "[mock] 直近で 1121 stars 増。"
       }
     },
     {
-      "fullName": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 19652,
+      "forks": 2286,
+      "starsToday": 1040,
+      "ai": {
+        "shortSummary": "[mock] 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & M",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 1040 stars 増。"
+      }
+    },
+    {
+      "fullName": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 137247,
-      "forks": 7962,
-      "starsToday": 615,
+      "stars": 114038,
+      "forks": 16883,
+      "starsToday": 1012,
       "ai": {
-        "shortSummary": "[mock] The API to search, scrape, and interact with the web at scale. 🔥",
+        "shortSummary": "[mock] Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and Q",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 615 stars 増。"
+        "whyTrending": "[mock] 直近で 1012 stars 増。"
+      }
+    },
+    {
+      "fullName": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 73882,
+      "forks": 9967,
+      "starsToday": 741,
+      "ai": {
+        "shortSummary": "[mock] An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, suba",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 741 stars 増。"
+      }
+    },
+    {
+      "fullName": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 59066,
+      "forks": 9282,
+      "starsToday": 279,
+      "ai": {
+        "shortSummary": "[mock] Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situ",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 279 stars 増。"
+      }
+    },
+    {
+      "fullName": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 8398,
+      "forks": 551,
+      "starsToday": 1631,
+      "ai": {
+        "shortSummary": "[mock] macOS video editor built for AI",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1631 stars 増。"
+      }
+    },
+    {
+      "fullName": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 30827,
+      "forks": 3358,
+      "starsToday": 66,
+      "ai": {
+        "shortSummary": "[mock] Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 66 stars 増。"
+      }
+    },
+    {
+      "fullName": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 59414,
+      "forks": 5980,
+      "starsToday": 329,
+      "ai": {
+        "shortSummary": "[mock] from vibe coding to agentic engineering - practice makes claude perfect",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 329 stars 増。"
+      }
+    },
+    {
+      "fullName": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 7433,
+      "forks": 1045,
+      "starsToday": 123,
+      "ai": {
+        "shortSummary": "[mock] A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 123 stars 増。"
+      }
+    },
+    {
+      "fullName": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 33112,
+      "forks": 3995,
+      "starsToday": 1042,
+      "ai": {
+        "shortSummary": "[mock] The open-source AI voice studio. Clone, dictate, create.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1042 stars 増。"
       }
     },
     {
@@ -205,43 +175,73 @@
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 17705,
-      "forks": 2744,
-      "starsToday": 100,
+      "stars": 18526,
+      "forks": 2801,
+      "starsToday": 827,
       "ai": {
         "shortSummary": "[mock] Clone any website with one command using AI coding agents",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 100 stars 増。"
+        "whyTrending": "[mock] 直近で 827 stars 増。"
       }
     },
     {
-      "fullName": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 21037,
-      "forks": 2424,
-      "starsToday": 193,
+      "fullName": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": null,
+      "languageColor": null,
+      "stars": 54485,
+      "forks": 5584,
+      "starsToday": 151,
       "ai": {
-        "shortSummary": "[mock] AirLLM 70B inference with single 4GB GPU",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 193 stars 増。"
-      }
-    },
-    {
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 141594,
-      "forks": 12251,
-      "starsToday": 2051,
-      "ai": {
-        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .claude directory.",
+        "shortSummary": "[mock] An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2051 stars 増。"
+        "whyTrending": "[mock] 直近で 151 stars 増。"
+      }
+    },
+    {
+      "fullName": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12853,
+      "forks": 933,
+      "starsToday": 1299,
+      "ai": {
+        "shortSummary": "[mock] High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 langu",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1299 stars 増。"
+      }
+    },
+    {
+      "fullName": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 200903,
+      "forks": 35834,
+      "starsToday": 933,
+      "ai": {
+        "shortSummary": "[mock] The agent that grows with you",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 933 stars 増。"
+      }
+    },
+    {
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 220513,
+      "forks": 33780,
+      "starsToday": 582,
+      "ai": {
+        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 582 stars 増。"
       }
     }
   ]
