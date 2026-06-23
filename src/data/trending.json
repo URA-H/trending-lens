@@ -1,67 +1,67 @@
 {
-  "fetchedAt": "2026-06-22T00:08:33.400Z",
+  "fetchedAt": "2026-06-23T00:02:36.508Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
-    {
-      "fullName": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 5056,
-      "forks": 382,
-      "starsToday": 1834,
-      "ai": {
-        "shortSummary": "[mock] macOS video editor built for AI",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1834 stars 増。"
-      }
-    },
     {
       "fullName": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8652,
-      "forks": 1287,
-      "starsToday": 987,
+      "stars": 11952,
+      "forks": 1542,
+      "starsToday": 2938,
       "ai": {
         "shortSummary": "[mock] World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a ",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 987 stars 増。"
+        "whyTrending": "[mock] 直近で 2938 stars 増。"
       }
     },
     {
-      "fullName": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "fullName": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 7311,
+      "forks": 503,
+      "starsToday": 2463,
+      "ai": {
+        "shortSummary": "[mock] macOS video editor built for AI",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 2463 stars 増。"
+      }
+    },
+    {
+      "fullName": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 32207,
+      "forks": 3930,
+      "starsToday": 529,
+      "ai": {
+        "shortSummary": "[mock] The open-source AI voice studio. Clone, dictate, create.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 529 stars 増。"
+      }
+    },
+    {
+      "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 44283,
-      "forks": 3086,
-      "starsToday": 2624,
+      "stars": 18660,
+      "forks": 2209,
+      "starsToday": 956,
       "ai": {
-        "shortSummary": "[mock] Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "shortSummary": "[mock] 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & M",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2624 stars 増。"
-      }
-    },
-    {
-      "fullName": "tursodatabase/turso",
-      "url": "https://github.com/tursodatabase/turso",
-      "description": "Turso is an in-process SQL database, compatible with SQLite.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 20788,
-      "forks": 1062,
-      "starsToday": 548,
-      "ai": {
-        "shortSummary": "[mock] Turso is an in-process SQL database, compatible with SQLite.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 548 stars 増。"
+        "whyTrending": "[mock] 直近で 956 stars 増。"
       }
     },
     {
@@ -70,43 +70,73 @@
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 52208,
-      "forks": 3336,
-      "starsToday": 1135,
+      "stars": 52852,
+      "forks": 3385,
+      "starsToday": 728,
       "ai": {
         "shortSummary": "[mock] Penpot: The open-source design tool for design and code collaboration",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1135 stars 増。"
+        "whyTrending": "[mock] 直近で 728 stars 増。"
       }
     },
     {
-      "fullName": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 44399,
-      "forks": 41421,
-      "starsToday": 568,
-      "ai": {
-        "shortSummary": "[mock] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 568 stars 増。"
-      }
-    },
-    {
-      "fullName": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "fullName": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 58052,
-      "forks": 9205,
-      "starsToday": 163,
+      "stars": 82876,
+      "forks": 7238,
+      "starsToday": 547,
       "ai": {
-        "shortSummary": "[mock] Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situ",
+        "shortSummary": "[mock] #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 163 stars 増。"
+        "whyTrending": "[mock] 直近で 547 stars 増。"
+      }
+    },
+    {
+      "fullName": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 113125,
+      "forks": 16795,
+      "starsToday": 573,
+      "ai": {
+        "shortSummary": "[mock] Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and Q",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 573 stars 増。"
+      }
+    },
+    {
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 29964,
+      "forks": 2821,
+      "starsToday": 395,
+      "ai": {
+        "shortSummary": "[mock] Write HTML. Render video. Built for agents.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 395 stars 増。"
+      }
+    },
+    {
+      "fullName": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 21460,
+      "forks": 1085,
+      "starsToday": 540,
+      "ai": {
+        "shortSummary": "[mock] Turso is an in-process SQL database, compatible with SQLite.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 540 stars 増。"
       }
     },
     {
@@ -115,13 +145,13 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 72552,
-      "forks": 9827,
-      "starsToday": 442,
+      "stars": 73224,
+      "forks": 9895,
+      "starsToday": 738,
       "ai": {
         "shortSummary": "[mock] An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, suba",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 442 stars 増。"
+        "whyTrending": "[mock] 直近で 738 stars 増。"
       }
     },
     {
@@ -130,118 +160,73 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10231,
-      "forks": 774,
-      "starsToday": 1032,
+      "stars": 11512,
+      "forks": 853,
+      "starsToday": 1185,
       "ai": {
         "shortSummary": "[mock] High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 langu",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1032 stars 増。"
+        "whyTrending": "[mock] 直近で 1185 stars 増。"
       }
     },
     {
-      "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 17669,
-      "forks": 2126,
-      "starsToday": 361,
+      "stars": 45786,
+      "forks": 41905,
+      "starsToday": 1557,
       "ai": {
-        "shortSummary": "[mock] 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · ",
+        "shortSummary": "[mock] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 361 stars 増。"
+        "whyTrending": "[mock] 直近で 1557 stars 増。"
       }
     },
     {
-      "fullName": "tw93/Pake",
-      "url": "https://github.com/tw93/Pake",
-      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 56161,
-      "forks": 11088,
-      "starsToday": 1848,
+      "fullName": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 137247,
+      "forks": 7962,
+      "starsToday": 615,
       "ai": {
-        "shortSummary": "[mock] 🤱🏻 Turn any webpage into a desktop app with one command.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 1848 stars 増。"
-      }
-    },
-    {
-      "fullName": "mikumifa/biliTickerBuy",
-      "url": "https://github.com/mikumifa/biliTickerBuy",
-      "description": "b站会员购购票辅助工具",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3707,
-      "forks": 464,
-      "starsToday": 67,
-      "ai": {
-        "shortSummary": "[mock] b站会员购购票辅助工具",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 67 stars 増。"
-      }
-    },
-    {
-      "fullName": "smicallef/spiderfoot",
-      "url": "https://github.com/smicallef/spiderfoot",
-      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 18746,
-      "forks": 3106,
-      "starsToday": 294,
-      "ai": {
-        "shortSummary": "[mock] SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 294 stars 増。"
-      }
-    },
-    {
-      "fullName": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 18627,
-      "forks": 1968,
-      "starsToday": 347,
-      "ai": {
-        "shortSummary": "[mock] Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted ",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 347 stars 増。"
-      }
-    },
-    {
-      "fullName": "byoungd/English-level-up-tips",
-      "url": "https://github.com/byoungd/English-level-up-tips",
-      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-      "language": null,
-      "languageColor": null,
-      "stars": 53994,
-      "forks": 5554,
-      "starsToday": 125,
-      "ai": {
-        "shortSummary": "[mock] An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+        "shortSummary": "[mock] The API to search, scrape, and interact with the web at scale. 🔥",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 125 stars 増。"
+        "whyTrending": "[mock] 直近で 615 stars 増。"
       }
     },
     {
-      "fullName": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 44369,
-      "forks": 7330,
-      "starsToday": 282,
+      "fullName": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 17705,
+      "forks": 2744,
+      "starsToday": 100,
       "ai": {
-        "shortSummary": "[mock] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Insta",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 282 stars 増。"
+        "shortSummary": "[mock] Clone any website with one command using AI coding agents",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 100 stars 増。"
+      }
+    },
+    {
+      "fullName": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 21037,
+      "forks": 2424,
+      "starsToday": 193,
+      "ai": {
+        "shortSummary": "[mock] AirLLM 70B inference with single 4GB GPU",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 193 stars 増。"
       }
     },
     {
@@ -250,13 +235,13 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 139700,
-      "forks": 12122,
-      "starsToday": 1443,
+      "stars": 141594,
+      "forks": 12251,
+      "starsToday": 2051,
       "ai": {
         "shortSummary": "[mock] Skills for Real Engineers. Straight from my .claude directory.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1443 stars 増。"
+        "whyTrending": "[mock] 直近で 2051 stars 増。"
       }
     }
   ]
