@@ -1,37 +1,67 @@
 {
-  "fetchedAt": "2026-06-25T00:07:20.623Z",
+  "fetchedAt": "2026-06-26T00:06:23.666Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
+    {
+      "fullName": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 19139,
+      "forks": 1644,
+      "starsToday": 1475,
+      "ai": {
+        "shortSummary": "[mock] A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1475 stars 増。"
+      }
+    },
     {
       "fullName": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 19289,
-      "forks": 2196,
-      "starsToday": 3719,
+      "stars": 22023,
+      "forks": 2472,
+      "starsToday": 3434,
       "ai": {
         "shortSummary": "[mock] World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a ",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 3719 stars 増。"
+        "whyTrending": "[mock] 直近で 3434 stars 増。"
       }
     },
     {
-      "fullName": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "fullName": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 48458,
-      "forks": 42946,
-      "starsToday": 1468,
+      "stars": 1832,
+      "forks": 295,
+      "starsToday": 309,
       "ai": {
-        "shortSummary": "[mock] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne",
+        "shortSummary": "[mock] AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claud",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1468 stars 増。"
+        "whyTrending": "[mock] 直近で 309 stars 増。"
+      }
+    },
+    {
+      "fullName": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 6623,
+      "forks": 605,
+      "starsToday": 241,
+      "ai": {
+        "shortSummary": "[mock] A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 241 stars 増。"
       }
     },
     {
@@ -40,28 +70,13 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 42191,
-      "forks": 1238,
-      "starsToday": 1838,
+      "stars": 43193,
+      "forks": 1267,
+      "starsToday": 1351,
       "ai": {
         "shortSummary": "[mock] A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Appl",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1838 stars 増。"
-      }
-    },
-    {
-      "fullName": "interviewstreet/hiring-agent",
-      "url": "https://github.com/interviewstreet/hiring-agent",
-      "description": "AI agent to evaluate and score resumes.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2136,
-      "forks": 595,
-      "starsToday": 203,
-      "ai": {
-        "shortSummary": "[mock] AI agent to evaluate and score resumes.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 203 stars 増。"
+        "whyTrending": "[mock] 直近で 1351 stars 増。"
       }
     },
     {
@@ -70,133 +85,163 @@
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 19278,
-      "forks": 2879,
-      "starsToday": 692,
+      "stars": 20398,
+      "forks": 3005,
+      "starsToday": 1024,
       "ai": {
         "shortSummary": "[mock] Clone any website with one command using AI coding agents",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 692 stars 増。"
+        "whyTrending": "[mock] 直近で 1024 stars 増。"
       }
     },
     {
-      "fullName": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 7717,
-      "forks": 1054,
-      "starsToday": 277,
-      "ai": {
-        "shortSummary": "[mock] A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 277 stars 増。"
-      }
-    },
-    {
-      "fullName": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 177285,
-      "forks": 30544,
-      "starsToday": 73,
-      "ai": {
-        "shortSummary": "[mock] Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 73 stars 増。"
-      }
-    },
-    {
-      "fullName": "andreknieriem/headunit-revived",
-      "url": "https://github.com/andreknieriem/headunit-revived",
-      "description": "Headunit App for displaying Android Auto",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 1410,
-      "forks": 112,
-      "starsToday": 41,
-      "ai": {
-        "shortSummary": "[mock] Headunit App for displaying Android Auto",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 41 stars 増。"
-      }
-    },
-    {
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "fullName": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6756,
-      "forks": 490,
-      "starsToday": 331,
+      "stars": 2502,
+      "forks": 295,
+      "starsToday": 57,
       "ai": {
-        "shortSummary": "[mock] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobil",
+        "shortSummary": "[mock] Open source alternative to Semrush and Ahrefs",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 331 stars 増。"
+        "whyTrending": "[mock] 直近で 57 stars 増。"
       }
     },
     {
-      "fullName": "google-labs-code/design.md",
-      "url": "https://github.com/google-labs-code/design.md",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "fullName": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 17300,
-      "forks": 1567,
-      "starsToday": 619,
+      "stars": 115776,
+      "forks": 17167,
+      "starsToday": 767,
       "ai": {
-        "shortSummary": "[mock] A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a",
+        "shortSummary": "[mock] Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and Q",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 619 stars 増。"
+        "whyTrending": "[mock] 直近で 767 stars 増。"
       }
     },
     {
-      "fullName": "Flowseal/zapret-discord-youtube",
-      "url": "https://github.com/Flowseal/zapret-discord-youtube",
-      "description": null,
-      "language": "Batchfile",
-      "languageColor": "#C1F12E",
-      "stars": 30025,
-      "forks": 2341,
-      "starsToday": 61,
-      "ai": {
-        "shortSummary": "[mock] Flowseal/zapret-discord-youtube (no description)",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 61 stars 増。"
-      }
-    },
-    {
-      "fullName": "kunchenguid/no-mistakes",
-      "url": "https://github.com/kunchenguid/no-mistakes",
-      "description": "git push no-mistakes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2065,
-      "forks": 140,
-      "starsToday": 110,
-      "ai": {
-        "shortSummary": "[mock] git push no-mistakes",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 110 stars 増。"
-      }
-    },
-    {
-      "fullName": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "fullName": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 202028,
-      "forks": 36110,
-      "starsToday": 1178,
+      "stars": 1126,
+      "forks": 114,
+      "starsToday": 47,
       "ai": {
-        "shortSummary": "[mock] The agent that grows with you",
+        "shortSummary": "[mock] Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1178 stars 増。"
+        "whyTrending": "[mock] 直近で 47 stars 増。"
+      }
+    },
+    {
+      "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 21210,
+      "forks": 2445,
+      "starsToday": 571,
+      "ai": {
+        "shortSummary": "[mock] 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & M",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 571 stars 増。"
+      }
+    },
+    {
+      "fullName": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 19791,
+      "forks": 1705,
+      "starsToday": 163,
+      "ai": {
+        "shortSummary": "[mock] JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 163 stars 増。"
+      }
+    },
+    {
+      "fullName": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 34802,
+      "forks": 1992,
+      "starsToday": 223,
+      "ai": {
+        "shortSummary": "[mock] CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 223 stars 増。"
+      }
+    },
+    {
+      "fullName": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 69545,
+      "forks": 5883,
+      "starsToday": 644,
+      "ai": {
+        "shortSummary": "[mock] Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 644 stars 増。"
+      }
+    },
+    {
+      "fullName": "Free-TV/IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 18193,
+      "forks": 2677,
+      "starsToday": 139,
+      "ai": {
+        "shortSummary": "[mock] M3U Playlist for free TV channels",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 139 stars 増。"
+      }
+    },
+    {
+      "fullName": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 60507,
+      "forks": 6061,
+      "starsToday": 287,
+      "ai": {
+        "shortSummary": "[mock] from vibe coding to agentic engineering - practice makes claude perfect",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 287 stars 増。"
+      }
+    },
+    {
+      "fullName": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 52734,
+      "forks": 10920,
+      "starsToday": 398,
+      "ai": {
+        "shortSummary": "[mock] 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 398 stars 増。"
       }
     }
   ]
