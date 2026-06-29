@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-27T23:58:40.716Z",
+  "fetchedAt": "2026-06-29T00:05:08.857Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,58 +10,13 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 13809,
-      "forks": 792,
-      "starsToday": 1470,
+      "stars": 14966,
+      "forks": 865,
+      "starsToday": 1180,
       "ai": {
         "shortSummary": "[mock] SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1470 stars 増。"
-      }
-    },
-    {
-      "fullName": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 4087,
-      "forks": 576,
-      "starsToday": 686,
-      "ai": {
-        "shortSummary": "[mock] AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claud",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 686 stars 増。"
-      }
-    },
-    {
-      "fullName": "commaai/openpilot",
-      "url": "https://github.com/commaai/openpilot",
-      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 62064,
-      "forks": 11064,
-      "starsToday": 322,
-      "ai": {
-        "shortSummary": "[mock] openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 322 stars 増。"
-      }
-    },
-    {
-      "fullName": "IceWhaleTech/CasaOS",
-      "url": "https://github.com/IceWhaleTech/CasaOS",
-      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 35776,
-      "forks": 2043,
-      "starsToday": 502,
-      "ai": {
-        "shortSummary": "[mock] CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 502 stars 増。"
+        "whyTrending": "[mock] 直近で 1180 stars 増。"
       }
     },
     {
@@ -70,193 +25,118 @@
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 124161,
-      "forks": 13082,
-      "starsToday": 459,
+      "stars": 125184,
+      "forks": 13165,
+      "starsToday": 495,
       "ai": {
         "shortSummary": "[mock] A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 459 stars 増。"
+        "whyTrending": "[mock] 直近で 495 stars 増。"
       }
     },
     {
-      "fullName": "google-labs-code/design.md",
-      "url": "https://github.com/google-labs-code/design.md",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 22317,
-      "forks": 1782,
-      "starsToday": 1542,
+      "fullName": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 62370,
+      "forks": 11092,
+      "starsToday": 266,
       "ai": {
-        "shortSummary": "[mock] A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1542 stars 増。"
+        "shortSummary": "[mock] openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 266 stars 増。"
       }
     },
     {
-      "fullName": "microsoft/PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "fullName": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5257,
+      "forks": 717,
+      "starsToday": 1445,
+      "ai": {
+        "shortSummary": "[mock] AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built ",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 1445 stars 増。"
+      }
+    },
+    {
+      "fullName": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 8209,
+      "forks": 801,
+      "starsToday": 372,
+      "ai": {
+        "shortSummary": "[mock] A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 372 stars 増。"
+      }
+    },
+    {
+      "fullName": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 135698,
-      "forks": 8168,
-      "starsToday": 146,
+      "stars": 19589,
+      "forks": 1422,
+      "starsToday": 2190,
       "ai": {
-        "shortSummary": "[mock] Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "shortSummary": "[mock] High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 langu",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 146 stars 増。"
+        "whyTrending": "[mock] 直近で 2190 stars 増。"
       }
     },
     {
-      "fullName": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "fullName": "cupy/cupy",
+      "url": "https://github.com/cupy/cupy",
+      "description": "NumPy & SciPy for GPU",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 33053,
-      "forks": 2814,
-      "starsToday": 589,
+      "stars": 11504,
+      "forks": 1069,
+      "starsToday": 174,
       "ai": {
-        "shortSummary": "[mock] AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the op",
+        "shortSummary": "[mock] NumPy & SciPy for GPU",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 589 stars 増。"
+        "whyTrending": "[mock] 直近で 174 stars 増。"
       }
     },
     {
-      "fullName": "JCodesMore/ai-website-cloner-template",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "description": "Clone any website with one command using AI coding agents",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 22103,
-      "forks": 3169,
-      "starsToday": 750,
+      "fullName": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 3706,
+      "forks": 238,
+      "starsToday": 365,
       "ai": {
-        "shortSummary": "[mock] Clone any website with one command using AI coding agents",
+        "shortSummary": "[mock] FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 750 stars 増。"
+        "whyTrending": "[mock] 直近で 365 stars 増。"
       }
     },
     {
-      "fullName": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 117231,
-      "forks": 17417,
-      "starsToday": 674,
-      "ai": {
-        "shortSummary": "[mock] Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and Q",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 674 stars 増。"
-      }
-    },
-    {
-      "fullName": "NanmiCoder/MediaCrawler",
-      "url": "https://github.com/NanmiCoder/MediaCrawler",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "fullName": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 53763,
-      "forks": 11009,
-      "starsToday": 394,
+      "stars": 71558,
+      "forks": 6013,
+      "starsToday": 380,
       "ai": {
-        "shortSummary": "[mock] 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+        "shortSummary": "[mock] Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 394 stars 増。"
-      }
-    },
-    {
-      "fullName": "Anil-matcha/Open-Generative-AI",
-      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 21371,
-      "forks": 3640,
-      "starsToday": 254,
-      "ai": {
-        "shortSummary": "[mock] Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kli",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 254 stars 増。"
-      }
-    },
-    {
-      "fullName": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 23990,
-      "forks": 2254,
-      "starsToday": 808,
-      "ai": {
-        "shortSummary": "[mock] Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted ",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 808 stars 増。"
-      }
-    },
-    {
-      "fullName": "dbt-labs/dbt-core",
-      "url": "https://github.com/dbt-labs/dbt-core",
-      "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13214,
-      "forks": 2439,
-      "starsToday": 45,
-      "ai": {
-        "shortSummary": "[mock] dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 45 stars 増。"
-      }
-    },
-    {
-      "fullName": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 38614,
-      "forks": 4649,
-      "starsToday": 138,
-      "ai": {
-        "shortSummary": "[mock] A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 138 stars 増。"
-      }
-    },
-    {
-      "fullName": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 179736,
-      "forks": 22099,
-      "starsToday": 428,
-      "ai": {
-        "shortSummary": "[mock] The open source coding agent.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 428 stars 増。"
-      }
-    },
-    {
-      "fullName": "Fission-AI/OpenSpec",
-      "url": "https://github.com/Fission-AI/OpenSpec",
-      "description": "Spec-driven development (SDD) for AI coding assistants.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 57112,
-      "forks": 3984,
-      "starsToday": 167,
-      "ai": {
-        "shortSummary": "[mock] Spec-driven development (SDD) for AI coding assistants.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 167 stars 増。"
+        "whyTrending": "[mock] 直近で 380 stars 増。"
       }
     },
     {
@@ -265,43 +145,58 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13700,
-      "forks": 2588,
-      "starsToday": 83,
+      "stars": 14290,
+      "forks": 2629,
+      "starsToday": 492,
       "ai": {
         "shortSummary": "[mock] \"Vibe-Trading: Your Personal Trading Agent\"",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 83 stars 増。"
+        "whyTrending": "[mock] 直近で 492 stars 増。"
       }
     },
     {
-      "fullName": "keycloak/keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "description": "Open Source Identity and Access Management For Modern Applications and Services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 35261,
-      "forks": 8554,
-      "starsToday": 11,
+      "fullName": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "language": null,
+      "languageColor": null,
+      "stars": 84421,
+      "forks": 9347,
+      "starsToday": 250,
       "ai": {
-        "shortSummary": "[mock] Open Source Identity and Access Management For Modern Applications and Services",
+        "shortSummary": "[mock] Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 11 stars 増。"
+        "whyTrending": "[mock] 直近で 250 stars 増。"
       }
     },
     {
-      "fullName": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 3373,
-      "forks": 372,
-      "starsToday": 230,
+      "fullName": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 26703,
+      "forks": 2983,
+      "starsToday": 122,
       "ai": {
-        "shortSummary": "[mock] Open source alternative to Semrush and Ahrefs",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 230 stars 増。"
+        "shortSummary": "[mock] Open-source AI hackers to find and fix your app’s vulnerabilities.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 122 stars 増。"
+      }
+    },
+    {
+      "fullName": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 11020,
+      "forks": 1522,
+      "starsToday": 196,
+      "ai": {
+        "shortSummary": "[mock] Edit videos with coding agents",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 196 stars 増。"
       }
     }
   ]
