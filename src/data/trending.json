@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T00:05:08.857Z",
+  "fetchedAt": "2026-06-30T00:00:38.366Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,88 +10,28 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 14966,
-      "forks": 865,
-      "starsToday": 1180,
+      "stars": 16544,
+      "forks": 957,
+      "starsToday": 1607,
       "ai": {
         "shortSummary": "[mock] SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1180 stars 増。"
+        "whyTrending": "[mock] 直近で 1607 stars 増。"
       }
     },
     {
-      "fullName": "ripienaar/free-for-dev",
-      "url": "https://github.com/ripienaar/free-for-dev",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 125184,
-      "forks": 13165,
-      "starsToday": 495,
+      "fullName": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 118843,
+      "forks": 19465,
+      "starsToday": 1425,
       "ai": {
-        "shortSummary": "[mock] A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+        "shortSummary": "[mock] A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each ",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 495 stars 増。"
-      }
-    },
-    {
-      "fullName": "commaai/openpilot",
-      "url": "https://github.com/commaai/openpilot",
-      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 62370,
-      "forks": 11092,
-      "starsToday": 266,
-      "ai": {
-        "shortSummary": "[mock] openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 266 stars 増。"
-      }
-    },
-    {
-      "fullName": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 5257,
-      "forks": 717,
-      "starsToday": 1445,
-      "ai": {
-        "shortSummary": "[mock] AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built ",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1445 stars 増。"
-      }
-    },
-    {
-      "fullName": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 8209,
-      "forks": 801,
-      "starsToday": 372,
-      "ai": {
-        "shortSummary": "[mock] A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 372 stars 増。"
-      }
-    },
-    {
-      "fullName": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 19589,
-      "forks": 1422,
-      "starsToday": 2190,
-      "ai": {
-        "shortSummary": "[mock] High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 langu",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2190 stars 増。"
+        "whyTrending": "[mock] 直近で 1425 stars 増。"
       }
     },
     {
@@ -100,13 +40,13 @@
       "description": "NumPy & SciPy for GPU",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11504,
-      "forks": 1069,
-      "starsToday": 174,
+      "stars": 11812,
+      "forks": 1082,
+      "starsToday": 352,
       "ai": {
         "shortSummary": "[mock] NumPy & SciPy for GPU",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 174 stars 増。"
+        "whyTrending": "[mock] 直近で 352 stars 増。"
       }
     },
     {
@@ -115,73 +55,88 @@
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3706,
-      "forks": 238,
-      "starsToday": 365,
+      "stars": 4367,
+      "forks": 273,
+      "starsToday": 830,
       "ai": {
         "shortSummary": "[mock] FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 365 stars 増。"
+        "whyTrending": "[mock] 直近で 830 stars 増。"
       }
     },
     {
-      "fullName": "opendatalab/MinerU",
-      "url": "https://github.com/opendatalab/MinerU",
-      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "fullName": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 71558,
-      "forks": 6013,
-      "starsToday": 380,
+      "stars": 34352,
+      "forks": 2596,
+      "starsToday": 224,
       "ai": {
-        "shortSummary": "[mock] Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+        "shortSummary": "[mock] 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 380 stars 増。"
+        "whyTrending": "[mock] 直近で 224 stars 増。"
       }
     },
     {
-      "fullName": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "fullName": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14290,
-      "forks": 2629,
-      "starsToday": 492,
+      "stars": 62761,
+      "forks": 11111,
+      "starsToday": 458,
       "ai": {
-        "shortSummary": "[mock] \"Vibe-Trading: Your Personal Trading Agent\"",
+        "shortSummary": "[mock] openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 492 stars 増。"
+        "whyTrending": "[mock] 直近で 458 stars 増。"
       }
     },
     {
-      "fullName": "ByteByteGoHq/system-design-101",
-      "url": "https://github.com/ByteByteGoHq/system-design-101",
-      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
-      "language": null,
-      "languageColor": null,
-      "stars": 84421,
-      "forks": 9347,
-      "starsToday": 250,
+      "fullName": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 126701,
+      "forks": 13256,
+      "starsToday": 1935,
       "ai": {
-        "shortSummary": "[mock] Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+        "shortSummary": "[mock] A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 250 stars 増。"
+        "whyTrending": "[mock] 直近で 1935 stars 増。"
       }
     },
     {
-      "fullName": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "fullName": "logto-io/logto",
+      "url": "https://github.com/logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 12642,
+      "forks": 865,
+      "starsToday": 158,
+      "ai": {
+        "shortSummary": "[mock] 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 158 stars 増。"
+      }
+    },
+    {
+      "fullName": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 26703,
-      "forks": 2983,
-      "starsToday": 122,
+      "stars": 6588,
+      "forks": 865,
+      "starsToday": 1386,
       "ai": {
-        "shortSummary": "[mock] Open-source AI hackers to find and fix your app’s vulnerabilities.",
+        "shortSummary": "[mock] AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built ",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 122 stars 増。"
+        "whyTrending": "[mock] 直近で 1386 stars 増。"
       }
     },
     {
@@ -190,13 +145,88 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11020,
-      "forks": 1522,
-      "starsToday": 196,
+      "stars": 11921,
+      "forks": 1569,
+      "starsToday": 967,
       "ai": {
         "shortSummary": "[mock] Edit videos with coding agents",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 196 stars 増。"
+        "whyTrending": "[mock] 直近で 967 stars 増。"
+      }
+    },
+    {
+      "fullName": "Unclecheng-li/VulnClaw",
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1115,
+      "forks": 171,
+      "starsToday": 129,
+      "ai": {
+        "shortSummary": "[mock] 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 129 stars 増。"
+      }
+    },
+    {
+      "fullName": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1869,
+      "forks": 201,
+      "starsToday": 331,
+      "ai": {
+        "shortSummary": "[mock] 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured m",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 331 stars 増。"
+      }
+    },
+    {
+      "fullName": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 15072,
+      "forks": 2686,
+      "starsToday": 839,
+      "ai": {
+        "shortSummary": "[mock] \"Vibe-Trading: Your Personal Trading Agent\"",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 839 stars 増。"
+      }
+    },
+    {
+      "fullName": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 17498,
+      "forks": 1205,
+      "starsToday": 280,
+      "ai": {
+        "shortSummary": "[mock] Desktop app to manage markdown knowledge bases",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 280 stars 増。"
+      }
+    },
+    {
+      "fullName": "veracrypt/VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 10468,
+      "forks": 1231,
+      "starsToday": 186,
+      "ai": {
+        "shortSummary": "[mock] Disk encryption with strong security based on TrueCrypt",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 186 stars 増。"
       }
     }
   ]
