@@ -1,37 +1,22 @@
 {
-  "fetchedAt": "2026-07-07T00:04:39.490Z",
+  "fetchedAt": "2026-07-07T23:55:04.908Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 51477,
-      "forks": 8390,
-      "starsToday": 1378,
+      "fullName": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 10750,
+      "forks": 3633,
+      "starsToday": 2402,
       "ai": {
-        "shortSummary": "[mock] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Insta",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 1378 stars 増。"
-      }
-    },
-    {
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 70770,
-      "forks": 7671,
-      "starsToday": 1112,
-      "ai": {
-        "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
+        "shortSummary": "[mock] AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write co",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1112 stars 増。"
+        "whyTrending": "[mock] 直近で 2402 stars 増。"
       }
     },
     {
@@ -40,13 +25,28 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19321,
-      "forks": 1963,
-      "starsToday": 2494,
+      "stars": 20683,
+      "forks": 2074,
+      "starsToday": 1781,
       "ai": {
         "shortSummary": "[mock] Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built ",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 2494 stars 増。"
+        "whyTrending": "[mock] 直近で 1781 stars 増。"
+      }
+    },
+    {
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 72104,
+      "forks": 7811,
+      "starsToday": 1311,
+      "ai": {
+        "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 1311 stars 増。"
       }
     },
     {
@@ -55,133 +55,58 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 77493,
-      "forks": 10405,
-      "starsToday": 470,
+      "stars": 78478,
+      "forks": 10560,
+      "starsToday": 1122,
       "ai": {
         "shortSummary": "[mock] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a sin",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 470 stars 増。"
+        "whyTrending": "[mock] 直近で 1122 stars 増。"
       }
     },
     {
-      "fullName": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "fullName": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 58894,
-      "forks": 4012,
-      "starsToday": 1458,
+      "stars": 52953,
+      "forks": 8633,
+      "starsToday": 1704,
       "ai": {
-        "shortSummary": "[mock] Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "shortSummary": "[mock] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Insta",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 1458 stars 増。"
+        "whyTrending": "[mock] 直近で 1704 stars 増。"
       }
     },
     {
-      "fullName": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 21134,
-      "forks": 2840,
-      "starsToday": 610,
-      "ai": {
-        "shortSummary": "[mock] 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude C",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 610 stars 増。"
-      }
-    },
-    {
-      "fullName": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 26263,
-      "forks": 1573,
-      "starsToday": 906,
-      "ai": {
-        "shortSummary": "[mock] Use Codex from Claude Code to review code or delegate tasks.",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 906 stars 増。"
-      }
-    },
-    {
-      "fullName": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 49723,
-      "forks": 4145,
-      "starsToday": 458,
-      "ai": {
-        "shortSummary": "[mock] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 458 stars 増。"
-      }
-    },
-    {
-      "fullName": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
+      "fullName": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 12849,
-      "forks": 746,
-      "starsToday": 779,
+      "stars": 8442,
+      "forks": 710,
+      "starsToday": 665,
       "ai": {
-        "shortSummary": "[mock] agent multiplexer that lives in your terminal.",
+        "shortSummary": "[mock] Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 779 stars 増。"
+        "whyTrending": "[mock] 直近で 665 stars 増。"
       }
     },
     {
-      "fullName": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 4205,
-      "forks": 602,
-      "starsToday": 427,
+      "fullName": "AhmadIbrahiim/Website-downloader",
+      "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+      "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 3968,
+      "forks": 984,
+      "starsToday": 173,
       "ai": {
-        "shortSummary": "[mock] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 427 stars 増。"
-      }
-    },
-    {
-      "fullName": "karakeep-app/karakeep",
-      "url": "https://github.com/karakeep-app/karakeep",
-      "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 26874,
-      "forks": 1318,
-      "starsToday": 199,
-      "ai": {
-        "shortSummary": "[mock] A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+        "shortSummary": "[mock] 💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 199 stars 増。"
-      }
-    },
-    {
-      "fullName": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 146221,
-      "forks": 8411,
-      "starsToday": 867,
-      "ai": {
-        "shortSummary": "[mock] The API to search, scrape, and interact with the web at scale. 🔥",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 867 stars 増。"
+        "whyTrending": "[mock] 直近で 173 stars 増。"
       }
     },
     {
@@ -190,58 +115,88 @@
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 16721,
-      "forks": 1375,
-      "starsToday": 598,
+      "stars": 17024,
+      "forks": 1386,
+      "starsToday": 377,
       "ai": {
         "shortSummary": "[mock] Show usage stats for OpenAI Codex and Claude Code, without having to login.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 598 stars 増。"
+        "whyTrending": "[mock] 直近で 377 stars 増。"
       }
     },
     {
-      "fullName": "alibaba/zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 13492,
-      "forks": 823,
-      "starsToday": 382,
+      "fullName": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "languageColor": "#178600",
+      "stars": 4299,
+      "forks": 324,
+      "starsToday": 82,
       "ai": {
-        "shortSummary": "[mock] A lightweight, lightning-fast, in-process vector database",
+        "shortSummary": "[mock] Repository for skills to assist AI coding agents with .NET and C#",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 382 stars 増。"
+        "whyTrending": "[mock] 直近で 82 stars 増。"
       }
     },
     {
-      "fullName": "sindresorhus/awesome",
-      "url": "https://github.com/sindresorhus/awesome",
-      "description": "😎 Awesome lists about all kinds of interesting topics",
-      "language": null,
-      "languageColor": null,
-      "stars": 482273,
-      "forks": 35736,
-      "starsToday": 345,
+      "fullName": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "languageColor": "#178600",
+      "stars": 9889,
+      "forks": 675,
+      "starsToday": 802,
       "ai": {
-        "shortSummary": "[mock] 😎 Awesome lists about all kinds of interesting topics",
+        "shortSummary": "[mock] OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 345 stars 増。"
+        "whyTrending": "[mock] 直近で 802 stars 増。"
       }
     },
     {
-      "fullName": "gastownhall/gastown",
-      "url": "https://github.com/gastownhall/gastown",
-      "description": "Gas Town - multi-agent workspace manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 16681,
-      "forks": 1538,
-      "starsToday": 291,
+      "fullName": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5136,
+      "forks": 661,
+      "starsToday": 953,
       "ai": {
-        "shortSummary": "[mock] Gas Town - multi-agent workspace manager",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 291 stars 増。"
+        "shortSummary": "[mock] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 953 stars 増。"
+      }
+    },
+    {
+      "fullName": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 6141,
+      "forks": 641,
+      "starsToday": 510,
+      "ai": {
+        "shortSummary": "[mock] A TTS that fits in your CPU (and pocket)",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 510 stars 増。"
+      }
+    },
+    {
+      "fullName": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 49104,
+      "forks": 4279,
+      "starsToday": 227,
+      "ai": {
+        "shortSummary": "[mock] A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companion",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 227 stars 増。"
       }
     }
   ]
