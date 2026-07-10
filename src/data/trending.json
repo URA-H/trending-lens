@@ -1,97 +1,67 @@
 {
-  "fetchedAt": "2026-07-09T00:05:58.105Z",
+  "fetchedAt": "2026-07-10T00:01:10.075Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
+    {
+      "fullName": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 18913,
+      "forks": 5476,
+      "starsToday": 3716,
+      "ai": {
+        "shortSummary": "[mock] AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write co",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 3716 stars 増。"
+      }
+    },
+    {
+      "fullName": "SmartlyDressedGames/U3-SDK",
+      "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+      "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+      "language": "C#",
+      "languageColor": "#178600",
+      "stars": 1998,
+      "forks": 257,
+      "starsToday": 524,
+      "ai": {
+        "shortSummary": "[mock] Source code for Unturned, a free open-world zombie survival sandbox game.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 524 stars 増。"
+      }
+    },
     {
       "fullName": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 73994,
-      "forks": 7983,
-      "starsToday": 1297,
+      "stars": 75841,
+      "forks": 8157,
+      "starsToday": 2554,
       "ai": {
         "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 1297 stars 増。"
+        "whyTrending": "[mock] 直近で 2554 stars 増。"
       }
     },
     {
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 79123,
-      "forks": 10648,
-      "starsToday": 799,
+      "fullName": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "language": null,
+      "languageColor": null,
+      "stars": 99634,
+      "forks": 11573,
+      "starsToday": 1391,
       "ai": {
-        "shortSummary": "[mock] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a sin",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 799 stars 増。"
-      }
-    },
-    {
-      "fullName": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7616,
-      "forks": 706,
-      "starsToday": 318,
-      "ai": {
-        "shortSummary": "[mock] TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API depende",
+        "shortSummary": "[mock] A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matchi",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 318 stars 増。"
-      }
-    },
-    {
-      "fullName": "prisma/prisma",
-      "url": "https://github.com/prisma/prisma",
-      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 46540,
-      "forks": 2280,
-      "starsToday": 46,
-      "ai": {
-        "shortSummary": "[mock] Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 46 stars 増。"
-      }
-    },
-    {
-      "fullName": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 50727,
-      "forks": 4232,
-      "starsToday": 352,
-      "ai": {
-        "shortSummary": "[mock] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 352 stars 増。"
-      }
-    },
-    {
-      "fullName": "argoproj/argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 23424,
-      "forks": 7425,
-      "starsToday": 29,
-      "ai": {
-        "shortSummary": "[mock] Declarative Continuous Deployment for Kubernetes",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 29 stars 増。"
+        "whyTrending": "[mock] 直近で 1391 stars 増。"
       }
     },
     {
@@ -100,73 +70,13 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
       "languageColor": "#178600",
-      "stars": 11745,
-      "forks": 799,
-      "starsToday": 1717,
+      "stars": 13391,
+      "forks": 912,
+      "starsToday": 1929,
       "ai": {
         "shortSummary": "[mock] OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1717 stars 増。"
-      }
-    },
-    {
-      "fullName": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 54154,
-      "forks": 8822,
-      "starsToday": 1218,
-      "ai": {
-        "shortSummary": "[mock] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Insta",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 1218 stars 増。"
-      }
-    },
-    {
-      "fullName": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 249797,
-      "forks": 22163,
-      "starsToday": 1116,
-      "ai": {
-        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1116 stars 増。"
-      }
-    },
-    {
-      "fullName": "alibaba/zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 14383,
-      "forks": 887,
-      "starsToday": 395,
-      "ai": {
-        "shortSummary": "[mock] A lightweight, lightning-fast, in-process vector database",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 395 stars 増。"
-      }
-    },
-    {
-      "fullName": "Diolinux/PhotoGIMP",
-      "url": "https://github.com/Diolinux/PhotoGIMP",
-      "description": "A Patch for GIMP 3+ for Photoshop Users",
-      "language": "CSS",
-      "languageColor": "#663399",
-      "stars": 15019,
-      "forks": 594,
-      "starsToday": 1125,
-      "ai": {
-        "shortSummary": "[mock] A Patch for GIMP 3+ for Photoshop Users",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1125 stars 増。"
+        "whyTrending": "[mock] 直近で 1929 stars 増。"
       }
     },
     {
@@ -175,13 +85,73 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6370,
-      "forks": 748,
-      "starsToday": 28,
+      "stars": 6567,
+      "forks": 781,
+      "starsToday": 185,
       "ai": {
         "shortSummary": "[mock] This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 28 stars 増。"
+        "whyTrending": "[mock] 直近で 185 stars 増。"
+      }
+    },
+    {
+      "fullName": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 47138,
+      "forks": 5555,
+      "starsToday": 194,
+      "ai": {
+        "shortSummary": "[mock] A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 194 stars 増。"
+      }
+    },
+    {
+      "fullName": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19373,
+      "forks": 2621,
+      "starsToday": 535,
+      "ai": {
+        "shortSummary": "[mock] Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 535 stars 増。"
+      }
+    },
+    {
+      "fullName": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 71808,
+      "forks": 7376,
+      "starsToday": 215,
+      "ai": {
+        "shortSummary": "[mock] 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 215 stars 増。"
+      }
+    },
+    {
+      "fullName": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+      "description": "An evolving how-to guide for securing a Linux server.",
+      "language": null,
+      "languageColor": null,
+      "stars": 29066,
+      "forks": 1938,
+      "starsToday": 243,
+      "ai": {
+        "shortSummary": "[mock] An evolving how-to guide for securing a Linux server.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 243 stars 増。"
       }
     },
     {
@@ -190,13 +160,13 @@
       "description": "Automatic quad remeshing tool",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1991,
-      "forks": 152,
-      "starsToday": 296,
+      "stars": 2353,
+      "forks": 172,
+      "starsToday": 403,
       "ai": {
         "shortSummary": "[mock] Automatic quad remeshing tool",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 296 stars 増。"
+        "whyTrending": "[mock] 直近で 403 stars 増。"
       }
     },
     {
@@ -205,28 +175,58 @@
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6038,
-      "forks": 721,
-      "starsToday": 951,
+      "stars": 6678,
+      "forks": 767,
+      "starsToday": 718,
       "ai": {
         "shortSummary": "[mock] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 951 stars 増。"
+        "whyTrending": "[mock] 直近で 718 stars 増。"
       }
     },
     {
-      "fullName": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8915,
-      "forks": 737,
-      "starsToday": 564,
+      "fullName": "prisma/prisma",
+      "url": "https://github.com/prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 46891,
+      "forks": 2329,
+      "starsToday": 376,
       "ai": {
-        "shortSummary": "[mock] Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 564 stars 増。"
+        "shortSummary": "[mock] Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 376 stars 増。"
+      }
+    },
+    {
+      "fullName": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 6966,
+      "forks": 700,
+      "starsToday": 235,
+      "ai": {
+        "shortSummary": "[mock] A TTS that fits in your CPU (and pocket)",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 235 stars 増。"
+      }
+    },
+    {
+      "fullName": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 55135,
+      "forks": 9006,
+      "starsToday": 1125,
+      "ai": {
+        "shortSummary": "[mock] Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Insta",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 1125 stars 増。"
       }
     }
   ]
