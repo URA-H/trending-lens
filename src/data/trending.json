@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-07-15T23:56:03.508Z",
+  "fetchedAt": "2026-07-16T23:55:35.189Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 71597,
-      "forks": 7341,
-      "starsToday": 1505,
+      "fullName": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 885,
+      "forks": 133,
+      "starsToday": 81,
       "ai": {
-        "shortSummary": "[mock] The open-source CapCut alternative",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1505 stars 増。"
+        "shortSummary": "[mock] Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, pro",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 81 stars 増。"
       }
     },
     {
@@ -25,163 +25,73 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": 8405,
-      "forks": 436,
-      "starsToday": 1119,
+      "stars": 10836,
+      "forks": 534,
+      "starsToday": 3181,
       "ai": {
         "shortSummary": "[mock] Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1119 stars 増。"
+        "whyTrending": "[mock] 直近で 3181 stars 増。"
       }
     },
     {
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 172226,
-      "forks": 14787,
-      "starsToday": 2160,
-      "ai": {
-        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .claude directory.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2160 stars 増。"
-      }
-    },
-    {
-      "fullName": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "fullName": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 42481,
-      "forks": 4250,
-      "starsToday": 144,
+      "stars": 73970,
+      "forks": 7478,
+      "starsToday": 3290,
       "ai": {
-        "shortSummary": "[mock] 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve N",
+        "shortSummary": "[mock] The open-source CapCut alternative",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 144 stars 増。"
+        "whyTrending": "[mock] 直近で 3290 stars 増。"
       }
     },
     {
-      "fullName": "Dicklesworthstone/destructive_command_guard",
-      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4754,
-      "forks": 178,
-      "starsToday": 497,
-      "ai": {
-        "shortSummary": "[mock] The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 497 stars 増。"
-      }
-    },
-    {
-      "fullName": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "fullName": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23670,
-      "forks": 4032,
-      "starsToday": 924,
+      "stars": 35819,
+      "forks": 2987,
+      "starsToday": 146,
       "ai": {
-        "shortSummary": "[mock] \"Vibe-Trading: Your Personal Trading Agent\"",
+        "shortSummary": "[mock] 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, fl",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 924 stars 増。"
+        "whyTrending": "[mock] 直近で 146 stars 増。"
       }
     },
     {
       "fullName": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A coding agent for low-cost models",
+      "description": "A Codex-compatible coding agent for open models like Kimi K3",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 65460,
-      "forks": 5652,
-      "starsToday": 345,
+      "stars": 65965,
+      "forks": 5673,
+      "starsToday": 633,
       "ai": {
-        "shortSummary": "[mock] A coding agent for low-cost models",
+        "shortSummary": "[mock] A Codex-compatible coding agent for open models like Kimi K3",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 345 stars 増。"
+        "whyTrending": "[mock] 直近で 633 stars 増。"
       }
     },
     {
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 26236,
-      "forks": 3561,
-      "starsToday": 128,
+      "fullName": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1505,
+      "forks": 153,
+      "starsToday": 323,
       "ai": {
-        "shortSummary": "[mock] DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 128 stars 増。"
-      }
-    },
-    {
-      "fullName": "HenryNdubuaku/maths-cs-ai-compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "description": "Become a cracked AI/ML Research Engineer",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5872,
-      "forks": 740,
-      "starsToday": 729,
-      "ai": {
-        "shortSummary": "[mock] Become a cracked AI/ML Research Engineer",
+        "shortSummary": "[mock] Bonsai Demo",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 729 stars 増。"
-      }
-    },
-    {
-      "fullName": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 121872,
-      "forks": 17990,
-      "starsToday": 1278,
-      "ai": {
-        "shortSummary": "[mock] 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1278 stars 増。"
-      }
-    },
-    {
-      "fullName": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 39736,
-      "forks": 6314,
-      "starsToday": 390,
-      "ai": {
-        "shortSummary": "[mock] Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 390 stars 増。"
-      }
-    },
-    {
-      "fullName": "YimMenu/YimMenuV2",
-      "url": "https://github.com/YimMenu/YimMenuV2",
-      "description": "Experimental menu for GTA 5: Enhanced",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1416,
-      "forks": 355,
-      "starsToday": 21,
-      "ai": {
-        "shortSummary": "[mock] Experimental menu for GTA 5: Enhanced",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 21 stars 増。"
+        "whyTrending": "[mock] 直近で 323 stars 増。"
       }
     },
     {
@@ -190,13 +100,163 @@
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 14343,
-      "forks": 1721,
-      "starsToday": 951,
+      "stars": 15013,
+      "forks": 1800,
+      "starsToday": 697,
       "ai": {
         "shortSummary": "[mock] 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 langu",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 951 stars 増。"
+        "whyTrending": "[mock] 直近で 697 stars 増。"
+      }
+    },
+    {
+      "fullName": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 122841,
+      "forks": 18117,
+      "starsToday": 935,
+      "ai": {
+        "shortSummary": "[mock] 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 935 stars 増。"
+      }
+    },
+    {
+      "fullName": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 80137,
+      "forks": 15612,
+      "starsToday": 51,
+      "ai": {
+        "shortSummary": "[mock] 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI ",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 51 stars 増。"
+      }
+    },
+    {
+      "fullName": "YimMenu/YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 1500,
+      "forks": 360,
+      "starsToday": 122,
+      "ai": {
+        "shortSummary": "[mock] Experimental menu for GTA 5: Enhanced",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 122 stars 増。"
+      }
+    },
+    {
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 26845,
+      "forks": 3610,
+      "starsToday": 647,
+      "ai": {
+        "shortSummary": "[mock] DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 647 stars 増。"
+      }
+    },
+    {
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 174194,
+      "forks": 14944,
+      "starsToday": 2073,
+      "ai": {
+        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .claude directory.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 2073 stars 増。"
+      }
+    },
+    {
+      "fullName": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 9634,
+      "forks": 1318,
+      "starsToday": 62,
+      "ai": {
+        "shortSummary": "[mock] Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 62 stars 増。"
+      }
+    },
+    {
+      "fullName": "ibelick/ui-skills",
+      "url": "https://github.com/ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 4237,
+      "forks": 179,
+      "starsToday": 141,
+      "ai": {
+        "shortSummary": "[mock] Skills for Design Engineers",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 141 stars 増。"
+      }
+    },
+    {
+      "fullName": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 89005,
+      "forks": 8696,
+      "starsToday": 1138,
+      "ai": {
+        "shortSummary": "[mock] AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, she",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 1138 stars 増。"
+      }
+    },
+    {
+      "fullName": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 526270,
+      "forks": 49795,
+      "starsToday": 549,
+      "ai": {
+        "shortSummary": "[mock] Master programming by recreating your favorite technologies from scratch.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 549 stars 増。"
+      }
+    },
+    {
+      "fullName": "ossu/computer-science",
+      "url": "https://github.com/ossu/computer-science",
+      "description": "🎓 Path to a free self-taught education in Computer Science!",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 206492,
+      "forks": 25630,
+      "starsToday": 125,
+      "ai": {
+        "shortSummary": "[mock] 🎓 Path to a free self-taught education in Computer Science!",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 125 stars 増。"
       }
     }
   ]
