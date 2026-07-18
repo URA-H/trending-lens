@@ -1,22 +1,37 @@
 {
-  "fetchedAt": "2026-07-17T23:48:51.153Z",
+  "fetchedAt": "2026-07-18T23:50:50.917Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "codecrafters-io/build-your-own-x",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 527308,
-      "forks": 49903,
-      "starsToday": 1070,
+      "fullName": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 12908,
+      "forks": 1344,
+      "starsToday": 827,
       "ai": {
-        "shortSummary": "[mock] Master programming by recreating your favorite technologies from scratch.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1070 stars 増。"
+        "shortSummary": "[mock] A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 827 stars 増。"
+      }
+    },
+    {
+      "fullName": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1266,
+      "forks": 153,
+      "starsToday": 48,
+      "ai": {
+        "shortSummary": "[mock] Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, pro",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 48 stars 増。"
       }
     },
     {
@@ -25,103 +40,43 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 36177,
-      "forks": 3010,
-      "starsToday": 437,
+      "stars": 36578,
+      "forks": 3027,
+      "starsToday": 337,
       "ai": {
         "shortSummary": "[mock] 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, fl",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 437 stars 増。"
+        "whyTrending": "[mock] 直近で 337 stars 増。"
       }
     },
     {
-      "fullName": "HenryNdubuaku/maths-cs-ai-compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "description": "Become a cracked AI/ML Research Engineer",
+      "fullName": "ibelick/ui-skills",
+      "url": "https://github.com/ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6601,
-      "forks": 810,
-      "starsToday": 248,
+      "stars": 4991,
+      "forks": 208,
+      "starsToday": 242,
       "ai": {
-        "shortSummary": "[mock] Become a cracked AI/ML Research Engineer",
+        "shortSummary": "[mock] Skills for Design Engineers",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 248 stars 増。"
+        "whyTrending": "[mock] 直近で 242 stars 増。"
       }
     },
     {
-      "fullName": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "languageColor": "#663399",
-      "stars": 11986,
-      "forks": 601,
-      "starsToday": 1486,
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 39089,
+      "forks": 6550,
+      "starsToday": 240,
       "ai": {
-        "shortSummary": "[mock] Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1486 stars 増。"
-      }
-    },
-    {
-      "fullName": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9789,
-      "forks": 1328,
-      "starsToday": 234,
-      "ai": {
-        "shortSummary": "[mock] Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 234 stars 増。"
-      }
-    },
-    {
-      "fullName": "anthropics/cwc-workshops",
-      "url": "https://github.com/anthropics/cwc-workshops",
-      "description": null,
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 1578,
-      "forks": 489,
-      "starsToday": 37,
-      "ai": {
-        "shortSummary": "[mock] anthropics/cwc-workshops (no description)",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 37 stars 増。"
-      }
-    },
-    {
-      "fullName": "PrismML-Eng/Bonsai-demo",
-      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "description": "Bonsai Demo",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 1705,
-      "forks": 167,
-      "starsToday": 279,
-      "ai": {
-        "shortSummary": "[mock] Bonsai Demo",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 279 stars 増。"
-      }
-    },
-    {
-      "fullName": "protocolbuffers/protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 71537,
-      "forks": 16192,
-      "starsToday": 18,
-      "ai": {
-        "shortSummary": "[mock] Protocol Buffers - Google's data interchange format",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 18 stars 増。"
+        "shortSummary": "[mock] Learn it. Build it. Ship it for others.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 240 stars 増。"
       }
     },
     {
@@ -130,88 +85,88 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 19731,
-      "forks": 2105,
-      "starsToday": 57,
+      "stars": 20148,
+      "forks": 2125,
+      "starsToday": 356,
       "ai": {
         "shortSummary": "[mock] Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, wit",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 57 stars 増。"
+        "whyTrending": "[mock] 直近で 356 stars 増。"
       }
     },
     {
-      "fullName": "docusealco/docuseal",
-      "url": "https://github.com/docusealco/docuseal",
-      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 17829,
-      "forks": 1769,
-      "starsToday": 131,
-      "ai": {
-        "shortSummary": "[mock] Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 131 stars 増。"
-      }
-    },
-    {
-      "fullName": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A coding agent for open models like Kimi K3",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 66341,
-      "forks": 5705,
-      "starsToday": 431,
-      "ai": {
-        "shortSummary": "[mock] A coding agent for open models like Kimi K3",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 431 stars 増。"
-      }
-    },
-    {
-      "fullName": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 13290,
-      "forks": 1179,
-      "starsToday": 280,
-      "ai": {
-        "shortSummary": "[mock] A vector index built on TurboQuant, written in Rust with Python bindings",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 280 stars 増。"
-      }
-    },
-    {
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 27341,
-      "forks": 3644,
-      "starsToday": 528,
-      "ai": {
-        "shortSummary": "[mock] DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 528 stars 増。"
-      }
-    },
-    {
-      "fullName": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
+      "fullName": "elder-plinius/G0DM0D3",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 74829,
-      "forks": 7543,
-      "starsToday": 1077,
+      "stars": 9498,
+      "forks": 2253,
+      "starsToday": 63,
       "ai": {
-        "shortSummary": "[mock] The open-source CapCut alternative",
+        "shortSummary": "[mock] LIBERATED AI CHAT",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1077 stars 増。"
+        "whyTrending": "[mock] 直近で 63 stars 増。"
+      }
+    },
+    {
+      "fullName": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 23320,
+      "forks": 2654,
+      "starsToday": 234,
+      "ai": {
+        "shortSummary": "[mock] AirLLM 70B inference with single 4GB GPU",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 234 stars 増。"
+      }
+    },
+    {
+      "fullName": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 1217,
+      "forks": 83,
+      "starsToday": 192,
+      "ai": {
+        "shortSummary": "[mock] The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 192 stars 増。"
+      }
+    },
+    {
+      "fullName": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 528233,
+      "forks": 49981,
+      "starsToday": 1131,
+      "ai": {
+        "shortSummary": "[mock] Master programming by recreating your favorite technologies from scratch.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1131 stars 増。"
+      }
+    },
+    {
+      "fullName": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 9465,
+      "forks": 1165,
+      "starsToday": 48,
+      "ai": {
+        "shortSummary": "[mock] Kimi Code CLI is your next CLI agent.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 48 stars 増。"
       }
     }
   ]
