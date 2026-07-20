@@ -1,67 +1,37 @@
 {
-  "fetchedAt": "2026-07-18T23:50:50.917Z",
+  "fetchedAt": "2026-07-20T02:36:56.270Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "fullName": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12908,
-      "forks": 1344,
-      "starsToday": 827,
+      "stars": 21387,
+      "forks": 2194,
+      "starsToday": 663,
       "ai": {
-        "shortSummary": "[mock] A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+        "shortSummary": "[mock] Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, wit",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 827 stars 増。"
+        "whyTrending": "[mock] 直近で 663 stars 増。"
       }
     },
     {
-      "fullName": "apache/ossie",
-      "url": "https://github.com/apache/ossie",
-      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "fullName": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1266,
-      "forks": 153,
-      "starsToday": 48,
+      "stars": 18412,
+      "forks": 1455,
+      "starsToday": 360,
       "ai": {
-        "shortSummary": "[mock] Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, pro",
+        "shortSummary": "[mock] A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 48 stars 増。"
-      }
-    },
-    {
-      "fullName": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 36578,
-      "forks": 3027,
-      "starsToday": 337,
-      "ai": {
-        "shortSummary": "[mock] 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, fl",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 337 stars 増。"
-      }
-    },
-    {
-      "fullName": "ibelick/ui-skills",
-      "url": "https://github.com/ibelick/ui-skills",
-      "description": "Skills for Design Engineers",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4991,
-      "forks": 208,
-      "starsToday": 242,
-      "ai": {
-        "shortSummary": "[mock] Skills for Design Engineers",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 242 stars 増。"
+        "whyTrending": "[mock] 直近で 360 stars 増。"
       }
     },
     {
@@ -70,58 +40,28 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 39089,
-      "forks": 6550,
-      "starsToday": 240,
+      "stars": 39757,
+      "forks": 6635,
+      "starsToday": 501,
       "ai": {
         "shortSummary": "[mock] Learn it. Build it. Ship it for others.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 240 stars 増。"
+        "whyTrending": "[mock] 直近で 501 stars 増。"
       }
     },
     {
-      "fullName": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 20148,
-      "forks": 2125,
-      "starsToday": 356,
-      "ai": {
-        "shortSummary": "[mock] Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, wit",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 356 stars 増。"
-      }
-    },
-    {
-      "fullName": "elder-plinius/G0DM0D3",
-      "url": "https://github.com/elder-plinius/G0DM0D3",
-      "description": "LIBERATED AI CHAT",
+      "fullName": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9498,
-      "forks": 2253,
-      "starsToday": 63,
+      "stars": 43432,
+      "forks": 5301,
+      "starsToday": 610,
       "ai": {
-        "shortSummary": "[mock] LIBERATED AI CHAT",
+        "shortSummary": "[mock] The open-source AI voice studio. Clone, dictate, create.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 63 stars 増。"
-      }
-    },
-    {
-      "fullName": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 23320,
-      "forks": 2654,
-      "starsToday": 234,
-      "ai": {
-        "shortSummary": "[mock] AirLLM 70B inference with single 4GB GPU",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 234 stars 増。"
+        "whyTrending": "[mock] 直近で 610 stars 増。"
       }
     },
     {
@@ -130,28 +70,118 @@
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1217,
-      "forks": 83,
-      "starsToday": 192,
+      "stars": 1905,
+      "forks": 120,
+      "starsToday": 595,
       "ai": {
         "shortSummary": "[mock] The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 192 stars 増。"
+        "whyTrending": "[mock] 直近で 595 stars 増。"
       }
     },
     {
-      "fullName": "codecrafters-io/build-your-own-x",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 528233,
-      "forks": 49981,
-      "starsToday": 1131,
+      "fullName": "andrewrabert/jellium-desktop",
+      "url": "https://github.com/andrewrabert/jellium-desktop",
+      "description": "An unofficial desktop client for Jellyfin",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1303,
+      "forks": 110,
+      "starsToday": 43,
       "ai": {
-        "shortSummary": "[mock] Master programming by recreating your favorite technologies from scratch.",
+        "shortSummary": "[mock] An unofficial desktop client for Jellyfin",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 43 stars 増。"
+      }
+    },
+    {
+      "fullName": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 9970,
+      "forks": 1350,
+      "starsToday": 39,
+      "ai": {
+        "shortSummary": "[mock] Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1131 stars 増。"
+        "whyTrending": "[mock] 直近で 39 stars 増。"
+      }
+    },
+    {
+      "fullName": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 36960,
+      "forks": 3055,
+      "starsToday": 411,
+      "ai": {
+        "shortSummary": "[mock] 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, fl",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 411 stars 増。"
+      }
+    },
+    {
+      "fullName": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 104200,
+      "forks": 9439,
+      "starsToday": 59,
+      "ai": {
+        "shortSummary": "[mock] The new Windows Terminal and the original Windows console host, all in the same place!",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 59 stars 増。"
+      }
+    },
+    {
+      "fullName": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 36722,
+      "forks": 2547,
+      "starsToday": 83,
+      "ai": {
+        "shortSummary": "[mock] AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alte",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 83 stars 増。"
+      }
+    },
+    {
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8950,
+      "forks": 1040,
+      "starsToday": 235,
+      "ai": {
+        "shortSummary": "[mock] Coding Agent Harness",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 235 stars 増。"
+      }
+    },
+    {
+      "fullName": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 20251,
+      "forks": 1342,
+      "starsToday": 64,
+      "ai": {
+        "shortSummary": "[mock] Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 64 stars 増。"
       }
     },
     {
@@ -160,13 +190,88 @@
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9465,
-      "forks": 1165,
-      "starsToday": 48,
+      "stars": 9920,
+      "forks": 1195,
+      "starsToday": 410,
       "ai": {
         "shortSummary": "[mock] Kimi Code CLI is your next CLI agent.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 48 stars 増。"
+        "whyTrending": "[mock] 直近で 410 stars 増。"
+      }
+    },
+    {
+      "fullName": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": null,
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": 31038,
+      "forks": 2374,
+      "starsToday": 106,
+      "ai": {
+        "shortSummary": "[mock] Flowseal/zapret-discord-youtube (no description)",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 106 stars 増。"
+      }
+    },
+    {
+      "fullName": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 528973,
+      "forks": 50043,
+      "starsToday": 754,
+      "ai": {
+        "shortSummary": "[mock] Master programming by recreating your favorite technologies from scratch.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 754 stars 増。"
+      }
+    },
+    {
+      "fullName": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 23658,
+      "forks": 2682,
+      "starsToday": 358,
+      "ai": {
+        "shortSummary": "[mock] AirLLM 70B inference with single 4GB GPU",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 358 stars 増。"
+      }
+    },
+    {
+      "fullName": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 16234,
+      "forks": 1842,
+      "starsToday": 121,
+      "ai": {
+        "shortSummary": "[mock] GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language question",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 121 stars 増。"
+      }
+    },
+    {
+      "fullName": "PKUFlyingPig/cs-self-learning",
+      "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+      "description": "计算机自学指南",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 74204,
+      "forks": 7942,
+      "starsToday": 134,
+      "ai": {
+        "shortSummary": "[mock] 计算机自学指南",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 134 stars 増。"
       }
     }
   ]
