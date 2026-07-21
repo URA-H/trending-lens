@@ -1,22 +1,82 @@
 {
-  "fetchedAt": "2026-07-20T23:54:36.628Z",
+  "fetchedAt": "2026-07-21T23:53:31.238Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
+    {
+      "fullName": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 65291,
+      "forks": 10180,
+      "starsToday": 1167,
+      "ai": {
+        "shortSummary": "[mock] Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situ",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1167 stars 増。"
+      }
+    },
+    {
+      "fullName": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 14339,
+      "forks": 1341,
+      "starsToday": 4434,
+      "ai": {
+        "shortSummary": "[mock] 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 4434 stars 増。"
+      }
+    },
     {
       "fullName": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23093,
-      "forks": 2273,
-      "starsToday": 1876,
+      "stars": 24514,
+      "forks": 2349,
+      "starsToday": 1921,
       "ai": {
         "shortSummary": "[mock] Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, wit",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1876 stars 増。"
+        "whyTrending": "[mock] 直近で 1921 stars 増。"
+      }
+    },
+    {
+      "fullName": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": null,
+      "languageColor": null,
+      "stars": 6803,
+      "forks": 279,
+      "starsToday": 1846,
+      "ai": {
+        "shortSummary": "[mock] A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1846 stars 増。"
+      }
+    },
+    {
+      "fullName": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 9080,
+      "forks": 1024,
+      "starsToday": 378,
+      "ai": {
+        "shortSummary": "[mock] A collection of agent skills for CAD, robotics and hardware design",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 378 stars 増。"
       }
     },
     {
@@ -25,223 +85,13 @@
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9608,
-      "forks": 1082,
-      "starsToday": 612,
+      "stars": 10288,
+      "forks": 1133,
+      "starsToday": 835,
       "ai": {
         "shortSummary": "[mock] The most intelligent agent harness for code",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 612 stars 増。"
-      }
-    },
-    {
-      "fullName": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 21751,
-      "forks": 2959,
-      "starsToday": 1300,
-      "ai": {
-        "shortSummary": "[mock] Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. ",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1300 stars 増。"
-      }
-    },
-    {
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 40498,
-      "forks": 6722,
-      "starsToday": 846,
-      "ai": {
-        "shortSummary": "[mock] Learn it. Build it. Ship it for others.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 846 stars 増。"
-      }
-    },
-    {
-      "fullName": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 134687,
-      "forks": 21961,
-      "starsToday": 744,
-      "ai": {
-        "shortSummary": "[mock] A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each ",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 744 stars 増。"
-      }
-    },
-    {
-      "fullName": "kvcache-ai/ktransformers",
-      "url": "https://github.com/kvcache-ai/ktransformers",
-      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 18726,
-      "forks": 1463,
-      "starsToday": 448,
-      "ai": {
-        "shortSummary": "[mock] A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 448 stars 増。"
-      }
-    },
-    {
-      "fullName": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 44140,
-      "forks": 5364,
-      "starsToday": 839,
-      "ai": {
-        "shortSummary": "[mock] The open-source AI voice studio. Clone, dictate, create.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 839 stars 増。"
-      }
-    },
-    {
-      "fullName": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 28773,
-      "forks": 2743,
-      "starsToday": 249,
-      "ai": {
-        "shortSummary": "[mock] Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted ",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 249 stars 増。"
-      }
-    },
-    {
-      "fullName": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 14202,
-      "forks": 1481,
-      "starsToday": 554,
-      "ai": {
-        "shortSummary": "[mock] A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 554 stars 増。"
-      }
-    },
-    {
-      "fullName": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5828,
-      "forks": 644,
-      "starsToday": 983,
-      "ai": {
-        "shortSummary": "[mock] Open source alternative to Semrush and Ahrefs",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 983 stars 増。"
-      }
-    },
-    {
-      "fullName": "MoonshotAI/kimi-cli",
-      "url": "https://github.com/MoonshotAI/kimi-cli",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 10224,
-      "forks": 1218,
-      "starsToday": 405,
-      "ai": {
-        "shortSummary": "[mock] Kimi Code CLI is your next CLI agent.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 405 stars 増。"
-      }
-    },
-    {
-      "fullName": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 37070,
-      "forks": 2576,
-      "starsToday": 330,
-      "ai": {
-        "shortSummary": "[mock] AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alte",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 330 stars 増。"
-      }
-    },
-    {
-      "fullName": "PrefectHQ/fastmcp",
-      "url": "https://github.com/PrefectHQ/fastmcp",
-      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 26524,
-      "forks": 2164,
-      "starsToday": 77,
-      "ai": {
-        "shortSummary": "[mock] 🚀 The fast, Pythonic way to build MCP servers and clients.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 77 stars 増。"
-      }
-    },
-    {
-      "fullName": "KnockOutEZ/wigolo",
-      "url": "https://github.com/KnockOutEZ/wigolo",
-      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2520,
-      "forks": 147,
-      "starsToday": 695,
-      "ai": {
-        "shortSummary": "[mock] The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 695 stars 増。"
-      }
-    },
-    {
-      "fullName": "tokio-rs/topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1525,
-      "forks": 40,
-      "starsToday": 374,
-      "ai": {
-        "shortSummary": "[mock] A batteries-included framework for building web apps",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 374 stars 増。"
-      }
-    },
-    {
-      "fullName": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 133765,
-      "forks": 7559,
-      "starsToday": 144,
-      "ai": {
-        "shortSummary": "[mock] Collection of publicly available IPTV channels from all over the world",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 144 stars 増。"
+        "whyTrending": "[mock] 直近で 835 stars 増。"
       }
     },
     {
@@ -250,13 +100,178 @@
       "description": "Self-hosted deployment platform",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4762,
-      "forks": 331,
-      "starsToday": 1719,
+      "stars": 6181,
+      "forks": 447,
+      "starsToday": 1556,
       "ai": {
         "shortSummary": "[mock] Self-hosted deployment platform",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1719 stars 増。"
+        "whyTrending": "[mock] 直近で 1556 stars 増。"
+      }
+    },
+    {
+      "fullName": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 37447,
+      "forks": 2611,
+      "starsToday": 416,
+      "ai": {
+        "shortSummary": "[mock] AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alte",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 416 stars 増。"
+      }
+    },
+    {
+      "fullName": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 6570,
+      "forks": 711,
+      "starsToday": 850,
+      "ai": {
+        "shortSummary": "[mock] Open source alternative to Semrush and Ahrefs",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 850 stars 増。"
+      }
+    },
+    {
+      "fullName": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 4824,
+      "forks": 2173,
+      "starsToday": 219,
+      "ai": {
+        "shortSummary": "[mock] AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 219 stars 増。"
+      }
+    },
+    {
+      "fullName": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 30179,
+      "forks": 1842,
+      "starsToday": 194,
+      "ai": {
+        "shortSummary": "[mock] Hundreds of models & providers. One command to find what runs on your hardware.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 194 stars 増。"
+      }
+    },
+    {
+      "fullName": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 37023,
+      "forks": 1860,
+      "starsToday": 88,
+      "ai": {
+        "shortSummary": "[mock] Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 88 stars 増。"
+      }
+    },
+    {
+      "fullName": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 69947,
+      "forks": 7839,
+      "starsToday": 1195,
+      "ai": {
+        "shortSummary": "[mock] Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1195 stars 増。"
+      }
+    },
+    {
+      "fullName": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 37634,
+      "forks": 1774,
+      "starsToday": 261,
+      "ai": {
+        "shortSummary": "[mock] Fullstack app framework for web, desktop, and mobile.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 261 stars 増。"
+      }
+    },
+    {
+      "fullName": "langchain-ai/open_deep_research",
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "description": null,
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 12218,
+      "forks": 1740,
+      "starsToday": 14,
+      "ai": {
+        "shortSummary": "[mock] langchain-ai/open_deep_research (no description)",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 14 stars 増。"
+      }
+    },
+    {
+      "fullName": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 23551,
+      "forks": 3151,
+      "starsToday": 2040,
+      "ai": {
+        "shortSummary": "[mock] Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepS",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 2040 stars 増。"
+      }
+    },
+    {
+      "fullName": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 1712,
+      "forks": 277,
+      "starsToday": 286,
+      "ai": {
+        "shortSummary": "[mock] Web UI for the pi coding agent",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 286 stars 増。"
+      }
+    },
+    {
+      "fullName": "schollz/croc",
+      "url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 36772,
+      "forks": 1459,
+      "starsToday": 396,
+      "ai": {
+        "shortSummary": "[mock] Easily and securely send things from one computer to another 🐊 📦",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 396 stars 増。"
       }
     },
     {
@@ -265,43 +280,43 @@
       "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1716,
-      "forks": 230,
-      "starsToday": 487,
+      "stars": 1994,
+      "forks": 245,
+      "starsToday": 355,
       "ai": {
         "shortSummary": "[mock] Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your ow",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 487 stars 増。"
+        "whyTrending": "[mock] 直近で 355 stars 増。"
       }
     },
     {
-      "fullName": "handy-computer/transcribe.cpp",
-      "url": "https://github.com/handy-computer/transcribe.cpp",
-      "description": "ggml speech-to-text inference for 16+ model families",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1233,
-      "forks": 31,
-      "starsToday": 401,
+      "fullName": "dottxt-ai/outlines",
+      "url": "https://github.com/dottxt-ai/outlines",
+      "description": "Structured Outputs",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 14822,
+      "forks": 800,
+      "starsToday": 49,
       "ai": {
-        "shortSummary": "[mock] ggml speech-to-text inference for 16+ model families",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 401 stars 増。"
+        "shortSummary": "[mock] Structured Outputs",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 49 stars 増。"
       }
     },
     {
-      "fullName": "moonshine-ai/moonshine",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 9810,
-      "forks": 518,
-      "starsToday": 264,
+      "fullName": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3129,
+      "forks": 190,
+      "starsToday": 641,
       "ai": {
-        "shortSummary": "[mock] Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+        "shortSummary": "[mock] The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 264 stars 増。"
+        "whyTrending": "[mock] 直近で 641 stars 増。"
       }
     }
   ]
