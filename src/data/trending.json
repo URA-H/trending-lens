@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T23:59:49.704Z",
+  "fetchedAt": "2026-07-25T23:57:04.893Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,103 +10,28 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9904,
-      "forks": 769,
-      "starsToday": 3274,
+      "stars": 11882,
+      "forks": 944,
+      "starsToday": 2506,
       "ai": {
         "shortSummary": "[mock] A hive mind communication platform",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 3274 stars 増。"
+        "whyTrending": "[mock] 直近で 2506 stars 増。"
       }
     },
     {
-      "fullName": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 73244,
-      "forks": 10983,
-      "starsToday": 2194,
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 12938,
+      "forks": 886,
+      "starsToday": 439,
       "ai": {
-        "shortSummary": "[mock] Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situ",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2194 stars 増。"
-      }
-    },
-    {
-      "fullName": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 70035,
-      "forks": 7900,
-      "starsToday": 662,
-      "ai": {
-        "shortSummary": "[mock] A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 662 stars 増。"
-      }
-    },
-    {
-      "fullName": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 9328,
-      "forks": 632,
-      "starsToday": 472,
-      "ai": {
-        "shortSummary": "[mock] Empowering everyone to host fast and efficient Minecraft servers.",
+        "shortSummary": "[mock] Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise li",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 472 stars 増。"
-      }
-    },
-    {
-      "fullName": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 33478,
-      "forks": 5678,
-      "starsToday": 506,
-      "ai": {
-        "shortSummary": "[mock] Kronos: A Foundation Model for the Language of Financial Markets",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 506 stars 増。"
-      }
-    },
-    {
-      "fullName": "Automattic/harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13029,
-      "forks": 481,
-      "starsToday": 877,
-      "ai": {
-        "shortSummary": "[mock] Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 877 stars 増。"
-      }
-    },
-    {
-      "fullName": "likec4/likec4",
-      "url": "https://github.com/likec4/likec4",
-      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5011,
-      "forks": 334,
-      "starsToday": 339,
-      "ai": {
-        "shortSummary": "[mock] Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 339 stars 増。"
+        "whyTrending": "[mock] 直近で 439 stars 増。"
       }
     },
     {
@@ -115,73 +40,118 @@
       "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 2544,
-      "forks": 121,
-      "starsToday": 884,
+      "stars": 3558,
+      "forks": 175,
+      "starsToday": 986,
       "ai": {
         "shortSummary": "[mock] The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or C",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 884 stars 増。"
+        "whyTrending": "[mock] 直近で 986 stars 増。"
       }
     },
     {
-      "fullName": "yorukot/superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 19559,
-      "forks": 596,
-      "starsToday": 312,
+      "fullName": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 70571,
+      "forks": 7938,
+      "starsToday": 574,
       "ai": {
-        "shortSummary": "[mock] Pretty fancy and modern terminal file manager",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 312 stars 増。"
+        "shortSummary": "[mock] A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 574 stars 増。"
       }
     },
     {
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "fullName": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 49876,
+      "forks": 5895,
+      "starsToday": 144,
+      "ai": {
+        "shortSummary": "[mock] A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 144 stars 増。"
+      }
+    },
+    {
+      "fullName": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 85917,
-      "forks": 11447,
-      "starsToday": 1021,
+      "stars": 13409,
+      "forks": 508,
+      "starsToday": 503,
       "ai": {
-        "shortSummary": "[mock] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a sin",
+        "shortSummary": "[mock] Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 1021 stars 増。"
+        "whyTrending": "[mock] 直近で 503 stars 増。"
       }
     },
     {
-      "fullName": "CoreBunch/Instatic",
-      "url": "https://github.com/CoreBunch/Instatic",
-      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4271,
-      "forks": 409,
-      "starsToday": 250,
+      "fullName": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 33780,
+      "forks": 5702,
+      "starsToday": 319,
       "ai": {
-        "shortSummary": "[mock] The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, pl",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 250 stars 増。"
+        "shortSummary": "[mock] Kronos: A Foundation Model for the Language of Financial Markets",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 319 stars 増。"
       }
     },
     {
-      "fullName": "chrislgarry/Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 71400,
-      "forks": 7932,
-      "starsToday": 409,
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 261087,
+      "forks": 23298,
+      "starsToday": 507,
       "ai": {
-        "shortSummary": "[mock] Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 409 stars 増。"
+        "whyTrending": "[mock] 直近で 507 stars 増。"
+      }
+    },
+    {
+      "fullName": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9703,
+      "forks": 655,
+      "starsToday": 357,
+      "ai": {
+        "shortSummary": "[mock] Empowering everyone to host fast and efficient Minecraft servers.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 357 stars 増。"
+      }
+    },
+    {
+      "fullName": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 28683,
+      "forks": 4279,
+      "starsToday": 1695,
+      "ai": {
+        "shortSummary": "[mock] bluetooth mesh chat, IRC vibes",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1695 stars 増。"
       }
     },
     {
@@ -190,13 +160,43 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 186671,
-      "forks": 16016,
-      "starsToday": 2224,
+      "stars": 188223,
+      "forks": 16175,
+      "starsToday": 1743,
       "ai": {
         "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2224 stars 増。"
+        "whyTrending": "[mock] 直近で 1743 stars 増。"
+      }
+    },
+    {
+      "fullName": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 12208,
+      "forks": 893,
+      "starsToday": 346,
+      "ai": {
+        "shortSummary": "[mock] macOS video editor built for AI",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 346 stars 増。"
+      }
+    },
+    {
+      "fullName": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 5055,
+      "forks": 473,
+      "starsToday": 424,
+      "ai": {
+        "shortSummary": "[mock] The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, pl",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 424 stars 増。"
       }
     },
     {
@@ -205,28 +205,28 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 44985,
-      "forks": 5386,
-      "starsToday": 654,
+      "stars": 45342,
+      "forks": 5414,
+      "starsToday": 405,
       "ai": {
         "shortSummary": "[mock] 《动手学大模型Dive into LLMs》系列编程实践教程",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 654 stars 増。"
+        "whyTrending": "[mock] 直近で 405 stars 増。"
       }
     },
     {
-      "fullName": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 28802,
-      "forks": 3776,
-      "starsToday": 1843,
+      "fullName": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 14278,
+      "forks": 1268,
+      "starsToday": 89,
       "ai": {
-        "shortSummary": "[mock] Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepS",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1843 stars 増。"
+        "shortSummary": "[mock] A vector index built on TurboQuant, written in Rust with Python bindings",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 89 stars 増。"
       }
     },
     {
@@ -235,13 +235,43 @@
       "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 26319,
-      "forks": 2880,
-      "starsToday": 129,
+      "stars": 26654,
+      "forks": 2906,
+      "starsToday": 364,
       "ai": {
         "shortSummary": "[mock] 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 129 stars 増。"
+        "whyTrending": "[mock] 直近で 364 stars 増。"
+      }
+    },
+    {
+      "fullName": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 15215,
+      "forks": 1614,
+      "starsToday": 75,
+      "ai": {
+        "shortSummary": "[mock] Simple, unified interface to multiple Generative AI providers",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 75 stars 増。"
+      }
+    },
+    {
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 233294,
+      "forks": 35567,
+      "starsToday": 364,
+      "ai": {
+        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 364 stars 増。"
       }
     }
   ]
