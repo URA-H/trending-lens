@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T23:57:19.744Z",
+  "fetchedAt": "2026-07-28T00:01:36.845Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,238 +10,13 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 30247,
-      "forks": 4701,
-      "starsToday": 1198,
+      "stars": 32220,
+      "forks": 5058,
+      "starsToday": 2346,
       "ai": {
         "shortSummary": "[mock] bluetooth mesh chat, IRC vibes",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1198 stars 増。"
-      }
-    },
-    {
-      "fullName": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 4463,
-      "forks": 221,
-      "starsToday": 898,
-      "ai": {
-        "shortSummary": "[mock] The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or C",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 898 stars 増。"
-      }
-    },
-    {
-      "fullName": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13229,
-      "forks": 1086,
-      "starsToday": 1705,
-      "ai": {
-        "shortSummary": "[mock] A hive mind communication platform",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 1705 stars 増。"
-      }
-    },
-    {
-      "fullName": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": null,
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 15036,
-      "forks": 3309,
-      "starsToday": 159,
-      "ai": {
-        "shortSummary": "[mock] pingdotgg/t3code (no description)",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 159 stars 増。"
-      }
-    },
-    {
-      "fullName": "CoreBunch/Instatic",
-      "url": "https://github.com/CoreBunch/Instatic",
-      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5644,
-      "forks": 520,
-      "starsToday": 892,
-      "ai": {
-        "shortSummary": "[mock] The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, pl",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 892 stars 増。"
-      }
-    },
-    {
-      "fullName": "yorukot/superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 20208,
-      "forks": 639,
-      "starsToday": 180,
-      "ai": {
-        "shortSummary": "[mock] Pretty fancy and modern terminal file manager",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 180 stars 増。"
-      }
-    },
-    {
-      "fullName": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 118459,
-      "forks": 36175,
-      "starsToday": 37,
-      "ai": {
-        "shortSummary": "[mock] Node.js JavaScript runtime ✨🐢🚀✨",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 37 stars 増。"
-      }
-    },
-    {
-      "fullName": "OtterMind/Chat2DB",
-      "url": "https://github.com/OtterMind/Chat2DB",
-      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 27090,
-      "forks": 2941,
-      "starsToday": 399,
-      "ai": {
-        "shortSummary": "[mock] 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 399 stars 増。"
-      }
-    },
-    {
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 50636,
-      "forks": 2985,
-      "starsToday": 466,
-      "ai": {
-        "shortSummary": "[mock] The design language that makes your AI harness better at design.",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 466 stars 増。"
-      }
-    },
-    {
-      "fullName": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 34158,
-      "forks": 5753,
-      "starsToday": 322,
-      "ai": {
-        "shortSummary": "[mock] Kronos: A Foundation Model for the Language of Financial Markets",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 322 stars 増。"
-      }
-    },
-    {
-      "fullName": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 13770,
-      "forks": 939,
-      "starsToday": 840,
-      "ai": {
-        "shortSummary": "[mock] Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise li",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 840 stars 増。"
-      }
-    },
-    {
-      "fullName": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 15389,
-      "forks": 1629,
-      "starsToday": 189,
-      "ai": {
-        "shortSummary": "[mock] Simple, unified interface to multiple Generative AI providers",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 189 stars 増。"
-      }
-    },
-    {
-      "fullName": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 50213,
-      "forks": 5918,
-      "starsToday": 377,
-      "ai": {
-        "shortSummary": "[mock] A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 377 stars 増。"
-      }
-    },
-    {
-      "fullName": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 9992,
-      "forks": 672,
-      "starsToday": 339,
-      "ai": {
-        "shortSummary": "[mock] Empowering everyone to host fast and efficient Minecraft servers.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 339 stars 増。"
-      }
-    },
-    {
-      "fullName": "permissionlesstech/bitchat-android",
-      "url": "https://github.com/permissionlesstech/bitchat-android",
-      "description": "bluetooth mesh chat, IRC vibes",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 6687,
-      "forks": 1585,
-      "starsToday": 444,
-      "ai": {
-        "shortSummary": "[mock] bluetooth mesh chat, IRC vibes",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 444 stars 増。"
-      }
-    },
-    {
-      "fullName": "jenkinsci/jenkins",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 25696,
-      "forks": 9655,
-      "starsToday": 8,
-      "ai": {
-        "shortSummary": "[mock] Jenkins automation server",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 8 stars 増。"
+        "whyTrending": "[mock] 直近で 2346 stars 増。"
       }
     },
     {
@@ -250,13 +25,208 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 13306,
-      "forks": 1008,
-      "starsToday": 17,
+      "stars": 13796,
+      "forks": 1030,
+      "starsToday": 515,
       "ai": {
         "shortSummary": "[mock] Amnezia VPN Client (Desktop+Mobile)",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 17 stars 増。"
+        "whyTrending": "[mock] 直近で 515 stars 増。"
+      }
+    },
+    {
+      "fullName": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 44006,
+      "forks": 4394,
+      "starsToday": 572,
+      "ai": {
+        "shortSummary": "[mock] 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve N",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 572 stars 増。"
+      }
+    },
+    {
+      "fullName": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 2655,
+      "forks": 352,
+      "starsToday": 420,
+      "ai": {
+        "shortSummary": "[mock] A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the deskt",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 420 stars 増。"
+      }
+    },
+    {
+      "fullName": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 20860,
+      "forks": 676,
+      "starsToday": 600,
+      "ai": {
+        "shortSummary": "[mock] Pretty fancy and modern terminal file manager",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 600 stars 増。"
+      }
+    },
+    {
+      "fullName": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 58150,
+      "forks": 11582,
+      "starsToday": 362,
+      "ai": {
+        "shortSummary": "[mock] 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 362 stars 増。"
+      }
+    },
+    {
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 51515,
+      "forks": 3039,
+      "starsToday": 847,
+      "ai": {
+        "shortSummary": "[mock] The design language that makes your AI harness better at design.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 847 stars 増。"
+      }
+    },
+    {
+      "fullName": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 34557,
+      "forks": 5795,
+      "starsToday": 441,
+      "ai": {
+        "shortSummary": "[mock] Kronos: A Foundation Model for the Language of Financial Markets",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 441 stars 増。"
+      }
+    },
+    {
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14767,
+      "forks": 997,
+      "starsToday": 979,
+      "ai": {
+        "shortSummary": "[mock] Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise li",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 979 stars 増。"
+      }
+    },
+    {
+      "fullName": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 25875,
+      "forks": 9680,
+      "starsToday": 180,
+      "ai": {
+        "shortSummary": "[mock] Jenkins automation server",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 180 stars 増。"
+      }
+    },
+    {
+      "fullName": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 11045,
+      "forks": 1142,
+      "starsToday": 434,
+      "ai": {
+        "shortSummary": "[mock] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 434 stars 増。"
+      }
+    },
+    {
+      "fullName": "vudovn/ag-kit",
+      "url": "https://github.com/vudovn/ag-kit",
+      "description": null,
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 7950,
+      "forks": 1509,
+      "starsToday": 14,
+      "ai": {
+        "shortSummary": "[mock] vudovn/ag-kit (no description)",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 14 stars 増。"
+      }
+    },
+    {
+      "fullName": "apache/cassandra",
+      "url": "https://github.com/apache/cassandra",
+      "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 9955,
+      "forks": 4006,
+      "starsToday": 11,
+      "ai": {
+        "shortSummary": "[mock] Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure ",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 11 stars 増。"
+      }
+    },
+    {
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 54152,
+      "forks": 4699,
+      "starsToday": 240,
+      "ai": {
+        "shortSummary": "[mock] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 240 stars 増。"
+      }
+    },
+    {
+      "fullName": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 75194,
+      "forks": 11970,
+      "starsToday": 51,
+      "ai": {
+        "shortSummary": "[mock] Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 51 stars 増。"
       }
     }
   ]
