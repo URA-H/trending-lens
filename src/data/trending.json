@@ -1,37 +1,22 @@
 {
-  "fetchedAt": "2026-07-28T23:55:19.354Z",
+  "fetchedAt": "2026-07-29T23:57:26.489Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
+      "fullName": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 18671,
-      "forks": 2526,
-      "starsToday": 415,
+      "stars": 4013,
+      "forks": 430,
+      "starsToday": 667,
       "ai": {
-        "shortSummary": "[mock] Create and share 3D architectural projects.",
+        "shortSummary": "[mock] A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the deskt",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 415 stars 増。"
-      }
-    },
-    {
-      "fullName": "jenkinsci/jenkins",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 26065,
-      "forks": 9687,
-      "starsToday": 180,
-      "ai": {
-        "shortSummary": "[mock] Jenkins automation server",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 180 stars 増。"
+        "whyTrending": "[mock] 直近で 667 stars 増。"
       }
     },
     {
@@ -40,28 +25,13 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 44736,
-      "forks": 4447,
-      "starsToday": 796,
+      "stars": 45365,
+      "forks": 4487,
+      "starsToday": 676,
       "ai": {
         "shortSummary": "[mock] 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve N",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 796 stars 増。"
-      }
-    },
-    {
-      "fullName": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 15674,
-      "forks": 1656,
-      "starsToday": 92,
-      "ai": {
-        "shortSummary": "[mock] Simple, unified interface to multiple Generative AI providers",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 92 stars 増。"
+        "whyTrending": "[mock] 直近で 676 stars 増。"
       }
     },
     {
@@ -70,13 +40,13 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 234781,
-      "forks": 35774,
-      "starsToday": 692,
+      "stars": 235541,
+      "forks": 35867,
+      "starsToday": 860,
       "ai": {
         "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 692 stars 増。"
+        "whyTrending": "[mock] 直近で 860 stars 増。"
       }
     },
     {
@@ -85,43 +55,148 @@
       "description": "Build local voice agents with open-source models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7206,
-      "forks": 951,
-      "starsToday": 177,
+      "stars": 7843,
+      "forks": 999,
+      "starsToday": 837,
       "ai": {
         "shortSummary": "[mock] Build local voice agents with open-source models",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 177 stars 増。"
+        "whyTrending": "[mock] 直近で 837 stars 増。"
       }
     },
     {
-      "fullName": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 13434,
+      "forks": 1476,
+      "starsToday": 652,
+      "ai": {
+        "shortSummary": "[mock] The most RAM efficient harness",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 652 stars 増。"
+      }
+    },
+    {
+      "fullName": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 14430,
+      "forks": 3903,
+      "starsToday": 197,
+      "ai": {
+        "shortSummary": "[mock] A free open source IT asset/license management system",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 197 stars 増。"
+      }
+    },
+    {
+      "fullName": "deepfakes/faceswap",
+      "url": "https://github.com/deepfakes/faceswap",
+      "description": "Deepfakes Software For All",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11310,
-      "forks": 1335,
-      "starsToday": 366,
+      "stars": 56241,
+      "forks": 13428,
+      "starsToday": 135,
       "ai": {
-        "shortSummary": "[mock] Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+        "shortSummary": "[mock] Deepfakes Software For All",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 366 stars 増。"
+        "whyTrending": "[mock] 直近で 135 stars 増。"
       }
     },
     {
-      "fullName": "opengeos/GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "fullName": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 51249,
+      "forks": 5707,
+      "starsToday": 332,
+      "ai": {
+        "shortSummary": "[mock] Open-Source Frontier Voice AI",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 332 stars 増。"
+      }
+    },
+    {
+      "fullName": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3377,
-      "forks": 390,
-      "starsToday": 743,
+      "stars": 17876,
+      "forks": 1854,
+      "starsToday": 58,
       "ai": {
-        "shortSummary": "[mock] A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the deskt",
+        "shortSummary": "[mock] The open-source alternative to Claude Cowork (powered by opencode)",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 743 stars 増。"
+        "whyTrending": "[mock] 直近で 58 stars 増。"
+      }
+    },
+    {
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 263260,
+      "forks": 23510,
+      "starsToday": 686,
+      "ai": {
+        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 686 stars 増。"
+      }
+    },
+    {
+      "fullName": "MoonshotAI/FlashKDA",
+      "url": "https://github.com/MoonshotAI/FlashKDA",
+      "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 979,
+      "forks": 95,
+      "starsToday": 216,
+      "ai": {
+        "shortSummary": "[mock] FlashKDA: high-performance Kimi Delta Attention kernels",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 216 stars 増。"
+      }
+    },
+    {
+      "fullName": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 59053,
+      "forks": 11672,
+      "starsToday": 187,
+      "ai": {
+        "shortSummary": "[mock] 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 187 stars 増。"
+      }
+    },
+    {
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15974,
+      "forks": 1078,
+      "starsToday": 386,
+      "ai": {
+        "shortSummary": "[mock] Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise li",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 386 stars 増。"
       }
     },
     {
@@ -130,58 +205,58 @@
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9559,
-      "forks": 1290,
-      "starsToday": 402,
+      "stars": 10375,
+      "forks": 1345,
+      "starsToday": 950,
       "ai": {
         "shortSummary": "[mock] A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 402 stars 増。"
+        "whyTrending": "[mock] 直近で 950 stars 増。"
       }
     },
     {
-      "fullName": "microsoft/agent-governance-toolkit",
-      "url": "https://github.com/microsoft/agent-governance-toolkit",
-      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "fullName": "maderix/ANE",
+      "url": "https://github.com/maderix/ANE",
+      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 7139,
+      "forks": 958,
+      "starsToday": 13,
+      "ai": {
+        "shortSummary": "[mock] Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 13 stars 増。"
+      }
+    },
+    {
+      "fullName": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 19549,
+      "forks": 2591,
+      "starsToday": 1026,
+      "ai": {
+        "shortSummary": "[mock] Create and share 3D architectural projects.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1026 stars 増。"
+      }
+    },
+    {
+      "fullName": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5178,
-      "forks": 833,
-      "starsToday": 17,
+      "stars": 12699,
+      "forks": 1413,
+      "starsToday": 1428,
       "ai": {
-        "shortSummary": "[mock] AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI a",
+        "shortSummary": "[mock] Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 17 stars 増。"
-      }
-    },
-    {
-      "fullName": "yorukot/superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 21462,
-      "forks": 695,
-      "starsToday": 660,
-      "ai": {
-        "shortSummary": "[mock] Pretty fancy and modern terminal file manager",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 660 stars 増。"
-      }
-    },
-    {
-      "fullName": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 12067,
-      "forks": 1211,
-      "starsToday": 989,
-      "ai": {
-        "shortSummary": "[mock] Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 989 stars 増。"
+        "whyTrending": "[mock] 直近で 1428 stars 増。"
       }
     }
   ]
