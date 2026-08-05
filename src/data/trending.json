@@ -1,37 +1,67 @@
 {
-  "fetchedAt": "2026-08-04T23:59:04.459Z",
+  "fetchedAt": "2026-08-05T23:56:45.871Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
+    {
+      "fullName": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 2851,
+      "forks": 129,
+      "starsToday": 796,
+      "ai": {
+        "shortSummary": "[mock] Give your agent a computer 👾",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 796 stars 増。"
+      }
+    },
+    {
+      "fullName": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2087,
+      "forks": 161,
+      "starsToday": 327,
+      "ai": {
+        "shortSummary": "[mock] Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding a",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 327 stars 増。"
+      }
+    },
     {
       "fullName": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 13538,
-      "forks": 1271,
-      "starsToday": 1138,
+      "stars": 15028,
+      "forks": 1366,
+      "starsToday": 1891,
       "ai": {
         "shortSummary": "[mock] TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Ch",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1138 stars 増。"
+        "whyTrending": "[mock] 直近で 1891 stars 増。"
       }
     },
     {
-      "fullName": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 17817,
-      "forks": 2448,
-      "starsToday": 2310,
+      "fullName": "donnemartin/system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 361502,
+      "forks": 57648,
+      "starsToday": 304,
       "ai": {
-        "shortSummary": "[mock] Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstra",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2310 stars 増。"
+        "shortSummary": "[mock] Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 304 stars 増。"
       }
     },
     {
@@ -40,208 +70,13 @@
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9961,
-      "forks": 656,
-      "starsToday": 2524,
+      "stars": 11418,
+      "forks": 760,
+      "starsToday": 1583,
       "ai": {
         "shortSummary": "[mock] Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart ",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 2524 stars 増。"
-      }
-    },
-    {
-      "fullName": "uber/ADR",
-      "url": "https://github.com/uber/ADR",
-      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 669,
-      "forks": 68,
-      "starsToday": 140,
-      "ai": {
-        "shortSummary": "[mock] ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 140 stars 増。"
-      }
-    },
-    {
-      "fullName": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 266457,
-      "forks": 23825,
-      "starsToday": 777,
-      "ai": {
-        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 777 stars 増。"
-      }
-    },
-    {
-      "fullName": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "description": "21 Lessons, Get Started Building with Generative AI",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 116236,
-      "forks": 61545,
-      "starsToday": 784,
-      "ai": {
-        "shortSummary": "[mock] 21 Lessons, Get Started Building with Generative AI",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 784 stars 増。"
-      }
-    },
-    {
-      "fullName": "cypress-io/cypress",
-      "url": "https://github.com/cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 50782,
-      "forks": 3628,
-      "starsToday": 6,
-      "ai": {
-        "shortSummary": "[mock] Fast, easy and reliable testing for anything that runs in a browser.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 6 stars 増。"
-      }
-    },
-    {
-      "fullName": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 28354,
-      "forks": 3059,
-      "starsToday": 1716,
-      "ai": {
-        "shortSummary": "[mock] AirLLM 70B inference with single 4GB GPU",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1716 stars 増。"
-      }
-    },
-    {
-      "fullName": "webpack/webpack",
-      "url": "https://github.com/webpack/webpack",
-      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 65926,
-      "forks": 9528,
-      "starsToday": 8,
-      "ai": {
-        "shortSummary": "[mock] A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the applicati",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 8 stars 増。"
-      }
-    },
-    {
-      "fullName": "gabime/spdlog",
-      "url": "https://github.com/gabime/spdlog",
-      "description": "Fast C++ logging library.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 29372,
-      "forks": 5372,
-      "starsToday": 9,
-      "ai": {
-        "shortSummary": "[mock] Fast C++ logging library.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 9 stars 増。"
-      }
-    },
-    {
-      "fullName": "denoland/deno",
-      "url": "https://github.com/denoland/deno",
-      "description": "A modern runtime for JavaScript and TypeScript.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 108055,
-      "forks": 6306,
-      "starsToday": 27,
-      "ai": {
-        "shortSummary": "[mock] A modern runtime for JavaScript and TypeScript.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 27 stars 増。"
-      }
-    },
-    {
-      "fullName": "usekaneo/kaneo",
-      "url": "https://github.com/usekaneo/kaneo",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7277,
-      "forks": 579,
-      "starsToday": 565,
-      "ai": {
-        "shortSummary": "[mock] 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 565 stars 増。"
-      }
-    },
-    {
-      "fullName": "livekit/agents",
-      "url": "https://github.com/livekit/agents",
-      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 12391,
-      "forks": 3478,
-      "starsToday": 432,
-      "ai": {
-        "shortSummary": "[mock] A framework for building realtime voice AI agents 🤖🎙️📹",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 432 stars 増。"
-      }
-    },
-    {
-      "fullName": "angular/angular",
-      "url": "https://github.com/angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 100822,
-      "forks": 27401,
-      "starsToday": 8,
-      "ai": {
-        "shortSummary": "[mock] Deliver web apps with confidence 🚀",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 8 stars 増。"
-      }
-    },
-    {
-      "fullName": "tailwindlabs/tailwindcss",
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 96461,
-      "forks": 5533,
-      "starsToday": 30,
-      "ai": {
-        "shortSummary": "[mock] A utility-first CSS framework for rapid UI development.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 30 stars 増。"
-      }
-    },
-    {
-      "fullName": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 19303,
-      "forks": 2405,
-      "starsToday": 306,
-      "ai": {
-        "shortSummary": "[mock] Edit videos with coding agents",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 306 stars 増。"
+        "whyTrending": "[mock] 直近で 1583 stars 増。"
       }
     },
     {
@@ -250,28 +85,118 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30750,
-      "forks": 1980,
-      "starsToday": 924,
+      "stars": 31574,
+      "forks": 2027,
+      "starsToday": 747,
       "ai": {
         "shortSummary": "[mock] DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 924 stars 増。"
+        "whyTrending": "[mock] 直近で 747 stars 増。"
       }
     },
     {
-      "fullName": "EveryInc/compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 81965,
+      "forks": 8821,
+      "starsToday": 203,
+      "ai": {
+        "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 203 stars 増。"
+      }
+    },
+    {
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 267281,
+      "forks": 23878,
+      "starsToday": 931,
+      "ai": {
+        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 931 stars 増。"
+      }
+    },
+    {
+      "fullName": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 48905,
+      "forks": 4618,
+      "starsToday": 132,
+      "ai": {
+        "shortSummary": "[mock] We write your reusable computer vision tools. 💜",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 132 stars 増。"
+      }
+    },
+    {
+      "fullName": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 141538,
+      "forks": 31680,
+      "starsToday": 144,
+      "ai": {
+        "shortSummary": "[mock] The React Framework",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 144 stars 増。"
+      }
+    },
+    {
+      "fullName": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 23859,
-      "forks": 1957,
-      "starsToday": 33,
+      "stars": 96841,
+      "forks": 5547,
+      "starsToday": 408,
       "ai": {
-        "shortSummary": "[mock] Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+        "shortSummary": "[mock] A utility-first CSS framework for rapid UI development.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 33 stars 増。"
+        "whyTrending": "[mock] 直近で 408 stars 増。"
+      }
+    },
+    {
+      "fullName": "uber/ADR",
+      "url": "https://github.com/uber/ADR",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1029,
+      "forks": 85,
+      "starsToday": 354,
+      "ai": {
+        "shortSummary": "[mock] ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 354 stars 増。"
+      }
+    },
+    {
+      "fullName": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 29067,
+      "forks": 3121,
+      "starsToday": 833,
+      "ai": {
+        "shortSummary": "[mock] AirLLM 70B inference with single 4GB GPU",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 833 stars 増。"
       }
     }
   ]
