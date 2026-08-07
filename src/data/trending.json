@@ -1,97 +1,22 @@
 {
-  "fetchedAt": "2026-08-05T23:56:45.871Z",
+  "fetchedAt": "2026-08-07T01:40:54.873Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
-    {
-      "fullName": "cloudflare/computer",
-      "url": "https://github.com/cloudflare/computer",
-      "description": "Give your agent a computer 👾",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2851,
-      "forks": 129,
-      "starsToday": 796,
-      "ai": {
-        "shortSummary": "[mock] Give your agent a computer 👾",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 796 stars 増。"
-      }
-    },
-    {
-      "fullName": "huangruiteng/loopx",
-      "url": "https://github.com/huangruiteng/loopx",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2087,
-      "forks": 161,
-      "starsToday": 327,
-      "ai": {
-        "shortSummary": "[mock] Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding a",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 327 stars 増。"
-      }
-    },
     {
       "fullName": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15028,
-      "forks": 1366,
-      "starsToday": 1891,
+      "stars": 16436,
+      "forks": 1479,
+      "starsToday": 1057,
       "ai": {
         "shortSummary": "[mock] TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Ch",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1891 stars 増。"
-      }
-    },
-    {
-      "fullName": "donnemartin/system-design-primer",
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 361502,
-      "forks": 57648,
-      "starsToday": 304,
-      "ai": {
-        "shortSummary": "[mock] Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 304 stars 増。"
-      }
-    },
-    {
-      "fullName": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 11418,
-      "forks": 760,
-      "starsToday": 1583,
-      "ai": {
-        "shortSummary": "[mock] Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart ",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 1583 stars 増。"
-      }
-    },
-    {
-      "fullName": "esengine/DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 31574,
-      "forks": 2027,
-      "starsToday": 747,
-      "ai": {
-        "shortSummary": "[mock] DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 747 stars 増。"
+        "whyTrending": "[mock] 直近で 1057 stars 増。"
       }
     },
     {
@@ -100,13 +25,148 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 81965,
-      "forks": 8821,
-      "starsToday": 203,
+      "stars": 82966,
+      "forks": 8896,
+      "starsToday": 593,
       "ai": {
         "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 203 stars 増。"
+        "whyTrending": "[mock] 直近で 593 stars 増。"
+      }
+    },
+    {
+      "fullName": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 4833,
+      "forks": 242,
+      "starsToday": 2802,
+      "ai": {
+        "shortSummary": "[mock] Give your agent a computer 👾",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 2802 stars 増。"
+      }
+    },
+    {
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 207099,
+      "forks": 17886,
+      "starsToday": 1873,
+      "ai": {
+        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1873 stars 増。"
+      }
+    },
+    {
+      "fullName": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 23135,
+      "forks": 1774,
+      "starsToday": 138,
+      "ai": {
+        "shortSummary": "[mock] The authentication glue you need.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 138 stars 増。"
+      }
+    },
+    {
+      "fullName": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2884,
+      "forks": 218,
+      "starsToday": 847,
+      "ai": {
+        "shortSummary": "[mock] Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding a",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 847 stars 増。"
+      }
+    },
+    {
+      "fullName": "google/guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 51642,
+      "forks": 11164,
+      "starsToday": 13,
+      "ai": {
+        "shortSummary": "[mock] Google core libraries for Java",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 13 stars 増。"
+      }
+    },
+    {
+      "fullName": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "languageColor": "#ecdebe",
+      "stars": 77127,
+      "forks": 17419,
+      "starsToday": 134,
+      "ai": {
+        "shortSummary": "[mock] 所有小初高、大学PDF教材。",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 134 stars 増。"
+      }
+    },
+    {
+      "fullName": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 186020,
+      "forks": 46056,
+      "starsToday": 37,
+      "ai": {
+        "shortSummary": "[mock] AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on w",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 37 stars 増。"
+      }
+    },
+    {
+      "fullName": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 29036,
+      "forks": 2685,
+      "starsToday": 237,
+      "ai": {
+        "shortSummary": "[mock] Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, wit",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 237 stars 増。"
+      }
+    },
+    {
+      "fullName": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 32439,
+      "forks": 2099,
+      "starsToday": 888,
+      "ai": {
+        "shortSummary": "[mock] DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 888 stars 増。"
       }
     },
     {
@@ -115,88 +175,28 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 267281,
-      "forks": 23878,
-      "starsToday": 931,
+      "stars": 268114,
+      "forks": 23964,
+      "starsToday": 858,
       "ai": {
         "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 931 stars 増。"
+        "whyTrending": "[mock] 直近で 858 stars 増。"
       }
     },
     {
-      "fullName": "roboflow/supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 48905,
-      "forks": 4618,
-      "starsToday": 132,
+      "fullName": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 12475,
+      "forks": 839,
+      "starsToday": 1190,
       "ai": {
-        "shortSummary": "[mock] We write your reusable computer vision tools. 💜",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 132 stars 増。"
-      }
-    },
-    {
-      "fullName": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 141538,
-      "forks": 31680,
-      "starsToday": 144,
-      "ai": {
-        "shortSummary": "[mock] The React Framework",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 144 stars 増。"
-      }
-    },
-    {
-      "fullName": "tailwindlabs/tailwindcss",
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 96841,
-      "forks": 5547,
-      "starsToday": 408,
-      "ai": {
-        "shortSummary": "[mock] A utility-first CSS framework for rapid UI development.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 408 stars 増。"
-      }
-    },
-    {
-      "fullName": "uber/ADR",
-      "url": "https://github.com/uber/ADR",
-      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1029,
-      "forks": 85,
-      "starsToday": 354,
-      "ai": {
-        "shortSummary": "[mock] ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 354 stars 増。"
-      }
-    },
-    {
-      "fullName": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 29067,
-      "forks": 3121,
-      "starsToday": 833,
-      "ai": {
-        "shortSummary": "[mock] AirLLM 70B inference with single 4GB GPU",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 833 stars 増。"
+        "shortSummary": "[mock] Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart ",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 1190 stars 増。"
       }
     }
   ]
