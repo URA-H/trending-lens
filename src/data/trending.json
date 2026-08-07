@@ -1,22 +1,22 @@
 {
-  "fetchedAt": "2026-08-07T01:40:54.873Z",
+  "fetchedAt": "2026-08-07T23:29:53.995Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "fullName": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16436,
-      "forks": 1479,
-      "starsToday": 1057,
+      "stars": 6407,
+      "forks": 513,
+      "starsToday": 2271,
       "ai": {
-        "shortSummary": "[mock] TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Ch",
+        "shortSummary": "[mock] A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1057 stars 増。"
+        "whyTrending": "[mock] 直近で 2271 stars 増。"
       }
     },
     {
@@ -25,13 +25,13 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 82966,
-      "forks": 8896,
-      "starsToday": 593,
+      "stars": 83872,
+      "forks": 8962,
+      "starsToday": 1131,
       "ai": {
         "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 593 stars 増。"
+        "whyTrending": "[mock] 直近で 1131 stars 増。"
       }
     },
     {
@@ -40,13 +40,13 @@
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4833,
-      "forks": 242,
-      "starsToday": 2802,
+      "stars": 5657,
+      "forks": 286,
+      "starsToday": 894,
       "ai": {
         "shortSummary": "[mock] Give your agent a computer 👾",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2802 stars 増。"
+        "whyTrending": "[mock] 直近で 894 stars 増。"
       }
     },
     {
@@ -55,118 +55,13 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 207099,
-      "forks": 17886,
-      "starsToday": 1873,
+      "stars": 208763,
+      "forks": 18019,
+      "starsToday": 2180,
       "ai": {
         "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1873 stars 増。"
-      }
-    },
-    {
-      "fullName": "goauthentik/authentik",
-      "url": "https://github.com/goauthentik/authentik",
-      "description": "The authentication glue you need.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 23135,
-      "forks": 1774,
-      "starsToday": 138,
-      "ai": {
-        "shortSummary": "[mock] The authentication glue you need.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 138 stars 増。"
-      }
-    },
-    {
-      "fullName": "huangruiteng/loopx",
-      "url": "https://github.com/huangruiteng/loopx",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2884,
-      "forks": 218,
-      "starsToday": 847,
-      "ai": {
-        "shortSummary": "[mock] Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding a",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 847 stars 増。"
-      }
-    },
-    {
-      "fullName": "google/guava",
-      "url": "https://github.com/google/guava",
-      "description": "Google core libraries for Java",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 51642,
-      "forks": 11164,
-      "starsToday": 13,
-      "ai": {
-        "shortSummary": "[mock] Google core libraries for Java",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 13 stars 増。"
-      }
-    },
-    {
-      "fullName": "TapXWorld/ChinaTextbook",
-      "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "description": "所有小初高、大学PDF教材。",
-      "language": "Roff",
-      "languageColor": "#ecdebe",
-      "stars": 77127,
-      "forks": 17419,
-      "starsToday": 134,
-      "ai": {
-        "shortSummary": "[mock] 所有小初高、大学PDF教材。",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 134 stars 増。"
-      }
-    },
-    {
-      "fullName": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 186020,
-      "forks": 46056,
-      "starsToday": 37,
-      "ai": {
-        "shortSummary": "[mock] AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on w",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 37 stars 増。"
-      }
-    },
-    {
-      "fullName": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 29036,
-      "forks": 2685,
-      "starsToday": 237,
-      "ai": {
-        "shortSummary": "[mock] Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, wit",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 237 stars 増。"
-      }
-    },
-    {
-      "fullName": "esengine/DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 32439,
-      "forks": 2099,
-      "starsToday": 888,
-      "ai": {
-        "shortSummary": "[mock] DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 888 stars 増。"
+        "whyTrending": "[mock] 直近で 2180 stars 増。"
       }
     },
     {
@@ -175,28 +70,193 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 268114,
-      "forks": 23964,
-      "starsToday": 858,
+      "stars": 268724,
+      "forks": 23998,
+      "starsToday": 794,
       "ai": {
         "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 858 stars 増。"
+        "whyTrending": "[mock] 直近で 794 stars 増。"
       }
     },
     {
-      "fullName": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "fullName": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 23564,
+      "forks": 1801,
+      "starsToday": 544,
+      "ai": {
+        "shortSummary": "[mock] The authentication glue you need.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 544 stars 増。"
+      }
+    },
+    {
+      "fullName": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2331,
+      "forks": 305,
+      "starsToday": 118,
+      "ai": {
+        "shortSummary": "[mock] Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 118 stars 増。"
+      }
+    },
+    {
+      "fullName": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 70486,
+      "forks": 10987,
+      "starsToday": 126,
+      "ai": {
+        "shortSummary": "[mock] A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 126 stars 増。"
+      }
+    },
+    {
+      "fullName": "chenyme/grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7137,
+      "forks": 2170,
+      "starsToday": 62,
+      "ai": {
+        "shortSummary": "[mock] Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 62 stars 増。"
+      }
+    },
+    {
+      "fullName": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 12475,
-      "forks": 839,
-      "starsToday": 1190,
+      "stars": 32061,
+      "forks": 1332,
+      "starsToday": 130,
       "ai": {
-        "shortSummary": "[mock] Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart ",
+        "shortSummary": "[mock] dev tools, env vars, task runner",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 1190 stars 増。"
+        "whyTrending": "[mock] 直近で 130 stars 増。"
+      }
+    },
+    {
+      "fullName": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 186310,
+      "forks": 46059,
+      "starsToday": 363,
+      "ai": {
+        "shortSummary": "[mock] AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on w",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 363 stars 増。"
+      }
+    },
+    {
+      "fullName": "google/guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 51758,
+      "forks": 11173,
+      "starsToday": 156,
+      "ai": {
+        "shortSummary": "[mock] Google core libraries for Java",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 156 stars 増。"
+      }
+    },
+    {
+      "fullName": "unclebob/swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 1820,
+      "forks": 199,
+      "starsToday": 85,
+      "ai": {
+        "shortSummary": "[mock] A simple tool for coordinating several AI agents.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 85 stars 増。"
+      }
+    },
+    {
+      "fullName": "denoland/celld",
+      "url": "https://github.com/denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2189,
+      "forks": 60,
+      "starsToday": 546,
+      "ai": {
+        "shortSummary": "[mock] self-hosted, distributed Durable Objects",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 546 stars 増。"
+      }
+    },
+    {
+      "fullName": "K2SOsint/Legendary_OSINT",
+      "url": "https://github.com/K2SOsint/Legendary_OSINT",
+      "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "language": null,
+      "languageColor": null,
+      "stars": 1413,
+      "forks": 186,
+      "starsToday": 64,
+      "ai": {
+        "shortSummary": "[mock] A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 64 stars 増。"
+      }
+    },
+    {
+      "fullName": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19717,
+      "forks": 636,
+      "starsToday": 308,
+      "ai": {
+        "shortSummary": "[mock] Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 308 stars 増。"
+      }
+    },
+    {
+      "fullName": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 16227,
+      "forks": 1289,
+      "starsToday": 305,
+      "ai": {
+        "shortSummary": "[mock] Agent Skills for Google products and technologies",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 305 stars 増。"
       }
     }
   ]
