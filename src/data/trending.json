@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-08T23:24:01.659Z",
+  "fetchedAt": "2026-08-09T23:26:48.261Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,13 +10,73 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8826,
-      "forks": 827,
-      "starsToday": 2483,
+      "stars": 10952,
+      "forks": 1139,
+      "starsToday": 2319,
       "ai": {
         "shortSummary": "[mock] A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2483 stars 増。"
+        "whyTrending": "[mock] 直近で 2319 stars 増。"
+      }
+    },
+    {
+      "fullName": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2962,
+      "forks": 519,
+      "starsToday": 59,
+      "ai": {
+        "shortSummary": "[mock] The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 59 stars 増。"
+      }
+    },
+    {
+      "fullName": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 140621,
+      "forks": 22973,
+      "starsToday": 932,
+      "ai": {
+        "shortSummary": "[mock] A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each ",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 932 stars 増。"
+      }
+    },
+    {
+      "fullName": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 20611,
+      "forks": 726,
+      "starsToday": 342,
+      "ai": {
+        "shortSummary": "[mock] Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 342 stars 増。"
+      }
+    },
+    {
+      "fullName": "google-deepmind/weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "description": null,
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 7061,
+      "forks": 936,
+      "starsToday": 105,
+      "ai": {
+        "shortSummary": "[mock] google-deepmind/weathernext (no description)",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 105 stars 増。"
       }
     },
     {
@@ -25,58 +85,28 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 84528,
-      "forks": 9087,
-      "starsToday": 778,
+      "stars": 85098,
+      "forks": 9156,
+      "starsToday": 670,
       "ai": {
         "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 778 stars 増。"
+        "whyTrending": "[mock] 直近で 670 stars 増。"
       }
     },
     {
-      "fullName": "TapXWorld/ChinaTextbook",
-      "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "description": "所有小初高、大学PDF教材。",
-      "language": "Roff",
-      "languageColor": "#ecdebe",
-      "stars": 77909,
-      "forks": 17639,
-      "starsToday": 591,
-      "ai": {
-        "shortSummary": "[mock] 所有小初高、大学PDF教材。",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 591 stars 増。"
-      }
-    },
-    {
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16709,
-      "forks": 1359,
-      "starsToday": 481,
+      "stars": 61158,
+      "forks": 51989,
+      "starsToday": 287,
       "ai": {
-        "shortSummary": "[mock] Agent Skills for Google products and technologies",
+        "shortSummary": "[mock] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 481 stars 増。"
-      }
-    },
-    {
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 209965,
-      "forks": 18140,
-      "starsToday": 1354,
-      "ai": {
-        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1354 stars 増。"
+        "whyTrending": "[mock] 直近で 287 stars 増。"
       }
     },
     {
@@ -85,103 +115,73 @@
       "description": "The authentication glue you need.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 23960,
-      "forks": 1836,
-      "starsToday": 467,
+      "stars": 24250,
+      "forks": 1856,
+      "starsToday": 312,
       "ai": {
         "shortSummary": "[mock] The authentication glue you need.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 467 stars 増。"
+        "whyTrending": "[mock] 直近で 312 stars 増。"
       }
     },
     {
-      "fullName": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "fullName": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 96453,
-      "forks": 18650,
-      "starsToday": 126,
+      "stars": 17199,
+      "forks": 1390,
+      "starsToday": 532,
       "ai": {
-        "shortSummary": "[mock] TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "shortSummary": "[mock] Agent Skills for Google products and technologies",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 126 stars 増。"
+        "whyTrending": "[mock] 直近で 532 stars 増。"
       }
     },
     {
-      "fullName": "google/guava",
-      "url": "https://github.com/google/guava",
-      "description": "Google core libraries for Java",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 51844,
-      "forks": 11180,
-      "starsToday": 93,
+      "fullName": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 125466,
+      "forks": 14836,
+      "starsToday": 333,
       "ai": {
-        "shortSummary": "[mock] Google core libraries for Java",
+        "shortSummary": "[mock] The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 333 stars 増。"
+      }
+    },
+    {
+      "fullName": "harveyai/harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 809,
+      "forks": 174,
+      "starsToday": 87,
+      "ai": {
+        "shortSummary": "[mock] A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 87 stars 増。"
+      }
+    },
+    {
+      "fullName": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": null,
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 17634,
+      "forks": 4009,
+      "starsToday": 208,
+      "ai": {
+        "shortSummary": "[mock] pingdotgg/t3code (no description)",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 93 stars 増。"
-      }
-    },
-    {
-      "fullName": "LadybirdBrowser/ladybird",
-      "url": "https://github.com/LadybirdBrowser/ladybird",
-      "description": "Truly independent web browser",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 64973,
-      "forks": 3104,
-      "starsToday": 79,
-      "ai": {
-        "shortSummary": "[mock] Truly independent web browser",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 79 stars 増。"
-      }
-    },
-    {
-      "fullName": "denoland/celld",
-      "url": "https://github.com/denoland/celld",
-      "description": "self-hosted, distributed Durable Objects",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2546,
-      "forks": 72,
-      "starsToday": 432,
-      "ai": {
-        "shortSummary": "[mock] self-hosted, distributed Durable Objects",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 432 stars 増。"
-      }
-    },
-    {
-      "fullName": "litu54/DevOps-Interview-Guide",
-      "url": "https://github.com/litu54/DevOps-Interview-Guide",
-      "description": "DevOps Interview Guide",
-      "language": null,
-      "languageColor": null,
-      "stars": 695,
-      "forks": 882,
-      "starsToday": 59,
-      "ai": {
-        "shortSummary": "[mock] DevOps Interview Guide",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 59 stars 増。"
-      }
-    },
-    {
-      "fullName": "bannedbook/fanqiang",
-      "url": "https://github.com/bannedbook/fanqiang",
-      "description": "翻墙-科学上网",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 49863,
-      "forks": 8252,
-      "starsToday": 161,
-      "ai": {
-        "shortSummary": "[mock] 翻墙-科学上网",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 161 stars 増。"
+        "whyTrending": "[mock] 直近で 208 stars 増。"
       }
     }
   ]
