@@ -1,37 +1,22 @@
 {
-  "fetchedAt": "2026-08-09T23:26:48.261Z",
+  "fetchedAt": "2026-08-10T23:31:02.178Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 10952,
-      "forks": 1139,
-      "starsToday": 2319,
-      "ai": {
-        "shortSummary": "[mock] A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2319 stars 増。"
-      }
-    },
-    {
-      "fullName": "vitali87/code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "fullName": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2962,
-      "forks": 519,
-      "starsToday": 59,
+      "stars": 4057,
+      "forks": 481,
+      "starsToday": 967,
       "ai": {
-        "shortSummary": "[mock] The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "shortSummary": "[mock] Graph-Native Infrastructure for Context and Accountable AI Systems",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 59 stars 増。"
+        "whyTrending": "[mock] 直近で 967 stars 増。"
       }
     },
     {
@@ -40,43 +25,28 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 140621,
-      "forks": 22973,
-      "starsToday": 932,
+      "stars": 141774,
+      "forks": 23132,
+      "starsToday": 1352,
       "ai": {
         "shortSummary": "[mock] A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each ",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 932 stars 増。"
+        "whyTrending": "[mock] 直近で 1352 stars 増。"
       }
     },
     {
-      "fullName": "pranshuparmar/witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 20611,
-      "forks": 726,
-      "starsToday": 342,
-      "ai": {
-        "shortSummary": "[mock] Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 342 stars 増。"
-      }
-    },
-    {
-      "fullName": "google-deepmind/weathernext",
-      "url": "https://github.com/google-deepmind/weathernext",
-      "description": null,
+      "fullName": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7061,
-      "forks": 936,
-      "starsToday": 105,
+      "stars": 60972,
+      "forks": 12005,
+      "starsToday": 215,
       "ai": {
-        "shortSummary": "[mock] google-deepmind/weathernext (no description)",
+        "shortSummary": "[mock] 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 105 stars 増。"
+        "whyTrending": "[mock] 直近で 215 stars 増。"
       }
     },
     {
@@ -85,88 +55,148 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 85098,
-      "forks": 9156,
-      "starsToday": 670,
+      "stars": 85720,
+      "forks": 9226,
+      "starsToday": 659,
       "ai": {
         "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 670 stars 増。"
+        "whyTrending": "[mock] 直近で 659 stars 増。"
       }
     },
     {
-      "fullName": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 61158,
-      "forks": 51989,
-      "starsToday": 287,
+      "fullName": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 76444,
+      "forks": 14202,
+      "starsToday": 167,
       "ai": {
-        "shortSummary": "[mock] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 287 stars 増。"
+        "shortSummary": "[mock] The open-source app everyone uses to manage agents at work",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 167 stars 増。"
       }
     },
     {
-      "fullName": "goauthentik/authentik",
-      "url": "https://github.com/goauthentik/authentik",
-      "description": "The authentication glue you need.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 24250,
-      "forks": 1856,
-      "starsToday": 312,
+      "fullName": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 13018,
+      "forks": 1322,
+      "starsToday": 2655,
       "ai": {
-        "shortSummary": "[mock] The authentication glue you need.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 312 stars 増。"
+        "shortSummary": "[mock] A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 2655 stars 増。"
       }
     },
     {
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 17199,
-      "forks": 1390,
-      "starsToday": 532,
+      "fullName": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 65243,
+      "forks": 3117,
+      "starsToday": 106,
       "ai": {
-        "shortSummary": "[mock] Agent Skills for Google products and technologies",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 532 stars 増。"
+        "shortSummary": "[mock] Truly independent web browser",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 106 stars 増。"
       }
     },
     {
-      "fullName": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 125466,
-      "forks": 14836,
-      "starsToday": 333,
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 89352,
+      "forks": 11889,
+      "starsToday": 186,
       "ai": {
-        "shortSummary": "[mock] The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 333 stars 増。"
+        "shortSummary": "[mock] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a sin",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 186 stars 増。"
       }
     },
     {
-      "fullName": "harveyai/harvey-labs",
-      "url": "https://github.com/harveyai/harvey-labs",
-      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "fullName": "danielmiessler/LifeOS",
+      "url": "https://github.com/danielmiessler/LifeOS",
+      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 17878,
+      "forks": 2363,
+      "starsToday": 357,
+      "ai": {
+        "shortSummary": "[mock] ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 357 stars 増。"
+      }
+    },
+    {
+      "fullName": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 165032,
+      "forks": 9285,
+      "starsToday": 815,
+      "ai": {
+        "shortSummary": "[mock] The context API to search, scrape, and interact with the web at scale. 🔥",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 815 stars 増。"
+      }
+    },
+    {
+      "fullName": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 809,
-      "forks": 174,
-      "starsToday": 87,
+      "stars": 97192,
+      "forks": 18733,
+      "starsToday": 234,
       "ai": {
-        "shortSummary": "[mock] A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+        "shortSummary": "[mock] TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 87 stars 増。"
+        "whyTrending": "[mock] 直近で 234 stars 増。"
+      }
+    },
+    {
+      "fullName": "google-deepmind/weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "description": null,
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 7333,
+      "forks": 954,
+      "starsToday": 327,
+      "ai": {
+        "shortSummary": "[mock] google-deepmind/weathernext (no description)",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 327 stars 増。"
+      }
+    },
+    {
+      "fullName": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3512,
+      "forks": 546,
+      "starsToday": 682,
+      "ai": {
+        "shortSummary": "[mock] The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 682 stars 増。"
       }
     },
     {
@@ -175,13 +205,43 @@
       "description": null,
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 17634,
-      "forks": 4009,
-      "starsToday": 208,
+      "stars": 18017,
+      "forks": 4076,
+      "starsToday": 388,
       "ai": {
         "shortSummary": "[mock] pingdotgg/t3code (no description)",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 208 stars 増。"
+        "whyTrending": "[mock] 直近で 388 stars 増。"
+      }
+    },
+    {
+      "fullName": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 126291,
+      "forks": 14898,
+      "starsToday": 921,
+      "ai": {
+        "shortSummary": "[mock] The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 921 stars 増。"
+      }
+    },
+    {
+      "fullName": "opa334/Dopamine",
+      "url": "https://github.com/opa334/Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 6014,
+      "forks": 6192,
+      "starsToday": 174,
+      "ai": {
+        "shortSummary": "[mock] Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 174 stars 増。"
       }
     }
   ]
