@@ -1,22 +1,37 @@
 {
-  "fetchedAt": "2026-08-11T23:35:09.962Z",
+  "fetchedAt": "2026-08-12T23:36:18.382Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 143141,
-      "forks": 23271,
-      "starsToday": 971,
+      "fullName": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 10197,
+      "forks": 666,
+      "starsToday": 2951,
       "ai": {
-        "shortSummary": "[mock] A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each ",
+        "shortSummary": "[mock] 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 971 stars 増。"
+        "whyTrending": "[mock] 直近で 2951 stars 増。"
+      }
+    },
+    {
+      "fullName": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1744,
+      "forks": 221,
+      "starsToday": 325,
+      "ai": {
+        "shortSummary": "[mock] Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 325 stars 増。"
       }
     },
     {
@@ -25,118 +40,13 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4839,
-      "forks": 526,
-      "starsToday": 884,
+      "stars": 5683,
+      "forks": 623,
+      "starsToday": 834,
       "ai": {
         "shortSummary": "[mock] Graph-Native Infrastructure for Context and Accountable AI Systems",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 884 stars 増。"
-      }
-    },
-    {
-      "fullName": "nvm-sh/nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 94480,
-      "forks": 10353,
-      "starsToday": 18,
-      "ai": {
-        "shortSummary": "[mock] Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 18 stars 増。"
-      }
-    },
-    {
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 86204,
-      "forks": 9263,
-      "starsToday": 571,
-      "ai": {
-        "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 571 stars 増。"
-      }
-    },
-    {
-      "fullName": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 62100,
-      "forks": 52420,
-      "starsToday": 317,
-      "ai": {
-        "shortSummary": "[mock] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 317 stars 増。"
-      }
-    },
-    {
-      "fullName": "vitali87/code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3800,
-      "forks": 560,
-      "starsToday": 339,
-      "ai": {
-        "shortSummary": "[mock] The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 339 stars 増。"
-      }
-    },
-    {
-      "fullName": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 168109,
-      "forks": 20029,
-      "starsToday": 468,
-      "ai": {
-        "shortSummary": "[mock] Public repository for Agent Skills",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 468 stars 増。"
-      }
-    },
-    {
-      "fullName": "3b1b/manim",
-      "url": "https://github.com/3b1b/manim",
-      "description": "Animation engine for explanatory math videos",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 90154,
-      "forks": 7478,
-      "starsToday": 246,
-      "ai": {
-        "shortSummary": "[mock] Animation engine for explanatory math videos",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 246 stars 増。"
-      }
-    },
-    {
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 34675,
-      "forks": 4417,
-      "starsToday": 829,
-      "ai": {
-        "shortSummary": "[mock] DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 829 stars 増。"
+        "whyTrending": "[mock] 直近で 834 stars 増。"
       }
     },
     {
@@ -145,13 +55,88 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 42726,
-      "forks": 2979,
-      "starsToday": 881,
+      "stars": 43821,
+      "forks": 3053,
+      "starsToday": 1215,
       "ai": {
         "shortSummary": "[mock] Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile a",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 881 stars 増。"
+        "whyTrending": "[mock] 直近で 1215 stars 増。"
+      }
+    },
+    {
+      "fullName": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 144538,
+      "forks": 23415,
+      "starsToday": 1969,
+      "ai": {
+        "shortSummary": "[mock] A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each ",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1969 stars 増。"
+      }
+    },
+    {
+      "fullName": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 36934,
+      "forks": 6150,
+      "starsToday": 277,
+      "ai": {
+        "shortSummary": "[mock] Kronos: A Foundation Model for the Language of Financial Markets",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 277 stars 増。"
+      }
+    },
+    {
+      "fullName": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 61953,
+      "forks": 12121,
+      "starsToday": 236,
+      "ai": {
+        "shortSummary": "[mock] 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 236 stars 増。"
+      }
+    },
+    {
+      "fullName": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 45534,
+      "forks": 3713,
+      "starsToday": 364,
+      "ai": {
+        "shortSummary": "[mock] AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and table",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 364 stars 増。"
+      }
+    },
+    {
+      "fullName": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 87529,
+      "forks": 10309,
+      "starsToday": 182,
+      "ai": {
+        "shortSummary": "[mock] RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 182 stars 増。"
       }
     },
     {
@@ -160,103 +145,118 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 77138,
-      "forks": 14248,
-      "starsToday": 743,
+      "stars": 77704,
+      "forks": 14297,
+      "starsToday": 573,
       "ai": {
         "shortSummary": "[mock] The open-source app everyone uses to manage agents at work",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 743 stars 増。"
+        "whyTrending": "[mock] 直近で 573 stars 増。"
       }
     },
     {
-      "fullName": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 163793,
-      "forks": 34200,
-      "starsToday": 69,
+      "fullName": "NVIDIA-NeMo/Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": null,
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 803,
+      "forks": 83,
+      "starsToday": 370,
       "ai": {
-        "shortSummary": "[mock] 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, ",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 69 stars 増。"
+        "shortSummary": "[mock] NVIDIA-NeMo/Switchyard (no description)",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 370 stars 増。"
       }
     },
     {
-      "fullName": "harveyai/harvey-labs",
-      "url": "https://github.com/harveyai/harvey-labs",
-      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1073,
-      "forks": 195,
-      "starsToday": 24,
-      "ai": {
-        "shortSummary": "[mock] A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 24 stars 増。"
-      }
-    },
-    {
-      "fullName": "jaywcjlove/awesome-mac",
-      "url": "https://github.com/jaywcjlove/awesome-mac",
-      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 110451,
-      "forks": 8415,
-      "starsToday": 334,
-      "ai": {
-        "shortSummary": "[mock]  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy se",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 334 stars 増。"
-      }
-    },
-    {
-      "fullName": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 47301,
-      "forks": 5900,
-      "starsToday": 436,
-      "ai": {
-        "shortSummary": "[mock] World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge f",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 436 stars 増。"
-      }
-    },
-    {
-      "fullName": "practical-tutorials/project-based-learning",
-      "url": "https://github.com/practical-tutorials/project-based-learning",
-      "description": "Curated list of project-based tutorials",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 278421,
-      "forks": 35778,
-      "starsToday": 394,
-      "ai": {
-        "shortSummary": "[mock] Curated list of project-based tutorials",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 394 stars 増。"
-      }
-    },
-    {
-      "fullName": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "fullName": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14055,
-      "forks": 1449,
-      "starsToday": 1148,
+      "stars": 36054,
+      "forks": 5027,
+      "starsToday": 53,
       "ai": {
-        "shortSummary": "[mock] A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "shortSummary": "[mock] 人人都能用英语",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1148 stars 増。"
+        "whyTrending": "[mock] 直近で 53 stars 増。"
+      }
+    },
+    {
+      "fullName": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 20336,
+      "forks": 3298,
+      "starsToday": 40,
+      "ai": {
+        "shortSummary": "[mock] SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 40 stars 増。"
+      }
+    },
+    {
+      "fullName": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 87789,
+      "forks": 4870,
+      "starsToday": 284,
+      "ai": {
+        "shortSummary": "[mock] An open-source cross-platform alternative to AirDrop",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 284 stars 増。"
+      }
+    },
+    {
+      "fullName": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 8697,
+      "forks": 1396,
+      "starsToday": 40,
+      "ai": {
+        "shortSummary": "[mock] Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 40 stars 増。"
+      }
+    },
+    {
+      "fullName": "embabel/embabel-agent",
+      "url": "https://github.com/embabel/embabel-agent",
+      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 4219,
+      "forks": 411,
+      "starsToday": 29,
+      "ai": {
+        "shortSummary": "[mock] Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 29 stars 増。"
+      }
+    },
+    {
+      "fullName": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4197,
+      "forks": 303,
+      "starsToday": 346,
+      "ai": {
+        "shortSummary": "[mock] 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 346 stars 増。"
       }
     }
   ]
