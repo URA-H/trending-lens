@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T23:16:15.843Z",
+  "fetchedAt": "2026-08-16T23:15:34.875Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,58 +10,28 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4040,
-      "forks": 198,
-      "starsToday": 616,
+      "stars": 4691,
+      "forks": 244,
+      "starsToday": 719,
       "ai": {
         "shortSummary": "[mock] Meta-Framework of Spatiotemporal Composability",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 616 stars 増。"
+        "whyTrending": "[mock] 直近で 719 stars 増。"
       }
     },
     {
-      "fullName": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 18569,
-      "forks": 1114,
-      "starsToday": 1619,
+      "fullName": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 25347,
+      "forks": 2588,
+      "starsToday": 225,
       "ai": {
-        "shortSummary": "[mock] 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "shortSummary": "[mock] Beautiful, Modern & Opinionated Linux",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1619 stars 増。"
-      }
-    },
-    {
-      "fullName": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2944,
-      "forks": 233,
-      "starsToday": 152,
-      "ai": {
-        "shortSummary": "[mock] Cursor plugin specification and official plugins",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 152 stars 増。"
-      }
-    },
-    {
-      "fullName": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 6052,
-      "forks": 402,
-      "starsToday": 551,
-      "ai": {
-        "shortSummary": "[mock] 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 551 stars 増。"
+        "whyTrending": "[mock] 直近で 225 stars 増。"
       }
     },
     {
@@ -70,13 +40,28 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 72021,
-      "forks": 6492,
-      "starsToday": 435,
+      "stars": 72535,
+      "forks": 6542,
+      "starsToday": 580,
       "ai": {
         "shortSummary": "[mock] Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 435 stars 増。"
+        "whyTrending": "[mock] 直近で 580 stars 増。"
+      }
+    },
+    {
+      "fullName": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 83852,
+      "forks": 8280,
+      "starsToday": 134,
+      "ai": {
+        "shortSummary": "[mock] The open-source CapCut alternative",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 134 stars 増。"
       }
     },
     {
@@ -85,73 +70,13 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 460121,
-      "forks": 50852,
-      "starsToday": 2476,
+      "stars": 461674,
+      "forks": 50996,
+      "starsToday": 1583,
       "ai": {
         "shortSummary": "[mock] A collective list of free APIs",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2476 stars 増。"
-      }
-    },
-    {
-      "fullName": "MakazhanAlpamys/Soup",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1634,
-      "forks": 261,
-      "starsToday": 303,
-      "ai": {
-        "shortSummary": "[mock] Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 303 stars 増。"
-      }
-    },
-    {
-      "fullName": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 129172,
-      "forks": 11548,
-      "starsToday": 901,
-      "ai": {
-        "shortSummary": "[mock] 💫 Toolkit to help you get started with Spec-Driven Development",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 901 stars 増。"
-      }
-    },
-    {
-      "fullName": "megadose/holehe",
-      "url": "https://github.com/megadose/holehe",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 13104,
-      "forks": 1742,
-      "starsToday": 389,
-      "ai": {
-        "shortSummary": "[mock] holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the fo",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 389 stars 増。"
-      }
-    },
-    {
-      "fullName": "altic-dev/FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 10310,
-      "forks": 697,
-      "starsToday": 165,
-      "ai": {
-        "shortSummary": "[mock] Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X ",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 165 stars 増。"
+        "whyTrending": "[mock] 直近で 1583 stars 増。"
       }
     },
     {
@@ -160,43 +85,28 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 39510,
-      "forks": 5293,
-      "starsToday": 553,
+      "stars": 39997,
+      "forks": 5329,
+      "starsToday": 446,
       "ai": {
         "shortSummary": "[mock] ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, busines",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 553 stars 増。"
+        "whyTrending": "[mock] 直近で 446 stars 増。"
       }
     },
     {
-      "fullName": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "fullName": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 47330,
-      "forks": 4391,
-      "starsToday": 100,
+      "stars": 6540,
+      "forks": 431,
+      "starsToday": 447,
       "ai": {
-        "shortSummary": "[mock] \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "shortSummary": "[mock] 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 100 stars 増。"
-      }
-    },
-    {
-      "fullName": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 10942,
-      "forks": 557,
-      "starsToday": 546,
-      "ai": {
-        "shortSummary": "[mock] The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex ",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 546 stars 増。"
+        "whyTrending": "[mock] 直近で 447 stars 増。"
       }
     }
   ]
