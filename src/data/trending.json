@@ -1,112 +1,172 @@
 {
-  "fetchedAt": "2026-08-16T23:15:34.875Z",
+  "fetchedAt": "2026-08-17T23:18:36.073Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
+    {
+      "fullName": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 105936,
+      "forks": 16103,
+      "starsToday": 1275,
+      "ai": {
+        "shortSummary": "[mock] 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 1275 stars 増。"
+      }
+    },
+    {
+      "fullName": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 54105,
+      "forks": 5792,
+      "starsToday": 656,
+      "ai": {
+        "shortSummary": "[mock] Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 656 stars 増。"
+      }
+    },
+    {
+      "fullName": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 25891,
+      "forks": 3372,
+      "starsToday": 115,
+      "ai": {
+        "shortSummary": "[mock] Production-grade Rust-native trading engine with deterministic event-driven architecture",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 115 stars 増。"
+      }
+    },
+    {
+      "fullName": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2010,
+      "forks": 192,
+      "starsToday": 207,
+      "ai": {
+        "shortSummary": "[mock] Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 207 stars 増。"
+      }
+    },
+    {
+      "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 28385,
+      "forks": 3446,
+      "starsToday": 156,
+      "ai": {
+        "shortSummary": "[mock] 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & M",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 156 stars 増。"
+      }
+    },
+    {
+      "fullName": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 32233,
+      "forks": 1998,
+      "starsToday": 239,
+      "ai": {
+        "shortSummary": "[mock] Hundreds of models & providers. One command to find what runs on your hardware.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 239 stars 増。"
+      }
+    },
+    {
+      "fullName": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 64587,
+      "forks": 12650,
+      "starsToday": 147,
+      "ai": {
+        "shortSummary": "[mock] Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track appl",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 147 stars 増。"
+      }
+    },
+    {
+      "fullName": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 18972,
+      "forks": 1644,
+      "starsToday": 96,
+      "ai": {
+        "shortSummary": "[mock] LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 96 stars 増。"
+      }
+    },
+    {
+      "fullName": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 111121,
+      "forks": 6574,
+      "starsToday": 337,
+      "ai": {
+        "shortSummary": "[mock] High performance self-hosted photo and video management solution.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 337 stars 増。"
+      }
+    },
     {
       "fullName": "cordiverse/cordis",
       "url": "https://github.com/cordiverse/cordis",
       "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4691,
-      "forks": 244,
-      "starsToday": 719,
+      "stars": 5555,
+      "forks": 294,
+      "starsToday": 959,
       "ai": {
         "shortSummary": "[mock] Meta-Framework of Spatiotemporal Composability",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 719 stars 増。"
+        "whyTrending": "[mock] 直近で 959 stars 増。"
       }
     },
     {
-      "fullName": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 25347,
-      "forks": 2588,
-      "starsToday": 225,
-      "ai": {
-        "shortSummary": "[mock] Beautiful, Modern & Opinionated Linux",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 225 stars 増。"
-      }
-    },
-    {
-      "fullName": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 72535,
-      "forks": 6542,
-      "starsToday": 580,
-      "ai": {
-        "shortSummary": "[mock] Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 580 stars 増。"
-      }
-    },
-    {
-      "fullName": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
+      "fullName": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 83852,
-      "forks": 8280,
-      "starsToday": 134,
+      "stars": 53039,
+      "forks": 4927,
+      "starsToday": 295,
       "ai": {
-        "shortSummary": "[mock] The open-source CapCut alternative",
+        "shortSummary": "[mock] A full-featured download manager.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 134 stars 増。"
-      }
-    },
-    {
-      "fullName": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 461674,
-      "forks": 50996,
-      "starsToday": 1583,
-      "ai": {
-        "shortSummary": "[mock] A collective list of free APIs",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1583 stars 増。"
-      }
-    },
-    {
-      "fullName": "ToolJet/ToolJet",
-      "url": "https://github.com/ToolJet/ToolJet",
-      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 39997,
-      "forks": 5329,
-      "starsToday": 446,
-      "ai": {
-        "shortSummary": "[mock] ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, busines",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 446 stars 増。"
-      }
-    },
-    {
-      "fullName": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 6540,
-      "forks": 431,
-      "starsToday": 447,
-      "ai": {
-        "shortSummary": "[mock] 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 447 stars 増。"
+        "whyTrending": "[mock] 直近で 295 stars 増。"
       }
     }
   ]
