@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T23:17:35.217Z",
+  "fetchedAt": "2026-08-19T23:18:40.729Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,43 +10,13 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 108466,
-      "forks": 16471,
-      "starsToday": 2306,
+      "stars": 110541,
+      "forks": 16773,
+      "starsToday": 2221,
       "ai": {
         "shortSummary": "[mock] 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2306 stars 増。"
-      }
-    },
-    {
-      "fullName": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "description": "local multi-agent harness",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 1993,
-      "forks": 238,
-      "starsToday": 256,
-      "ai": {
-        "shortSummary": "[mock] local multi-agent harness",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 256 stars 増。"
-      }
-    },
-    {
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2688,
-      "forks": 232,
-      "starsToday": 730,
-      "ai": {
-        "shortSummary": "[mock] Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 730 stars 増。"
+        "whyTrending": "[mock] 直近で 2221 stars 増。"
       }
     },
     {
@@ -55,13 +25,28 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 29333,
-      "forks": 2304,
-      "starsToday": 298,
+      "stars": 30140,
+      "forks": 2334,
+      "starsToday": 803,
       "ai": {
         "shortSummary": "[mock] Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 298 stars 増。"
+        "whyTrending": "[mock] 直近で 803 stars 増。"
+      }
+    },
+    {
+      "fullName": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 2661,
+      "forks": 319,
+      "starsToday": 797,
+      "ai": {
+        "shortSummary": "[mock] local multi-agent harness",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 797 stars 増。"
       }
     },
     {
@@ -70,73 +55,58 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 29151,
-      "forks": 3494,
-      "starsToday": 726,
+      "stars": 29808,
+      "forks": 3535,
+      "starsToday": 767,
       "ai": {
         "shortSummary": "[mock] 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & M",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 726 stars 増。"
+        "whyTrending": "[mock] 直近で 767 stars 増。"
       }
     },
     {
-      "fullName": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 464485,
-      "forks": 51306,
-      "starsToday": 1139,
+      "fullName": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 26434,
+      "forks": 3419,
+      "starsToday": 79,
       "ai": {
-        "shortSummary": "[mock] A collective list of free APIs",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1139 stars 増。"
+        "shortSummary": "[mock] Production-grade Rust-native trading engine with deterministic event-driven architecture",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 79 stars 増。"
       }
     },
     {
-      "fullName": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 26398,
-      "forks": 2688,
-      "starsToday": 411,
+      "stars": 223722,
+      "forks": 19251,
+      "starsToday": 1214,
       "ai": {
-        "shortSummary": "[mock] Beautiful, Modern & Opinionated Linux",
+        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 411 stars 増。"
+        "whyTrending": "[mock] 直近で 1214 stars 増。"
       }
     },
     {
-      "fullName": "agalwood/Motrix",
-      "url": "https://github.com/agalwood/Motrix",
-      "description": "A full-featured download manager.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 53636,
-      "forks": 4948,
-      "starsToday": 607,
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 274246,
+      "forks": 24554,
+      "starsToday": 514,
       "ai": {
-        "shortSummary": "[mock] A full-featured download manager.",
+        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 607 stars 増。"
-      }
-    },
-    {
-      "fullName": "NawfalMotii79/PLFM_RADAR",
-      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "language": "PLSQL",
-      "languageColor": "#dad8d8",
-      "stars": 24280,
-      "forks": 5584,
-      "starsToday": 204,
-      "ai": {
-        "shortSummary": "[mock] Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 204 stars 増。"
+        "whyTrending": "[mock] 直近で 514 stars 増。"
       }
     },
     {
@@ -145,28 +115,73 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 19377,
-      "forks": 1668,
-      "starsToday": 366,
+      "stars": 19821,
+      "forks": 1689,
+      "starsToday": 467,
       "ai": {
         "shortSummary": "[mock] LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 366 stars 増。"
+        "whyTrending": "[mock] 直近で 467 stars 増。"
       }
     },
     {
-      "fullName": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "fullName": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 65747,
+      "forks": 12736,
+      "starsToday": 193,
+      "ai": {
+        "shortSummary": "[mock] Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track appl",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 193 stars 増。"
+      }
+    },
+    {
+      "fullName": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 111841,
+      "forks": 6627,
+      "starsToday": 137,
+      "ai": {
+        "shortSummary": "[mock] High performance self-hosted photo and video management solution.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 137 stars 増。"
+      }
+    },
+    {
+      "fullName": "amadeusprotocol/node",
+      "url": "https://github.com/amadeusprotocol/node",
+      "description": null,
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4494,
+      "forks": 80,
+      "starsToday": 1415,
+      "ai": {
+        "shortSummary": "[mock] amadeusprotocol/node (no description)",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 1415 stars 増。"
+      }
+    },
+    {
+      "fullName": "marceloprates/prettymaps",
+      "url": "https://github.com/marceloprates/prettymaps",
+      "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 39085,
-      "forks": 4310,
-      "starsToday": 556,
+      "stars": 13083,
+      "forks": 654,
+      "starsToday": 58,
       "ai": {
-        "shortSummary": "[mock] 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+        "shortSummary": "[mock] Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 556 stars 増。"
+        "whyTrending": "[mock] 直近で 58 stars 増。"
       }
     },
     {
@@ -175,28 +190,13 @@
       "description": null,
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 15902,
-      "forks": 801,
-      "starsToday": 543,
+      "stars": 16222,
+      "forks": 808,
+      "starsToday": 421,
       "ai": {
         "shortSummary": "[mock] genlayerlabs/genlayer-project-boilerplate (no description)",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 543 stars 増。"
-      }
-    },
-    {
-      "fullName": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 84734,
-      "forks": 8350,
-      "starsToday": 288,
-      "ai": {
-        "shortSummary": "[mock] The open-source CapCut alternative",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 288 stars 増。"
+        "whyTrending": "[mock] 直近で 421 stars 増。"
       }
     }
   ]
