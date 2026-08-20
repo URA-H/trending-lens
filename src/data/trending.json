@@ -1,82 +1,22 @@
 {
-  "fetchedAt": "2026-08-19T23:18:40.729Z",
+  "fetchedAt": "2026-08-20T23:21:22.445Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 110541,
-      "forks": 16773,
-      "starsToday": 2221,
+      "fullName": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "languageColor": "#ff4c1f",
+      "stars": 27899,
+      "forks": 2999,
+      "starsToday": 340,
       "ai": {
-        "shortSummary": "[mock] 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2221 stars 増。"
-      }
-    },
-    {
-      "fullName": "volcengine/OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 30140,
-      "forks": 2334,
-      "starsToday": 803,
-      "ai": {
-        "shortSummary": "[mock] Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 803 stars 増。"
-      }
-    },
-    {
-      "fullName": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "description": "local multi-agent harness",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2661,
-      "forks": 319,
-      "starsToday": 797,
-      "ai": {
-        "shortSummary": "[mock] local multi-agent harness",
+        "shortSummary": "[mock] The Modular Platform (includes MAX & Mojo)",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 797 stars 増。"
-      }
-    },
-    {
-      "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 29808,
-      "forks": 3535,
-      "starsToday": 767,
-      "ai": {
-        "shortSummary": "[mock] 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & M",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 767 stars 増。"
-      }
-    },
-    {
-      "fullName": "nautechsystems/nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 26434,
-      "forks": 3419,
-      "starsToday": 79,
-      "ai": {
-        "shortSummary": "[mock] Production-grade Rust-native trading engine with deterministic event-driven architecture",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 79 stars 増。"
+        "whyTrending": "[mock] 直近で 340 stars 増。"
       }
     },
     {
@@ -85,13 +25,28 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 223722,
-      "forks": 19251,
-      "starsToday": 1214,
+      "stars": 226355,
+      "forks": 19409,
+      "starsToday": 2267,
       "ai": {
         "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1214 stars 増。"
+        "whyTrending": "[mock] 直近で 2267 stars 増。"
+      }
+    },
+    {
+      "fullName": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 11800,
+      "forks": 321,
+      "starsToday": 1540,
+      "ai": {
+        "shortSummary": "[mock] ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 1540 stars 増。"
       }
     },
     {
@@ -100,28 +55,28 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 274246,
-      "forks": 24554,
-      "starsToday": 514,
+      "stars": 274913,
+      "forks": 24601,
+      "starsToday": 749,
       "ai": {
         "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 514 stars 増。"
+        "whyTrending": "[mock] 直近で 749 stars 増。"
       }
     },
     {
-      "fullName": "jundot/omlx",
-      "url": "https://github.com/jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 19821,
-      "forks": 1689,
-      "starsToday": 467,
+      "fullName": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 4065,
+      "forks": 339,
+      "starsToday": 473,
       "ai": {
-        "shortSummary": "[mock] LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 467 stars 増。"
+        "shortSummary": "[mock] Cursor plugin specification and official plugins",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 473 stars 増。"
       }
     },
     {
@@ -130,73 +85,178 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 65747,
-      "forks": 12736,
-      "starsToday": 193,
+      "stars": 66623,
+      "forks": 12815,
+      "starsToday": 855,
       "ai": {
         "shortSummary": "[mock] Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track appl",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 193 stars 増。"
+        "whyTrending": "[mock] 直近で 855 stars 増。"
       }
     },
     {
-      "fullName": "immich-app/immich",
-      "url": "https://github.com/immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 111841,
-      "forks": 6627,
-      "starsToday": 137,
-      "ai": {
-        "shortSummary": "[mock] High performance self-hosted photo and video management solution.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 137 stars 増。"
-      }
-    },
-    {
-      "fullName": "amadeusprotocol/node",
-      "url": "https://github.com/amadeusprotocol/node",
-      "description": null,
+      "fullName": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 4494,
-      "forks": 80,
-      "starsToday": 1415,
+      "stars": 3574,
+      "forks": 280,
+      "starsToday": 335,
       "ai": {
-        "shortSummary": "[mock] amadeusprotocol/node (no description)",
+        "shortSummary": "[mock] Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 1415 stars 増。"
+        "whyTrending": "[mock] 直近で 335 stars 増。"
       }
     },
     {
-      "fullName": "marceloprates/prettymaps",
-      "url": "https://github.com/marceloprates/prettymaps",
-      "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "fullName": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13083,
-      "forks": 654,
-      "starsToday": 58,
+      "stars": 112890,
+      "forks": 17109,
+      "starsToday": 2774,
       "ai": {
-        "shortSummary": "[mock] Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+        "shortSummary": "[mock] 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 58 stars 増。"
+        "whyTrending": "[mock] 直近で 2774 stars 増。"
       }
     },
     {
-      "fullName": "genlayerlabs/genlayer-project-boilerplate",
-      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
-      "description": null,
+      "fullName": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1379,
+      "forks": 251,
+      "starsToday": 66,
+      "ai": {
+        "shortSummary": "[mock] Agent Substrate: the core system",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 66 stars 増。"
+      }
+    },
+    {
+      "fullName": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16222,
-      "forks": 808,
-      "starsToday": 421,
+      "stars": 3111,
+      "forks": 350,
+      "starsToday": 517,
       "ai": {
-        "shortSummary": "[mock] genlayerlabs/genlayer-project-boilerplate (no description)",
+        "shortSummary": "[mock] local multi-agent harness",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 421 stars 増。"
+        "whyTrending": "[mock] 直近で 517 stars 増。"
+      }
+    },
+    {
+      "fullName": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 37975,
+      "forks": 3214,
+      "starsToday": 100,
+      "ai": {
+        "shortSummary": "[mock] 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, fl",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 100 stars 増。"
+      }
+    },
+    {
+      "fullName": "mahlernim/google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 1508,
+      "forks": 171,
+      "starsToday": 575,
+      "ai": {
+        "shortSummary": "[mock] Visualize your year in travel using your Google Location History (Timeline) data",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 575 stars 増。"
+      }
+    },
+    {
+      "fullName": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 30996,
+      "forks": 2392,
+      "starsToday": 955,
+      "ai": {
+        "shortSummary": "[mock] Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 955 stars 増。"
+      }
+    },
+    {
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 99605,
+      "forks": 5767,
+      "starsToday": 309,
+      "ai": {
+        "shortSummary": "[mock] 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 309 stars 増。"
+      }
+    },
+    {
+      "fullName": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 56471,
+      "forks": 5395,
+      "starsToday": 206,
+      "ai": {
+        "shortSummary": "[mock] 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, do",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 206 stars 増。"
+      }
+    },
+    {
+      "fullName": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4933,
+      "forks": 480,
+      "starsToday": 28,
+      "ai": {
+        "shortSummary": "[mock] A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluatio",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 28 stars 増。"
+      }
+    },
+    {
+      "fullName": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 15925,
+      "forks": 1383,
+      "starsToday": 251,
+      "ai": {
+        "shortSummary": "[mock] A vector index built on TurboQuant, written in Rust with Python bindings",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 251 stars 増。"
       }
     }
   ]
