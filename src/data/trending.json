@@ -1,97 +1,22 @@
 {
-  "fetchedAt": "2026-08-24T23:18:50.297Z",
+  "fetchedAt": "2026-08-25T23:21:15.283Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 48905,
-      "forks": 7990,
-      "starsToday": 889,
+      "fullName": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 17583,
+      "forks": 1816,
+      "starsToday": 1698,
       "ai": {
-        "shortSummary": "[mock] Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported ",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 889 stars 増。"
-      }
-    },
-    {
-      "fullName": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 116997,
-      "forks": 17837,
-      "starsToday": 1990,
-      "ai": {
-        "shortSummary": "[mock] Lightweight coding agent that runs in your terminal",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 1990 stars 増。"
-      }
-    },
-    {
-      "fullName": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 34010,
-      "forks": 11880,
-      "starsToday": 378,
-      "ai": {
-        "shortSummary": "[mock] The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover lett",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 378 stars 増。"
-      }
-    },
-    {
-      "fullName": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": null,
-      "languageColor": null,
-      "stars": 206470,
-      "forks": 21083,
-      "starsToday": 491,
-      "ai": {
-        "shortSummary": "[mock] A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 491 stars 増。"
-      }
-    },
-    {
-      "fullName": "makeplane/plane",
-      "url": "https://github.com/makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 57900,
-      "forks": 5485,
-      "starsToday": 268,
-      "ai": {
-        "shortSummary": "[mock] 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, do",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 268 stars 増。"
-      }
-    },
-    {
-      "fullName": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 235764,
-      "forks": 47569,
-      "starsToday": 899,
-      "ai": {
-        "shortSummary": "[mock] The agent that grows with you",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 899 stars 増。"
+        "shortSummary": "[mock] Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 1698 stars 増。"
       }
     },
     {
@@ -100,28 +25,13 @@
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1333,
-      "forks": 151,
-      "starsToday": 490,
+      "stars": 1721,
+      "forks": 177,
+      "starsToday": 350,
       "ai": {
         "shortSummary": "[mock] Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 490 stars 増。"
-      }
-    },
-    {
-      "fullName": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 15826,
-      "forks": 429,
-      "starsToday": 1102,
-      "ai": {
-        "shortSummary": "[mock] ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 1102 stars 増。"
+        "whyTrending": "[mock] 直近で 350 stars 増。"
       }
     },
     {
@@ -130,43 +40,28 @@
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2878,
-      "forks": 305,
-      "starsToday": 408,
+      "stars": 3305,
+      "forks": 328,
+      "starsToday": 538,
       "ai": {
         "shortSummary": "[mock] Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and terminatio",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 408 stars 増。"
+        "whyTrending": "[mock] 直近で 538 stars 増。"
       }
     },
     {
-      "fullName": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "fullName": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 38976,
-      "forks": 3272,
-      "starsToday": 106,
+      "stars": 100201,
+      "forks": 19350,
+      "starsToday": 191,
       "ai": {
-        "shortSummary": "[mock] 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, fl",
+        "shortSummary": "[mock] TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 106 stars 増。"
-      }
-    },
-    {
-      "fullName": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 387427,
-      "forks": 81346,
-      "starsToday": 160,
-      "ai": {
-        "shortSummary": "[mock] Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 160 stars 増。"
+        "whyTrending": "[mock] 直近で 191 stars 増。"
       }
     },
     {
@@ -175,13 +70,13 @@
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11857,
-      "forks": 1327,
-      "starsToday": 272,
+      "stars": 12680,
+      "forks": 1380,
+      "starsToday": 810,
       "ai": {
         "shortSummary": "[mock] Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowled",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 272 stars 増。"
+        "whyTrending": "[mock] 直近で 810 stars 増。"
       }
     },
     {
@@ -190,88 +85,13 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 48255,
-      "forks": 8497,
-      "starsToday": 330,
+      "stars": 48916,
+      "forks": 8561,
+      "starsToday": 572,
       "ai": {
         "shortSummary": "[mock] Learn it. Build it. Ship it for others.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 330 stars 増。"
-      }
-    },
-    {
-      "fullName": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 30072,
-      "forks": 3057,
-      "starsToday": 1055,
-      "ai": {
-        "shortSummary": "[mock] Beautiful, Modern & Opinionated Linux",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1055 stars 増。"
-      }
-    },
-    {
-      "fullName": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 19752,
-      "forks": 2875,
-      "starsToday": 153,
-      "ai": {
-        "shortSummary": "[mock] 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatibl",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 153 stars 増。"
-      }
-    },
-    {
-      "fullName": "dani-garcia/vaultwarden",
-      "url": "https://github.com/dani-garcia/vaultwarden",
-      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 66124,
-      "forks": 3139,
-      "starsToday": 176,
-      "ai": {
-        "shortSummary": "[mock] Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 176 stars 増。"
-      }
-    },
-    {
-      "fullName": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 15446,
-      "forks": 1638,
-      "starsToday": 2442,
-      "ai": {
-        "shortSummary": "[mock] Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 2442 stars 増。"
-      }
-    },
-    {
-      "fullName": "VoltAgent/awesome-agent-skills",
-      "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "language": null,
-      "languageColor": null,
-      "stars": 31840,
-      "forks": 3395,
-      "starsToday": 600,
-      "ai": {
-        "shortSummary": "[mock] A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 600 stars 増。"
+        "whyTrending": "[mock] 直近で 572 stars 増。"
       }
     },
     {
@@ -280,13 +100,133 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 37231,
-      "forks": 3698,
-      "starsToday": 515,
+      "stars": 37746,
+      "forks": 3731,
+      "starsToday": 541,
       "ai": {
         "shortSummary": "[mock] Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and wor",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 515 stars 増。"
+        "whyTrending": "[mock] 直近で 541 stars 増。"
+      }
+    },
+    {
+      "fullName": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 31201,
+      "forks": 3173,
+      "starsToday": 1080,
+      "ai": {
+        "shortSummary": "[mock] Beautiful, Modern & Opinionated Linux",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1080 stars 増。"
+      }
+    },
+    {
+      "fullName": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 134214,
+      "forks": 19740,
+      "starsToday": 161,
+      "ai": {
+        "shortSummary": "[mock] 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 161 stars 増。"
+      }
+    },
+    {
+      "fullName": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": null,
+      "languageColor": null,
+      "stars": 207167,
+      "forks": 21140,
+      "starsToday": 828,
+      "ai": {
+        "shortSummary": "[mock] A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 828 stars 増。"
+      }
+    },
+    {
+      "fullName": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 118068,
+      "forks": 17995,
+      "starsToday": 1183,
+      "ai": {
+        "shortSummary": "[mock] Lightweight coding agent that runs in your terminal",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 1183 stars 増。"
+      }
+    },
+    {
+      "fullName": "marin-community/marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2082,
+      "forks": 191,
+      "starsToday": 277,
+      "ai": {
+        "shortSummary": "[mock] Open-source framework for the research and development of foundation models.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 277 stars 増。"
+      }
+    },
+    {
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 110945,
+      "forks": 6097,
+      "starsToday": 944,
+      "ai": {
+        "shortSummary": "[mock] Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 944 stars 増。"
+      }
+    },
+    {
+      "fullName": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 34070,
+      "forks": 3869,
+      "starsToday": 47,
+      "ai": {
+        "shortSummary": "[mock] Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 47 stars 増。"
+      }
+    },
+    {
+      "fullName": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2751,
+      "forks": 122,
+      "starsToday": 166,
+      "ai": {
+        "shortSummary": "[mock] Your own search engine",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 166 stars 増。"
       }
     }
   ]
