@@ -1,82 +1,67 @@
 {
-  "fetchedAt": "2026-09-01T01:35:25.321Z",
+  "fetchedAt": "2026-09-02T00:47:14.185Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
+    {
+      "fullName": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 31287,
+      "forks": 8948,
+      "starsToday": 80,
+      "ai": {
+        "shortSummary": "[mock] runs anywhere. uses anything",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 80 stars 増。"
+      }
+    },
+    {
+      "fullName": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 44885,
+      "forks": 3548,
+      "starsToday": 193,
+      "ai": {
+        "shortSummary": "[mock] Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 193 stars 増。"
+      }
+    },
     {
       "fullName": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27168,
-      "forks": 4770,
-      "starsToday": 2824,
+      "stars": 29470,
+      "forks": 4969,
+      "starsToday": 3128,
       "ai": {
         "shortSummary": "[mock] Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2824 stars 増。"
+        "whyTrending": "[mock] 直近で 3128 stars 増。"
       }
     },
     {
-      "fullName": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 38837,
-      "forks": 2486,
-      "starsToday": 3991,
+      "fullName": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "languageColor": "#000100",
+      "stars": 23763,
+      "forks": 2674,
+      "starsToday": 577,
       "ai": {
-        "shortSummary": "[mock] Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion an",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 3991 stars 増。"
-      }
-    },
-    {
-      "fullName": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 40757,
-      "forks": 3775,
-      "starsToday": 1980,
-      "ai": {
-        "shortSummary": "[mock] Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use val",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1980 stars 増。"
-      }
-    },
-    {
-      "fullName": "k1tbyte/Wand-Enhancer",
-      "url": "https://github.com/k1tbyte/Wand-Enhancer",
-      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "language": "C#",
-      "languageColor": "#7355dd",
-      "stars": 23398,
-      "forks": 59609,
-      "starsToday": 582,
-      "ai": {
-        "shortSummary": "[mock] Advanced UX and interoperability extension for Wand (WeMod) app",
+        "shortSummary": "[mock] Invidious is an alternative front-end to YouTube",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 582 stars 増。"
-      }
-    },
-    {
-      "fullName": "majd/ipatool",
-      "url": "https://github.com/majd/ipatool",
-      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 10550,
-      "forks": 897,
-      "starsToday": 373,
-      "ai": {
-        "shortSummary": "[mock] Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App S",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 373 stars 増。"
+        "whyTrending": "[mock] 直近で 577 stars 増。"
       }
     },
     {
@@ -85,133 +70,28 @@
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 56153,
-      "forks": 7323,
-      "starsToday": 495,
+      "stars": 57052,
+      "forks": 7416,
+      "starsToday": 1005,
       "ai": {
         "shortSummary": "[mock] 🧠 Train a 64M-parameter LLM from scratch in just 2h!",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 495 stars 増。"
+        "whyTrending": "[mock] 直近で 1005 stars 増。"
       }
     },
     {
-      "fullName": "Osmantic/ODS",
-      "url": "https://github.com/Osmantic/ODS",
-      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "fullName": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5514,
-      "forks": 776,
-      "starsToday": 77,
+      "stars": 92549,
+      "forks": 7616,
+      "starsToday": 86,
       "ai": {
-        "shortSummary": "[mock] Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+        "shortSummary": "[mock] Animation engine for explanatory math videos",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 77 stars 増。"
-      }
-    },
-    {
-      "fullName": "checkstyle/checkstyle",
-      "url": "https://github.com/checkstyle/checkstyle",
-      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9419,
-      "forks": 4207,
-      "starsToday": 198,
-      "ai": {
-        "shortSummary": "[mock] Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Ja",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 198 stars 増。"
-      }
-    },
-    {
-      "fullName": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 33172,
-      "forks": 4504,
-      "starsToday": 1401,
-      "ai": {
-        "shortSummary": "[mock] Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstra",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1401 stars 増。"
-      }
-    },
-    {
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 245261,
-      "forks": 37057,
-      "starsToday": 512,
-      "ai": {
-        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 512 stars 増。"
-      }
-    },
-    {
-      "fullName": "kaifcodec/user-scanner",
-      "url": "https://github.com/kaifcodec/user-scanner",
-      "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 4266,
-      "forks": 448,
-      "starsToday": 93,
-      "ai": {
-        "shortSummary": "[mock] 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained s",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 93 stars 増。"
-      }
-    },
-    {
-      "fullName": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 15774,
-      "forks": 1901,
-      "starsToday": 610,
-      "ai": {
-        "shortSummary": "[mock] Open source alternative to Semrush and Ahrefs",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 610 stars 増。"
-      }
-    },
-    {
-      "fullName": "p-e-w/heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 29667,
-      "forks": 3251,
-      "starsToday": 537,
-      "ai": {
-        "shortSummary": "[mock] Fully automatic censorship removal for language models",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 537 stars 増。"
-      }
-    },
-    {
-      "fullName": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 6243,
-      "forks": 730,
-      "starsToday": 571,
-      "ai": {
-        "shortSummary": "[mock] 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 571 stars 増。"
+        "whyTrending": "[mock] 直近で 86 stars 増。"
       }
     },
     {
@@ -220,28 +100,118 @@
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 17379,
-      "forks": 1200,
-      "starsToday": 228,
+      "stars": 17920,
+      "forks": 1222,
+      "starsToday": 541,
       "ai": {
         "shortSummary": "[mock] Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart ",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 228 stars 増。"
+        "whyTrending": "[mock] 直近で 541 stars 増。"
       }
     },
     {
-      "fullName": "pollen-robotics/microduck_rl",
-      "url": "https://github.com/pollen-robotics/microduck_rl",
-      "description": "RL training environments for Microduck (mjlab)",
+      "fullName": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1149,
-      "forks": 195,
-      "starsToday": 385,
+      "stars": 22930,
+      "forks": 2813,
+      "starsToday": 472,
       "ai": {
-        "shortSummary": "[mock] RL training environments for Microduck (mjlab)",
+        "shortSummary": "[mock] Edit videos with coding agents",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 385 stars 増。"
+        "whyTrending": "[mock] 直近で 472 stars 増。"
+      }
+    },
+    {
+      "fullName": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 41530,
+      "forks": 3826,
+      "starsToday": 912,
+      "ai": {
+        "shortSummary": "[mock] Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use val",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 912 stars 増。"
+      }
+    },
+    {
+      "fullName": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 6691,
+      "forks": 759,
+      "starsToday": 501,
+      "ai": {
+        "shortSummary": "[mock] 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 501 stars 増。"
+      }
+    },
+    {
+      "fullName": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "language": null,
+      "languageColor": null,
+      "stars": 112742,
+      "forks": 12772,
+      "starsToday": 323,
+      "ai": {
+        "shortSummary": "[mock] A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matchi",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 323 stars 増。"
+      }
+    },
+    {
+      "fullName": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 7646,
+      "forks": 1316,
+      "starsToday": 56,
+      "ai": {
+        "shortSummary": "[mock] Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 56 stars 増。"
+      }
+    },
+    {
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 245758,
+      "forks": 37087,
+      "starsToday": 623,
+      "ai": {
+        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 623 stars 増。"
+      }
+    },
+    {
+      "fullName": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 80847,
+      "forks": 8356,
+      "starsToday": 145,
+      "ai": {
+        "shortSummary": "[mock] 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 145 stars 増。"
       }
     }
   ]
