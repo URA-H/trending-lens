@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-03T00:55:19.856Z",
+  "fetchedAt": "2026-09-04T00:42:14.363Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,238 +10,13 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 24255,
-      "forks": 2985,
-      "starsToday": 14,
+      "stars": 25073,
+      "forks": 3015,
+      "starsToday": 963,
       "ai": {
         "shortSummary": "[mock] A modern formatting library",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 14 stars 増。"
-      }
-    },
-    {
-      "fullName": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 29783,
-      "forks": 2863,
-      "starsToday": 343,
-      "ai": {
-        "shortSummary": "[mock] TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 343 stars 増。"
-      }
-    },
-    {
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 121545,
-      "forks": 6570,
-      "starsToday": 1354,
-      "ai": {
-        "shortSummary": "[mock] Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 1354 stars 増。"
-      }
-    },
-    {
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 14718,
-      "forks": 2105,
-      "starsToday": 832,
-      "ai": {
-        "shortSummary": "[mock] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & ",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 832 stars 増。"
-      }
-    },
-    {
-      "fullName": "sngyai/Sequoia-X",
-      "url": "https://github.com/sngyai/Sequoia-X",
-      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 6050,
-      "forks": 1246,
-      "starsToday": 63,
-      "ai": {
-        "shortSummary": "[mock] A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 63 stars 増。"
-      }
-    },
-    {
-      "fullName": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 50634,
-      "forks": 3553,
-      "starsToday": 148,
-      "ai": {
-        "shortSummary": "[mock] Chrome DevTools for coding agents",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 148 stars 増。"
-      }
-    },
-    {
-      "fullName": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 240125,
-      "forks": 49133,
-      "starsToday": 533,
-      "ai": {
-        "shortSummary": "[mock] The agent that grows with you",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 533 stars 増。"
-      }
-    },
-    {
-      "fullName": "superlinked/sie",
-      "url": "https://github.com/superlinked/sie",
-      "description": "Open-source inference server and production cluster for all the models your agent needs.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3060,
-      "forks": 299,
-      "starsToday": 60,
-      "ai": {
-        "shortSummary": "[mock] Open-source inference server and production cluster for all the models your agent needs.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 60 stars 増。"
-      }
-    },
-    {
-      "fullName": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2884,
-      "forks": 189,
-      "starsToday": 888,
-      "ai": {
-        "shortSummary": "[mock] Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 888 stars 増。"
-      }
-    },
-    {
-      "fullName": "zyronon/TypeWords",
-      "url": "https://github.com/zyronon/TypeWords",
-      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 9305,
-      "forks": 1129,
-      "starsToday": 21,
-      "ai": {
-        "shortSummary": "[mock] Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 21 stars 増。"
-      }
-    },
-    {
-      "fullName": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 45554,
-      "forks": 3581,
-      "starsToday": 799,
-      "ai": {
-        "shortSummary": "[mock] Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 799 stars 増。"
-      }
-    },
-    {
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 246338,
-      "forks": 37149,
-      "starsToday": 516,
-      "ai": {
-        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 516 stars 増。"
-      }
-    },
-    {
-      "fullName": "protocolbuffers/protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 71935,
-      "forks": 16271,
-      "starsToday": 18,
-      "ai": {
-        "shortSummary": "[mock] Protocol Buffers - Google's data interchange format",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 18 stars 増。"
-      }
-    },
-    {
-      "fullName": "vercel-labs/portless",
-      "url": "https://github.com/vercel-labs/portless",
-      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 11762,
-      "forks": 383,
-      "starsToday": 73,
-      "ai": {
-        "shortSummary": "[mock] Replace port numbers with stable, named local URLs. For humans and agents.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 73 stars 増。"
-      }
-    },
-    {
-      "fullName": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 40393,
-      "forks": 3493,
-      "starsToday": 374,
-      "ai": {
-        "shortSummary": "[mock] Agent skill that removes signs of AI-generated writing from text",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 374 stars 増。"
-      }
-    },
-    {
-      "fullName": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 102636,
-      "forks": 5970,
-      "starsToday": 238,
-      "ai": {
-        "shortSummary": "[mock] 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 238 stars 増。"
+        "whyTrending": "[mock] 直近で 963 stars 増。"
       }
     },
     {
@@ -250,13 +25,208 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 245230,
-      "forks": 20851,
-      "starsToday": 1166,
+      "stars": 247381,
+      "forks": 20972,
+      "starsToday": 1601,
       "ai": {
         "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1166 stars 増。"
+        "whyTrending": "[mock] 直近で 1601 stars 増。"
+      }
+    },
+    {
+      "fullName": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 240835,
+      "forks": 49348,
+      "starsToday": 774,
+      "ai": {
+        "shortSummary": "[mock] The agent that grows with you",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 774 stars 増。"
+      }
+    },
+    {
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 123409,
+      "forks": 6670,
+      "starsToday": 2128,
+      "ai": {
+        "shortSummary": "[mock] Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 2128 stars 増。"
+      }
+    },
+    {
+      "fullName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 173646,
+      "forks": 20605,
+      "starsToday": 281,
+      "ai": {
+        "shortSummary": "[mock] Public repository for Agent Skills",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 281 stars 増。"
+      }
+    },
+    {
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 247186,
+      "forks": 37250,
+      "starsToday": 751,
+      "ai": {
+        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 751 stars 増。"
+      }
+    },
+    {
+      "fullName": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 103096,
+      "forks": 5994,
+      "starsToday": 543,
+      "ai": {
+        "shortSummary": "[mock] 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 543 stars 増。"
+      }
+    },
+    {
+      "fullName": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 41469,
+      "forks": 3547,
+      "starsToday": 1208,
+      "ai": {
+        "shortSummary": "[mock] Agent skill that removes signs of AI-generated writing from text",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 1208 stars 増。"
+      }
+    },
+    {
+      "fullName": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 30698,
+      "forks": 2930,
+      "starsToday": 1618,
+      "ai": {
+        "shortSummary": "[mock] TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 1618 stars 増。"
+      }
+    },
+    {
+      "fullName": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 8362,
+      "forks": 1363,
+      "starsToday": 88,
+      "ai": {
+        "shortSummary": "[mock] Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 88 stars 増。"
+      }
+    },
+    {
+      "fullName": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 52143,
+      "forks": 8469,
+      "starsToday": 522,
+      "ai": {
+        "shortSummary": "[mock] 翻墙-科学上网",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 522 stars 増。"
+      }
+    },
+    {
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 92026,
+      "forks": 9812,
+      "starsToday": 264,
+      "ai": {
+        "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 264 stars 増。"
+      }
+    },
+    {
+      "fullName": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "language": null,
+      "languageColor": null,
+      "stars": 88335,
+      "forks": 9821,
+      "starsToday": 171,
+      "ai": {
+        "shortSummary": "[mock] Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 171 stars 増。"
+      }
+    },
+    {
+      "fullName": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 1948,
+      "forks": 142,
+      "starsToday": 161,
+      "ai": {
+        "shortSummary": "[mock] Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenC",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 161 stars 増。"
+      }
+    },
+    {
+      "fullName": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 45991,
+      "forks": 3603,
+      "starsToday": 496,
+      "ai": {
+        "shortSummary": "[mock] Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 496 stars 増。"
       }
     },
     {
@@ -265,28 +235,58 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 31982,
-      "forks": 8996,
-      "starsToday": 775,
+      "stars": 32341,
+      "forks": 9018,
+      "starsToday": 451,
       "ai": {
         "shortSummary": "[mock] runs anywhere. uses anything",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 775 stars 増。"
+        "whyTrending": "[mock] 直近で 451 stars 増。"
       }
     },
     {
-      "fullName": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 18509,
-      "forks": 1245,
-      "starsToday": 586,
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 16258,
+      "forks": 2204,
+      "starsToday": 1672,
       "ai": {
-        "shortSummary": "[mock] Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart ",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 586 stars 増。"
+        "shortSummary": "[mock] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & ",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 1672 stars 増。"
+      }
+    },
+    {
+      "fullName": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 168987,
+      "forks": 21762,
+      "starsToday": 168,
+      "ai": {
+        "shortSummary": "[mock] f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organizat",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 168 stars 増。"
+      }
+    },
+    {
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 281335,
+      "forks": 25203,
+      "starsToday": 462,
+      "ai": {
+        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 462 stars 増。"
       }
     }
   ]
