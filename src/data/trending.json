@@ -1,97 +1,37 @@
 {
-  "fetchedAt": "2026-09-06T00:32:07.982Z",
+  "fetchedAt": "2026-09-07T00:39:13.008Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
-    {
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 252617,
-      "forks": 21318,
-      "starsToday": 2692,
-      "ai": {
-        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2692 stars 増。"
-      }
-    },
     {
       "fullName": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 249889,
-      "forks": 37613,
-      "starsToday": 1314,
+      "stars": 251306,
+      "forks": 37783,
+      "starsToday": 1485,
       "ai": {
         "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 1314 stars 増。"
+        "whyTrending": "[mock] 直近で 1485 stars 増。"
       }
     },
     {
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 127929,
-      "forks": 6845,
-      "starsToday": 2845,
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 254533,
+      "forks": 21467,
+      "starsToday": 2207,
       "ai": {
-        "shortSummary": "[mock] Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 2845 stars 増。"
-      }
-    },
-    {
-      "fullName": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 241999,
-      "forks": 49721,
-      "starsToday": 575,
-      "ai": {
-        "shortSummary": "[mock] The agent that grows with you",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 575 stars 増。"
-      }
-    },
-    {
-      "fullName": "fmtlib/fmt",
-      "url": "https://github.com/fmtlib/fmt",
-      "description": "A modern formatting library",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 25569,
-      "forks": 3043,
-      "starsToday": 134,
-      "ai": {
-        "shortSummary": "[mock] A modern formatting library",
+        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 134 stars 増。"
-      }
-    },
-    {
-      "fullName": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 174559,
-      "forks": 20673,
-      "starsToday": 475,
-      "ai": {
-        "shortSummary": "[mock] Public repository for Agent Skills",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 475 stars 増。"
+        "whyTrending": "[mock] 直近で 2207 stars 増。"
       }
     },
     {
@@ -100,13 +40,43 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 31686,
-      "forks": 2041,
-      "starsToday": 855,
+      "stars": 32353,
+      "forks": 2078,
+      "starsToday": 620,
       "ai": {
         "shortSummary": "[mock] 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 855 stars 増。"
+        "whyTrending": "[mock] 直近で 620 stars 増。"
+      }
+    },
+    {
+      "fullName": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 242542,
+      "forks": 49885,
+      "starsToday": 520,
+      "ai": {
+        "shortSummary": "[mock] The agent that grows with you",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 520 stars 増。"
+      }
+    },
+    {
+      "fullName": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 25613,
+      "forks": 1730,
+      "starsToday": 46,
+      "ai": {
+        "shortSummary": "[mock] Skills Catalog for Codex",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 46 stars 増。"
       }
     },
     {
@@ -115,43 +85,13 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 204671,
-      "forks": 26703,
-      "starsToday": 725,
+      "stars": 205255,
+      "forks": 26774,
+      "starsToday": 551,
       "ai": {
         "shortSummary": "[mock] The open source coding agent.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 725 stars 増。"
-      }
-    },
-    {
-      "fullName": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 70691,
-      "forks": 8414,
-      "starsToday": 136,
-      "ai": {
-        "shortSummary": "[mock] 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI sys",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 136 stars 増。"
-      }
-    },
-    {
-      "fullName": "humanlayer/skills",
-      "url": "https://github.com/humanlayer/skills",
-      "description": null,
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2695,
-      "forks": 74,
-      "starsToday": 442,
-      "ai": {
-        "shortSummary": "[mock] humanlayer/skills (no description)",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 442 stars 増。"
+        "whyTrending": "[mock] 直近で 551 stars 増。"
       }
     },
     {
@@ -160,43 +100,58 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43474,
-      "forks": 3645,
-      "starsToday": 990,
+      "stars": 44235,
+      "forks": 3680,
+      "starsToday": 748,
       "ai": {
         "shortSummary": "[mock] Agent skill that removes signs of AI-generated writing from text",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 990 stars 増。"
+        "whyTrending": "[mock] 直近で 748 stars 増。"
       }
     },
     {
-      "fullName": "BraveOPotato/FckSignups",
-      "url": "https://github.com/BraveOPotato/FckSignups",
-      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2890,
-      "forks": 198,
-      "starsToday": 68,
+      "fullName": "llvm/llvm-project",
+      "url": "https://github.com/llvm/llvm-project",
+      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "language": "LLVM",
+      "languageColor": "#185619",
+      "stars": 40210,
+      "forks": 18560,
+      "starsToday": 23,
       "ai": {
-        "shortSummary": "[mock] A list of tools that are open-source, in-browser, and require no-signups!",
+        "shortSummary": "[mock] The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 68 stars 増。"
+        "whyTrending": "[mock] 直近で 23 stars 増。"
       }
     },
     {
-      "fullName": "WorldFlowAI/everything-claude-code",
-      "url": "https://github.com/WorldFlowAI/everything-claude-code",
-      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 2351,
-      "forks": 361,
-      "starsToday": 95,
+      "stars": 129345,
+      "forks": 6928,
+      "starsToday": 1539,
       "ai": {
-        "shortSummary": "[mock] Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+        "shortSummary": "[mock] Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 95 stars 増。"
+        "whyTrending": "[mock] 直近で 1539 stars 増。"
+      }
+    },
+    {
+      "fullName": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 70978,
+      "forks": 8436,
+      "starsToday": 276,
+      "ai": {
+        "shortSummary": "[mock] 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI sys",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 276 stars 増。"
       }
     },
     {
@@ -205,43 +160,118 @@
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3196,
-      "forks": 230,
-      "starsToday": 674,
+      "stars": 3666,
+      "forks": 260,
+      "starsToday": 604,
       "ai": {
         "shortSummary": "[mock] Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenC",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 674 stars 増。"
+        "whyTrending": "[mock] 直近で 604 stars 増。"
       }
     },
     {
-      "fullName": "bikini/exploitarium",
-      "url": "https://github.com/bikini/exploitarium",
-      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "fullName": "BraveOPotato/FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3312,
+      "forks": 210,
+      "starsToday": 436,
+      "ai": {
+        "shortSummary": "[mock] A list of tools that are open-source, in-browser, and require no-signups!",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 436 stars 増。"
+      }
+    },
+    {
+      "fullName": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 47510,
+      "forks": 7388,
+      "starsToday": 329,
+      "ai": {
+        "shortSummary": "[mock] Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 329 stars 増。"
+      }
+    },
+    {
+      "fullName": "aipoch/open-science",
+      "url": "https://github.com/aipoch/open-science",
+      "description": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3851,
+      "forks": 238,
+      "starsToday": 146,
+      "ai": {
+        "shortSummary": "[mock] Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific a",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 146 stars 増。"
+      }
+    },
+    {
+      "fullName": "OpenWhispr/openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 7357,
+      "forks": 930,
+      "starsToday": 121,
+      "ai": {
+        "shortSummary": "[mock] Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 121 stars 増。"
+      }
+    },
+    {
+      "fullName": "humanlayer/skills",
+      "url": "https://github.com/humanlayer/skills",
+      "description": null,
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3132,
+      "forks": 91,
+      "starsToday": 451,
+      "ai": {
+        "shortSummary": "[mock] humanlayer/skills (no description)",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 451 stars 増。"
+      }
+    },
+    {
+      "fullName": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4702,
-      "forks": 1253,
-      "starsToday": 230,
+      "stars": 4713,
+      "forks": 775,
+      "starsToday": 142,
       "ai": {
-        "shortSummary": "[mock] A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to",
+        "shortSummary": "[mock] Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, ",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 230 stars 増。"
+        "whyTrending": "[mock] 直近で 142 stars 増。"
       }
     },
     {
-      "fullName": "nvm-sh/nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 94917,
-      "forks": 10424,
-      "starsToday": 22,
+      "fullName": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "description": "Stremio - Freedom to Stream",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 13472,
+      "forks": 1547,
+      "starsToday": 122,
       "ai": {
-        "shortSummary": "[mock] Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMn",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 22 stars 増。"
+        "shortSummary": "[mock] Stremio - Freedom to Stream",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 122 stars 増。"
       }
     }
   ]
