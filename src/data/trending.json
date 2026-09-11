@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T00:47:45.288Z",
+  "fetchedAt": "2026-09-11T00:48:21.032Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,28 +10,28 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 34610,
-      "forks": 2028,
-      "starsToday": 4650,
+      "stars": 38293,
+      "forks": 2202,
+      "starsToday": 3882,
       "ai": {
         "shortSummary": "[mock] A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 4650 stars 増。"
+        "whyTrending": "[mock] 直近で 3882 stars 増。"
       }
     },
     {
-      "fullName": "Tencent/teamai-cli",
-      "url": "https://github.com/Tencent/teamai-cli",
-      "description": "Make Every Team AI Native",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2976,
-      "forks": 185,
-      "starsToday": 556,
+      "fullName": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 24272,
+      "forks": 5042,
+      "starsToday": 1762,
       "ai": {
-        "shortSummary": "[mock] Make Every Team AI Native",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 556 stars 増。"
+        "shortSummary": "[mock] A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 1762 stars 増。"
       }
     },
     {
@@ -40,73 +40,58 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 284023,
-      "forks": 25413,
-      "starsToday": 688,
+      "stars": 284697,
+      "forks": 25467,
+      "starsToday": 732,
       "ai": {
         "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 688 stars 増。"
+        "whyTrending": "[mock] 直近で 732 stars 増。"
       }
     },
     {
-      "fullName": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "fullName": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 22919,
-      "forks": 2895,
-      "starsToday": 107,
+      "stars": 1643,
+      "forks": 256,
+      "starsToday": 277,
       "ai": {
-        "shortSummary": "[mock] Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+        "shortSummary": "[mock] Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM ",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 107 stars 増。"
+        "whyTrending": "[mock] 直近で 277 stars 増。"
       }
     },
     {
-      "fullName": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "A library of agent skills for CAD, CAE and CAM",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 15030,
-      "forks": 1561,
-      "starsToday": 124,
+      "fullName": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3787,
+      "forks": 246,
+      "starsToday": 841,
       "ai": {
-        "shortSummary": "[mock] A library of agent skills for CAD, CAE and CAM",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 124 stars 増。"
-      }
-    },
-    {
-      "fullName": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 36583,
-      "forks": 2316,
-      "starsToday": 2249,
-      "ai": {
-        "shortSummary": "[mock] 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "shortSummary": "[mock] Make Every Team AI Native",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2249 stars 増。"
+        "whyTrending": "[mock] 直近で 841 stars 増。"
       }
     },
     {
-      "fullName": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 103949,
-      "forks": 19971,
-      "starsToday": 367,
+      "fullName": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 35731,
+      "forks": 2266,
+      "starsToday": 258,
       "ai": {
-        "shortSummary": "[mock] TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 367 stars 増。"
+        "shortSummary": "[mock] Hundreds of models & providers. One command to find what runs on your hardware.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 258 stars 増。"
       }
     },
     {
@@ -115,58 +100,133 @@
       "description": "Notes of the book System Desgin Interview - An Insider's Guide",
       "language": null,
       "languageColor": null,
-      "stars": 17991,
-      "forks": 3406,
-      "starsToday": 1397,
+      "stars": 18775,
+      "forks": 3484,
+      "starsToday": 900,
       "ai": {
         "shortSummary": "[mock] Notes of the book System Desgin Interview - An Insider's Guide",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1397 stars 増。"
+        "whyTrending": "[mock] 直近で 900 stars 増。"
       }
     },
     {
-      "fullName": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 6192,
-      "forks": 826,
-      "starsToday": 498,
+      "fullName": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 37749,
+      "forks": 2394,
+      "starsToday": 1294,
       "ai": {
-        "shortSummary": "[mock] OpenAI Plugins",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 498 stars 増。"
+        "shortSummary": "[mock] 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1294 stars 増。"
       }
     },
     {
       "fullName": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 30032,
-      "forks": 2903,
-      "starsToday": 705,
+      "stars": 30836,
+      "forks": 2988,
+      "starsToday": 962,
       "ai": {
-        "shortSummary": "[mock] Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+        "shortSummary": "[mock] Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 705 stars 増。"
+        "whyTrending": "[mock] 直近で 962 stars 増。"
       }
     },
     {
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 53689,
-      "forks": 9372,
-      "starsToday": 343,
+      "fullName": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4417,
+      "forks": 521,
+      "starsToday": 72,
       "ai": {
-        "shortSummary": "[mock] Learn it. Build it. Ship it for others.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 343 stars 増。"
+        "shortSummary": "[mock] Graphics Creation Tools",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 72 stars 増。"
+      }
+    },
+    {
+      "fullName": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 64237,
+      "forks": 8996,
+      "starsToday": 626,
+      "ai": {
+        "shortSummary": "[mock] Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Mini",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 626 stars 増。"
+      }
+    },
+    {
+      "fullName": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 27457,
+      "forks": 3009,
+      "starsToday": 98,
+      "ai": {
+        "shortSummary": "[mock] Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 98 stars 増。"
+      }
+    },
+    {
+      "fullName": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 35302,
+      "forks": 5631,
+      "starsToday": 837,
+      "ai": {
+        "shortSummary": "[mock] Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 837 stars 増。"
+      }
+    },
+    {
+      "fullName": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 18098,
+      "forks": 2099,
+      "starsToday": 142,
+      "ai": {
+        "shortSummary": "[mock] LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. In",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 142 stars 増。"
+      }
+    },
+    {
+      "fullName": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 31139,
+      "forks": 2659,
+      "starsToday": 122,
+      "ai": {
+        "shortSummary": "[mock] The open agent skills tool - npx skills",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 122 stars 増。"
       }
     },
     {
@@ -175,28 +235,13 @@
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1659,
-      "forks": 155,
-      "starsToday": 417,
+      "stars": 2294,
+      "forks": 193,
+      "starsToday": 624,
       "ai": {
         "shortSummary": "[mock] Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 417 stars 増。"
-      }
-    },
-    {
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 255176,
-      "forks": 38226,
-      "starsToday": 1133,
-      "ai": {
-        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 1133 stars 増。"
+        "whyTrending": "[mock] 直近で 624 stars 増。"
       }
     }
   ]
