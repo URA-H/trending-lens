@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T00:48:21.032Z",
+  "fetchedAt": "2026-09-12T00:51:54.290Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,13 +10,13 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 38293,
-      "forks": 2202,
-      "starsToday": 3882,
+      "stars": 41824,
+      "forks": 2365,
+      "starsToday": 3463,
       "ai": {
         "shortSummary": "[mock] A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 3882 stars 増。"
+        "whyTrending": "[mock] 直近で 3463 stars 増。"
       }
     },
     {
@@ -25,208 +25,43 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 24272,
-      "forks": 5042,
-      "starsToday": 1762,
+      "stars": 27113,
+      "forks": 5552,
+      "starsToday": 3680,
       "ai": {
         "shortSummary": "[mock] A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 1762 stars 増。"
+        "whyTrending": "[mock] 直近で 3680 stars 増。"
       }
     },
     {
-      "fullName": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 284697,
-      "forks": 25467,
-      "starsToday": 732,
-      "ai": {
-        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 732 stars 増。"
-      }
-    },
-    {
-      "fullName": "alsk1992/CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "fullName": "nab138/iloader",
+      "url": "https://github.com/nab138/iloader",
+      "description": "User friendly sideloader",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1643,
-      "forks": 256,
-      "starsToday": 277,
+      "stars": 2907,
+      "forks": 203,
+      "starsToday": 50,
       "ai": {
-        "shortSummary": "[mock] Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM ",
+        "shortSummary": "[mock] User friendly sideloader",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 277 stars 増。"
+        "whyTrending": "[mock] 直近で 50 stars 増。"
       }
     },
     {
-      "fullName": "Tencent/teamai-cli",
-      "url": "https://github.com/Tencent/teamai-cli",
-      "description": "Make Every Team AI Native",
+      "fullName": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3787,
-      "forks": 246,
-      "starsToday": 841,
+      "stars": 1343,
+      "forks": 495,
+      "starsToday": 152,
       "ai": {
-        "shortSummary": "[mock] Make Every Team AI Native",
+        "shortSummary": "[mock] Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any bu",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 841 stars 増。"
-      }
-    },
-    {
-      "fullName": "AlexsJones/llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 35731,
-      "forks": 2266,
-      "starsToday": 258,
-      "ai": {
-        "shortSummary": "[mock] Hundreds of models & providers. One command to find what runs on your hardware.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 258 stars 増。"
-      }
-    },
-    {
-      "fullName": "liquidslr/system-design-notes",
-      "url": "https://github.com/liquidslr/system-design-notes",
-      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "language": null,
-      "languageColor": null,
-      "stars": 18775,
-      "forks": 3484,
-      "starsToday": 900,
-      "ai": {
-        "shortSummary": "[mock] Notes of the book System Desgin Interview - An Insider's Guide",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 900 stars 増。"
-      }
-    },
-    {
-      "fullName": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 37749,
-      "forks": 2394,
-      "starsToday": 1294,
-      "ai": {
-        "shortSummary": "[mock] 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1294 stars 増。"
-      }
-    },
-    {
-      "fullName": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 30836,
-      "forks": 2988,
-      "starsToday": 962,
-      "ai": {
-        "shortSummary": "[mock] Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 962 stars 増。"
-      }
-    },
-    {
-      "fullName": "armory3d/armorpaint",
-      "url": "https://github.com/armory3d/armorpaint",
-      "description": "Graphics Creation Tools",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4417,
-      "forks": 521,
-      "starsToday": 72,
-      "ai": {
-        "shortSummary": "[mock] Graphics Creation Tools",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 72 stars 増。"
-      }
-    },
-    {
-      "fullName": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 64237,
-      "forks": 8996,
-      "starsToday": 626,
-      "ai": {
-        "shortSummary": "[mock] Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Mini",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 626 stars 増。"
-      }
-    },
-    {
-      "fullName": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27457,
-      "forks": 3009,
-      "starsToday": 98,
-      "ai": {
-        "shortSummary": "[mock] Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 98 stars 増。"
-      }
-    },
-    {
-      "fullName": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 35302,
-      "forks": 5631,
-      "starsToday": 837,
-      "ai": {
-        "shortSummary": "[mock] Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 837 stars 増。"
-      }
-    },
-    {
-      "fullName": "nashsu/llm_wiki",
-      "url": "https://github.com/nashsu/llm_wiki",
-      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 18098,
-      "forks": 2099,
-      "starsToday": 142,
-      "ai": {
-        "shortSummary": "[mock] LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. In",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 142 stars 増。"
-      }
-    },
-    {
-      "fullName": "vercel-labs/skills",
-      "url": "https://github.com/vercel-labs/skills",
-      "description": "The open agent skills tool - npx skills",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 31139,
-      "forks": 2659,
-      "starsToday": 122,
-      "ai": {
-        "shortSummary": "[mock] The open agent skills tool - npx skills",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 122 stars 増。"
+        "whyTrending": "[mock] 直近で 152 stars 増。"
       }
     },
     {
@@ -235,13 +70,178 @@
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2294,
-      "forks": 193,
-      "starsToday": 624,
+      "stars": 2776,
+      "forks": 217,
+      "starsToday": 552,
       "ai": {
         "shortSummary": "[mock] Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 624 stars 増。"
+        "whyTrending": "[mock] 直近で 552 stars 増。"
+      }
+    },
+    {
+      "fullName": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4721,
+      "forks": 533,
+      "starsToday": 350,
+      "ai": {
+        "shortSummary": "[mock] Graphics Creation Tools",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 350 stars 増。"
+      }
+    },
+    {
+      "fullName": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 2151,
+      "forks": 282,
+      "starsToday": 626,
+      "ai": {
+        "shortSummary": "[mock] Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM ",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 626 stars 増。"
+      }
+    },
+    {
+      "fullName": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 18735,
+      "forks": 2134,
+      "starsToday": 647,
+      "ai": {
+        "shortSummary": "[mock] LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. In",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 647 stars 増。"
+      }
+    },
+    {
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 285378,
+      "forks": 25520,
+      "starsToday": 729,
+      "ai": {
+        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 729 stars 増。"
+      }
+    },
+    {
+      "fullName": "Sonarr/Sonarr",
+      "url": "https://github.com/Sonarr/Sonarr",
+      "description": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "C#",
+      "languageColor": "#7355dd",
+      "stars": 15736,
+      "forks": 1949,
+      "starsToday": 191,
+      "ai": {
+        "shortSummary": "[mock] Smart PVR for newsgroup and bittorrent users.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 191 stars 増。"
+      }
+    },
+    {
+      "fullName": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4856,
+      "forks": 393,
+      "starsToday": 129,
+      "ai": {
+        "shortSummary": "[mock] 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and g",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 129 stars 増。"
+      }
+    },
+    {
+      "fullName": "p1neappleXpress/OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1147,
+      "forks": 88,
+      "starsToday": 198,
+      "ai": {
+        "shortSummary": "[mock] Network stack research tool. TCP tunnel with pluggable transports.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 198 stars 増。"
+      }
+    },
+    {
+      "fullName": "jordan-gibbs/hyperresearch",
+      "url": "https://github.com/jordan-gibbs/hyperresearch",
+      "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2613,
+      "forks": 258,
+      "starsToday": 153,
+      "ai": {
+        "shortSummary": "[mock] Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 153 stars 増。"
+      }
+    },
+    {
+      "fullName": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1277,
+      "forks": 94,
+      "starsToday": 120,
+      "ai": {
+        "shortSummary": "[mock] Run parallel research agents with any model",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 120 stars 増。"
+      }
+    },
+    {
+      "fullName": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 135769,
+      "forks": 12202,
+      "starsToday": 1015,
+      "ai": {
+        "shortSummary": "[mock] 💫 Toolkit to help you get started with Spec-Driven Development",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 1015 stars 増。"
+      }
+    },
+    {
+      "fullName": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 23600,
+      "forks": 2942,
+      "starsToday": 106,
+      "ai": {
+        "shortSummary": "[mock] Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 106 stars 増。"
       }
     }
   ]
