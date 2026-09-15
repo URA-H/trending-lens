@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T00:39:53.269Z",
+  "fetchedAt": "2026-09-15T01:08:47.496Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,193 +10,13 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 29803,
-      "forks": 3244,
-      "starsToday": 868,
+      "stars": 32090,
+      "forks": 3388,
+      "starsToday": 2173,
       "ai": {
         "shortSummary": "[mock] Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 868 stars 増。"
-      }
-    },
-    {
-      "fullName": "ever-co/ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5066,
-      "forks": 944,
-      "starsToday": 191,
-      "ai": {
-        "shortSummary": "[mock] Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 191 stars 増。"
-      }
-    },
-    {
-      "fullName": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 31880,
-      "forks": 6401,
-      "starsToday": 2680,
-      "ai": {
-        "shortSummary": "[mock] A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 2680 stars 増。"
-      }
-    },
-    {
-      "fullName": "tech-leads-club/agent-skills",
-      "url": "https://github.com/tech-leads-club/agent-skills",
-      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5648,
-      "forks": 499,
-      "starsToday": 265,
-      "ai": {
-        "shortSummary": "[mock] The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absol",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 265 stars 増。"
-      }
-    },
-    {
-      "fullName": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2181,
-      "forks": 592,
-      "starsToday": 432,
-      "ai": {
-        "shortSummary": "[mock] Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any bu",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 432 stars 増。"
-      }
-    },
-    {
-      "fullName": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 58426,
-      "forks": 7354,
-      "starsToday": 380,
-      "ai": {
-        "shortSummary": "[mock] World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge f",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 380 stars 増。"
-      }
-    },
-    {
-      "fullName": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 66019,
-      "forks": 10800,
-      "starsToday": 706,
-      "ai": {
-        "shortSummary": "[mock] Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google ",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 706 stars 増。"
-      }
-    },
-    {
-      "fullName": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 23969,
-      "forks": 3095,
-      "starsToday": 590,
-      "ai": {
-        "shortSummary": "[mock] Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 590 stars 増。"
-      }
-    },
-    {
-      "fullName": "multimodal-art-projection/YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 7737,
-      "forks": 864,
-      "starsToday": 487,
-      "ai": {
-        "shortSummary": "[mock] YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 487 stars 増。"
-      }
-    },
-    {
-      "fullName": "yuliskov/SmartTube",
-      "url": "https://github.com/yuliskov/SmartTube",
-      "description": "Browse media content with your own rules on Android TV",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 33448,
-      "forks": 2032,
-      "starsToday": 233,
-      "ai": {
-        "shortSummary": "[mock] Browse media content with your own rules on Android TV",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 233 stars 増。"
-      }
-    },
-    {
-      "fullName": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Run parallel research agents with any model",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2056,
-      "forks": 144,
-      "starsToday": 289,
-      "ai": {
-        "shortSummary": "[mock] Run parallel research agents with any model",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 289 stars 増。"
-      }
-    },
-    {
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 26798,
-      "forks": 3308,
-      "starsToday": 2632,
-      "ai": {
-        "shortSummary": "[mock] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & ",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2632 stars 増。"
-      }
-    },
-    {
-      "fullName": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 4134,
-      "forks": 592,
-      "starsToday": 506,
-      "ai": {
-        "shortSummary": "[mock] claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 506 stars 増。"
+        "whyTrending": "[mock] 直近で 2173 stars 増。"
       }
     },
     {
@@ -205,73 +25,193 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23505,
-      "forks": 1740,
-      "starsToday": 443,
+      "stars": 25742,
+      "forks": 1863,
+      "starsToday": 1571,
       "ai": {
         "shortSummary": "[mock] Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-l",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 443 stars 増。"
+        "whyTrending": "[mock] 直近で 1571 stars 増。"
       }
     },
     {
-      "fullName": "jihe520/MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "fullName": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5347,
-      "forks": 407,
-      "starsToday": 246,
+      "stars": 8341,
+      "forks": 906,
+      "starsToday": 559,
       "ai": {
-        "shortSummary": "[mock] 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and g",
+        "shortSummary": "[mock] YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 246 stars 増。"
+        "whyTrending": "[mock] 直近で 559 stars 増。"
       }
     },
     {
-      "fullName": "tonhowtf/omniget",
-      "url": "https://github.com/tonhowtf/omniget",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 29212,
+      "forks": 3557,
+      "starsToday": 2776,
+      "ai": {
+        "shortSummary": "[mock] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & ",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 2776 stars 増。"
+      }
+    },
+    {
+      "fullName": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 73153,
+      "forks": 11290,
+      "starsToday": 560,
+      "ai": {
+        "shortSummary": "[mock] A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 560 stars 増。"
+      }
+    },
+    {
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 81258,
+      "forks": 7078,
+      "starsToday": 651,
+      "ai": {
+        "shortSummary": "[mock] Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero AP",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 651 stars 増。"
+      }
+    },
+    {
+      "fullName": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 66762,
+      "forks": 10871,
+      "starsToday": 764,
+      "ai": {
+        "shortSummary": "[mock] Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google ",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 764 stars 増。"
+      }
+    },
+    {
+      "fullName": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2041,
+      "forks": 162,
+      "starsToday": 77,
+      "ai": {
+        "shortSummary": "[mock] All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 77 stars 増。"
+      }
+    },
+    {
+      "fullName": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 91326,
+      "forks": 5096,
+      "starsToday": 251,
+      "ai": {
+        "shortSummary": "[mock] An open-source cross-platform alternative to AirDrop",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 251 stars 増。"
+      }
+    },
+    {
+      "fullName": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 11645,
-      "forks": 1021,
-      "starsToday": 507,
+      "stars": 67526,
+      "forks": 3212,
+      "starsToday": 115,
       "ai": {
-        "shortSummary": "[mock] Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, m",
+        "shortSummary": "[mock] Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 507 stars 増。"
+        "whyTrending": "[mock] 直近で 115 stars 増。"
       }
     },
     {
-      "fullName": "jiji262/douyin-downloader",
-      "url": "https://github.com/jiji262/douyin-downloader",
-      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
+      "fullName": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11348,
-      "forks": 1751,
-      "starsToday": 452,
+      "stars": 106129,
+      "forks": 20308,
+      "starsToday": 745,
       "ai": {
-        "shortSummary": "[mock] A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and br",
+        "shortSummary": "[mock] TradingAgents: Multi-Agents LLM Financial Trading Framework",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 452 stars 増。"
+        "whyTrending": "[mock] 直近で 745 stars 増。"
       }
     },
     {
-      "fullName": "Swordfish90/cool-retro-term",
-      "url": "https://github.com/Swordfish90/cool-retro-term",
-      "description": "A good looking terminal emulator which mimics the old cathode display...",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 26222,
-      "forks": 1016,
-      "starsToday": 57,
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 93842,
+      "forks": 12432,
+      "starsToday": 383,
       "ai": {
-        "shortSummary": "[mock] A good looking terminal emulator which mimics the old cathode display...",
+        "shortSummary": "[mock] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a sin",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 383 stars 増。"
+      }
+    },
+    {
+      "fullName": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 6060,
+      "forks": 517,
+      "starsToday": 512,
+      "ai": {
+        "shortSummary": "[mock] The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absol",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 57 stars 増。"
+        "whyTrending": "[mock] 直近で 512 stars 増。"
+      }
+    },
+    {
+      "fullName": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 37366,
+      "forks": 4246,
+      "starsToday": 216,
+      "ai": {
+        "shortSummary": "[mock] VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 216 stars 増。"
       }
     },
     {
@@ -280,13 +220,88 @@
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 165515,
-      "forks": 34558,
-      "starsToday": 152,
+      "stars": 165972,
+      "forks": 34578,
+      "starsToday": 536,
       "ai": {
         "shortSummary": "[mock] 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, ",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 152 stars 増。"
+        "whyTrending": "[mock] 直近で 536 stars 増。"
+      }
+    },
+    {
+      "fullName": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 5981,
+      "forks": 986,
+      "starsToday": 1130,
+      "ai": {
+        "shortSummary": "[mock] Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1130 stars 増。"
+      }
+    },
+    {
+      "fullName": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 36908,
+      "forks": 3686,
+      "starsToday": 40,
+      "ai": {
+        "shortSummary": "[mock] Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all r",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 40 stars 増。"
+      }
+    },
+    {
+      "fullName": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8341,
+      "forks": 1028,
+      "starsToday": 280,
+      "ai": {
+        "shortSummary": "[mock] A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 280 stars 増。"
+      }
+    },
+    {
+      "fullName": "peetzweg/opendisplay",
+      "url": "https://github.com/peetzweg/opendisplay",
+      "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 3572,
+      "forks": 251,
+      "starsToday": 229,
+      "ai": {
+        "shortSummary": "[mock] Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.2",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 229 stars 増。"
+      }
+    },
+    {
+      "fullName": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4737,
+      "forks": 631,
+      "starsToday": 579,
+      "ai": {
+        "shortSummary": "[mock] claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 579 stars 増。"
       }
     }
   ]
