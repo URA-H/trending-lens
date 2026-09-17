@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T01:01:51.127Z",
+  "fetchedAt": "2026-09-17T01:03:46.368Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,13 +10,28 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28586,
-      "forks": 2048,
-      "starsToday": 2756,
+      "stars": 31872,
+      "forks": 2259,
+      "starsToday": 3231,
       "ai": {
         "shortSummary": "[mock] Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-l",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 2756 stars 増。"
+        "whyTrending": "[mock] 直近で 3231 stars 増。"
+      }
+    },
+    {
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 7250,
+      "forks": 422,
+      "starsToday": 927,
+      "ai": {
+        "shortSummary": "[mock] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 927 stars 増。"
       }
     },
     {
@@ -25,13 +40,73 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 33845,
-      "forks": 3545,
-      "starsToday": 2026,
+      "stars": 35035,
+      "forks": 3682,
+      "starsToday": 1546,
       "ai": {
         "shortSummary": "[mock] Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2026 stars 増。"
+        "whyTrending": "[mock] 直近で 1546 stars 増。"
+      }
+    },
+    {
+      "fullName": "abue-ammar/tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 5595,
+      "forks": 267,
+      "starsToday": 1179,
+      "ai": {
+        "shortSummary": "[mock] Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1179 stars 増。"
+      }
+    },
+    {
+      "fullName": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 54383,
+      "forks": 6790,
+      "starsToday": 417,
+      "ai": {
+        "shortSummary": "[mock] The open-source AI voice studio. Clone, dictate, create.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 417 stars 増。"
+      }
+    },
+    {
+      "fullName": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": null,
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 13344,
+      "forks": 1587,
+      "starsToday": 547,
+      "ai": {
+        "shortSummary": "[mock] Lakr233/vphone-cli (no description)",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 547 stars 増。"
+      }
+    },
+    {
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 24287,
+      "forks": 2922,
+      "starsToday": 110,
+      "ai": {
+        "shortSummary": "[mock] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 110 stars 増。"
       }
     },
     {
@@ -40,73 +115,28 @@
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6667,
-      "forks": 1029,
-      "starsToday": 634,
+      "stars": 7311,
+      "forks": 1087,
+      "starsToday": 778,
       "ai": {
         "shortSummary": "[mock] Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 634 stars 増。"
+        "whyTrending": "[mock] 直近で 778 stars 増。"
       }
     },
     {
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 30978,
-      "forks": 3698,
-      "starsToday": 2072,
-      "ai": {
-        "shortSummary": "[mock] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & ",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2072 stars 増。"
-      }
-    },
-    {
-      "fullName": "Homebrew/BrewUI",
-      "url": "https://github.com/Homebrew/BrewUI",
-      "description": "📺 Homebrew's official macOS GUI",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 1363,
-      "forks": 29,
-      "starsToday": 271,
-      "ai": {
-        "shortSummary": "[mock] 📺 Homebrew's official macOS GUI",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 271 stars 増。"
-      }
-    },
-    {
-      "fullName": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2835,
-      "forks": 683,
-      "starsToday": 193,
-      "ai": {
-        "shortSummary": "[mock] Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any bu",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 193 stars 増。"
-      }
-    },
-    {
-      "fullName": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
+      "fullName": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3363,
-      "forks": 223,
-      "starsToday": 531,
+      "stars": 30863,
+      "forks": 3210,
+      "starsToday": 58,
       "ai": {
-        "shortSummary": "[mock] Turn your coding agents into research agents",
+        "shortSummary": "[mock] Anki is a smart spaced repetition flashcard program",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 531 stars 増。"
+        "whyTrending": "[mock] 直近で 58 stars 増。"
       }
     },
     {
@@ -115,58 +145,133 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 76710,
-      "forks": 8458,
-      "starsToday": 725,
+      "stars": 77802,
+      "forks": 8606,
+      "starsToday": 1059,
       "ai": {
         "shortSummary": "[mock] Ghidra is a software reverse engineering (SRE) framework",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 725 stars 増。"
+        "whyTrending": "[mock] 直近で 1059 stars 増。"
       }
     },
     {
-      "fullName": "danny-avila/LibreChat",
-      "url": "https://github.com/danny-avila/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "fullName": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 43838,
-      "forks": 9024,
-      "starsToday": 254,
+      "stars": 145507,
+      "forks": 23480,
+      "starsToday": 165,
       "ai": {
-        "shortSummary": "[mock] Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, Open",
+        "shortSummary": "[mock] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 254 stars 増。"
+        "whyTrending": "[mock] 直近で 165 stars 増。"
       }
     },
     {
-      "fullName": "pacifio/atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4626,
-      "forks": 280,
-      "starsToday": 91,
-      "ai": {
-        "shortSummary": "[mock] Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 91 stars 増。"
-      }
-    },
-    {
-      "fullName": "MG1937/ASC",
-      "url": "https://github.com/MG1937/ASC",
-      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "fullName": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1176,
-      "forks": 196,
-      "starsToday": 129,
+      "stars": 50598,
+      "forks": 4812,
+      "starsToday": 260,
       "ai": {
-        "shortSummary": "[mock] ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+        "shortSummary": "[mock] We write your reusable computer vision tools. 💜",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 129 stars 増。"
+        "whyTrending": "[mock] 直近で 260 stars 増。"
+      }
+    },
+    {
+      "fullName": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4419,
+      "forks": 273,
+      "starsToday": 1017,
+      "ai": {
+        "shortSummary": "[mock] Turn your coding agents into research agents",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 1017 stars 増。"
+      }
+    },
+    {
+      "fullName": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 109732,
+      "forks": 14043,
+      "starsToday": 120,
+      "ai": {
+        "shortSummary": "[mock] The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 120 stars 増。"
+      }
+    },
+    {
+      "fullName": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2551,
+      "forks": 184,
+      "starsToday": 80,
+      "ai": {
+        "shortSummary": "[mock] All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 80 stars 増。"
+      }
+    },
+    {
+      "fullName": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 25302,
+      "forks": 3477,
+      "starsToday": 1197,
+      "ai": {
+        "shortSummary": "[mock] Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 1197 stars 増。"
+      }
+    },
+    {
+      "fullName": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5770,
+      "forks": 741,
+      "starsToday": 367,
+      "ai": {
+        "shortSummary": "[mock] claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 367 stars 増。"
+      }
+    },
+    {
+      "fullName": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 9371,
+      "forks": 1008,
+      "starsToday": 332,
+      "ai": {
+        "shortSummary": "[mock] YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 332 stars 増。"
       }
     },
     {
@@ -175,43 +280,43 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 94805,
-      "forks": 10061,
-      "starsToday": 307,
+      "stars": 95459,
+      "forks": 10111,
+      "starsToday": 658,
       "ai": {
         "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 307 stars 増。"
+        "whyTrending": "[mock] 直近で 658 stars 増。"
       }
     },
     {
-      "fullName": "tonhowtf/omniget",
-      "url": "https://github.com/tonhowtf/omniget",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12933,
-      "forks": 1101,
-      "starsToday": 258,
-      "ai": {
-        "shortSummary": "[mock] Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, m",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 258 stars 増。"
-      }
-    },
-    {
-      "fullName": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "fullName": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 105712,
-      "forks": 13287,
-      "starsToday": 458,
+      "stars": 68377,
+      "forks": 7385,
+      "starsToday": 112,
       "ai": {
-        "shortSummary": "[mock] AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "shortSummary": "[mock] Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 458 stars 増。"
+        "whyTrending": "[mock] 直近で 112 stars 増。"
+      }
+    },
+    {
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 260290,
+      "forks": 38956,
+      "starsToday": 1057,
+      "ai": {
+        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 1057 stars 増。"
       }
     }
   ]
