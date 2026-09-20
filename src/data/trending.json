@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T00:55:39.632Z",
+  "fetchedAt": "2026-09-20T00:36:37.917Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,73 +10,28 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 13696,
-      "forks": 734,
-      "starsToday": 3006,
+      "stars": 16325,
+      "forks": 894,
+      "starsToday": 3155,
       "ai": {
         "shortSummary": "[mock] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 3006 stars 増。"
+        "whyTrending": "[mock] 直近で 3155 stars 増。"
       }
     },
     {
-      "fullName": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 146300,
-      "forks": 23795,
-      "starsToday": 444,
+      "fullName": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 24401,
+      "forks": 1680,
+      "starsToday": 859,
       "ai": {
-        "shortSummary": "[mock] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine",
+        "shortSummary": "[mock] Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 444 stars 増。"
-      }
-    },
-    {
-      "fullName": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 36678,
-      "forks": 2613,
-      "starsToday": 2704,
-      "ai": {
-        "shortSummary": "[mock] Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precis",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 2704 stars 増。"
-      }
-    },
-    {
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 262071,
-      "forks": 39214,
-      "starsToday": 958,
-      "ai": {
-        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 958 stars 増。"
-      }
-    },
-    {
-      "fullName": "Tencent/BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5302,
-      "forks": 366,
-      "starsToday": 1306,
-      "ai": {
-        "shortSummary": "[mock] Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capab",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1306 stars 増。"
+        "whyTrending": "[mock] 直近で 859 stars 増。"
       }
     },
     {
@@ -85,133 +40,13 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 96407,
-      "forks": 10193,
-      "starsToday": 675,
+      "stars": 97023,
+      "forks": 10239,
+      "starsToday": 556,
       "ai": {
         "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 675 stars 増。"
-      }
-    },
-    {
-      "fullName": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3958,
-      "forks": 409,
-      "starsToday": 569,
-      "ai": {
-        "shortSummary": "[mock] A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 569 stars 増。"
-      }
-    },
-    {
-      "fullName": "Fission-AI/OpenSpec",
-      "url": "https://github.com/Fission-AI/OpenSpec",
-      "description": "Spec-driven development (SDD) for AI coding assistants.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 69355,
-      "forks": 4750,
-      "starsToday": 296,
-      "ai": {
-        "shortSummary": "[mock] Spec-driven development (SDD) for AI coding assistants.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 296 stars 増。"
-      }
-    },
-    {
-      "fullName": "ankitects/anki",
-      "url": "https://github.com/ankitects/anki",
-      "description": "Anki is a smart spaced repetition flashcard program",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 31211,
-      "forks": 3237,
-      "starsToday": 174,
-      "ai": {
-        "shortSummary": "[mock] Anki is a smart spaced repetition flashcard program",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 174 stars 増。"
-      }
-    },
-    {
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 24887,
-      "forks": 2972,
-      "starsToday": 299,
-      "ai": {
-        "shortSummary": "[mock] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 299 stars 増。"
-      }
-    },
-    {
-      "fullName": "supermemoryai/supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 30278,
-      "forks": 2640,
-      "starsToday": 140,
-      "ai": {
-        "shortSummary": "[mock] Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 140 stars 増。"
-      }
-    },
-    {
-      "fullName": "tradesdontlie/tradingview-mcp",
-      "url": "https://github.com/tradesdontlie/tradingview-mcp",
-      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 6472,
-      "forks": 2718,
-      "starsToday": 79,
-      "ai": {
-        "shortSummary": "[mock] AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 79 stars 増。"
-      }
-    },
-    {
-      "fullName": "rustfs/rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 33166,
-      "forks": 1482,
-      "starsToday": 267,
-      "ai": {
-        "shortSummary": "[mock] RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 267 stars 増。"
-      }
-    },
-    {
-      "fullName": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 110154,
-      "forks": 14308,
-      "starsToday": 120,
-      "ai": {
-        "shortSummary": "[mock] The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 120 stars 増。"
+        "whyTrending": "[mock] 直近で 556 stars 増。"
       }
     },
     {
@@ -220,28 +55,88 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15293,
-      "forks": 1504,
-      "starsToday": 478,
+      "stars": 15613,
+      "forks": 1522,
+      "starsToday": 402,
       "ai": {
         "shortSummary": "[mock] Secure environments for developers and their agents",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 478 stars 増。"
+        "whyTrending": "[mock] 直近で 402 stars 増。"
       }
     },
     {
-      "fullName": "ahmedkhaleel2004/gitdiagram",
-      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
-      "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+      "fullName": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16468,
-      "forks": 1255,
-      "starsToday": 152,
+      "stars": 146704,
+      "forks": 23926,
+      "starsToday": 483,
       "ai": {
-        "shortSummary": "[mock] Free, simple, fast interactive diagrams for any GitHub repository",
+        "shortSummary": "[mock] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 152 stars 増。"
+        "whyTrending": "[mock] 直近で 483 stars 増。"
+      }
+    },
+    {
+      "fullName": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 16034,
+      "forks": 2084,
+      "starsToday": 472,
+      "ai": {
+        "shortSummary": "[mock] OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 472 stars 増。"
+      }
+    },
+    {
+      "fullName": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 4953,
+      "forks": 912,
+      "starsToday": 196,
+      "ai": {
+        "shortSummary": "[mock] Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions ",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 196 stars 増。"
+      }
+    },
+    {
+      "fullName": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "description": "Get your documents ready for gen AI",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 67039,
+      "forks": 4833,
+      "starsToday": 129,
+      "ai": {
+        "shortSummary": "[mock] Get your documents ready for gen AI",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 129 stars 増。"
+      }
+    },
+    {
+      "fullName": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 12015,
+      "forks": 1115,
+      "starsToday": 31,
+      "ai": {
+        "shortSummary": "[mock] 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 31 stars 増。"
       }
     },
     {
@@ -250,13 +145,88 @@
       "description": "Your own search engine",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4965,
-      "forks": 205,
-      "starsToday": 889,
+      "stars": 5224,
+      "forks": 219,
+      "starsToday": 420,
       "ai": {
         "shortSummary": "[mock] Your own search engine",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 889 stars 増。"
+        "whyTrending": "[mock] 直近で 420 stars 増。"
+      }
+    },
+    {
+      "fullName": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": null,
+      "languageColor": null,
+      "stars": 103117,
+      "forks": 4424,
+      "starsToday": 98,
+      "ai": {
+        "shortSummary": "[mock] 科技爱好者周刊，每周五发布",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 98 stars 増。"
+      }
+    },
+    {
+      "fullName": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 37777,
+      "forks": 5206,
+      "starsToday": 48,
+      "ai": {
+        "shortSummary": "[mock] 人人都能用英语",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 48 stars 増。"
+      }
+    },
+    {
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 25124,
+      "forks": 2994,
+      "starsToday": 281,
+      "ai": {
+        "shortSummary": "[mock] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 281 stars 増。"
+      }
+    },
+    {
+      "fullName": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 11599,
+      "forks": 741,
+      "starsToday": 234,
+      "ai": {
+        "shortSummary": "[mock] Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart h",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 234 stars 増。"
+      }
+    },
+    {
+      "fullName": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3390,
+      "forks": 445,
+      "starsToday": 32,
+      "ai": {
+        "shortSummary": "[mock] OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 32 stars 増。"
       }
     }
   ]
