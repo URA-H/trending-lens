@@ -1,22 +1,52 @@
 {
-  "fetchedAt": "2026-09-20T00:36:37.917Z",
+  "fetchedAt": "2026-09-21T00:48:29.997Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
+    {
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 263735,
+      "forks": 39455,
+      "starsToday": 826,
+      "ai": {
+        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 826 stars 増。"
+      }
+    },
+    {
+      "fullName": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 5212,
+      "forks": 484,
+      "starsToday": 98,
+      "ai": {
+        "shortSummary": "[mock] A framework for building agentic apps",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 98 stars 増。"
+      }
+    },
     {
       "fullName": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 16325,
-      "forks": 894,
-      "starsToday": 3155,
+      "stars": 18019,
+      "forks": 999,
+      "starsToday": 2428,
       "ai": {
         "shortSummary": "[mock] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 3155 stars 増。"
+        "whyTrending": "[mock] 直近で 2428 stars 増。"
       }
     },
     {
@@ -25,43 +55,43 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 24401,
-      "forks": 1680,
-      "starsToday": 859,
+      "stars": 25148,
+      "forks": 1729,
+      "starsToday": 1018,
       "ai": {
         "shortSummary": "[mock] Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 859 stars 増。"
+        "whyTrending": "[mock] 直近で 1018 stars 増。"
       }
     },
     {
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 97023,
-      "forks": 10239,
-      "starsToday": 556,
+      "fullName": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": null,
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 35363,
+      "forks": 5248,
+      "starsToday": 260,
       "ai": {
-        "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 556 stars 増。"
+        "shortSummary": "[mock] anthropics/financial-services (no description)",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 260 stars 増。"
       }
     },
     {
-      "fullName": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 15613,
-      "forks": 1522,
-      "starsToday": 402,
+      "fullName": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 45563,
+      "forks": 3146,
+      "starsToday": 57,
       "ai": {
-        "shortSummary": "[mock] Secure environments for developers and their agents",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 402 stars 増。"
+        "shortSummary": "[mock] A community-supported supercharged document management system: scan, index and archive all your documents",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 57 stars 増。"
       }
     },
     {
@@ -70,28 +100,28 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 146704,
-      "forks": 23926,
-      "starsToday": 483,
+      "stars": 147120,
+      "forks": 24062,
+      "starsToday": 419,
       "ai": {
         "shortSummary": "[mock] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 483 stars 増。"
+        "whyTrending": "[mock] 直近で 419 stars 増。"
       }
     },
     {
-      "fullName": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 16034,
-      "forks": 2084,
-      "starsToday": 472,
+      "fullName": "mihail911/modern-software-dev-assignments",
+      "url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4555,
+      "forks": 1010,
+      "starsToday": 172,
       "ai": {
-        "shortSummary": "[mock] OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 472 stars 増。"
+        "shortSummary": "[mock] Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 172 stars 増。"
       }
     },
     {
@@ -100,133 +130,73 @@
       "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 4953,
-      "forks": 912,
-      "starsToday": 196,
+      "stars": 5378,
+      "forks": 956,
+      "starsToday": 465,
       "ai": {
         "shortSummary": "[mock] Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions ",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 196 stars 増。"
+        "whyTrending": "[mock] 直近で 465 stars 増。"
       }
     },
     {
-      "fullName": "docling-project/docling",
-      "url": "https://github.com/docling-project/docling",
-      "description": "Get your documents ready for gen AI",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 67039,
-      "forks": 4833,
-      "starsToday": 129,
-      "ai": {
-        "shortSummary": "[mock] Get your documents ready for gen AI",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 129 stars 増。"
-      }
-    },
-    {
-      "fullName": "cloudflare/quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12015,
-      "forks": 1115,
-      "starsToday": 31,
-      "ai": {
-        "shortSummary": "[mock] 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 31 stars 増。"
-      }
-    },
-    {
-      "fullName": "asciimoo/hister",
-      "url": "https://github.com/asciimoo/hister",
-      "description": "Your own search engine",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5224,
-      "forks": 219,
-      "starsToday": 420,
-      "ai": {
-        "shortSummary": "[mock] Your own search engine",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 420 stars 増。"
-      }
-    },
-    {
-      "fullName": "ruanyf/weekly",
-      "url": "https://github.com/ruanyf/weekly",
-      "description": "科技爱好者周刊，每周五发布",
-      "language": null,
-      "languageColor": null,
-      "stars": 103117,
-      "forks": 4424,
-      "starsToday": 98,
-      "ai": {
-        "shortSummary": "[mock] 科技爱好者周刊，每周五发布",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 98 stars 増。"
-      }
-    },
-    {
-      "fullName": "ZuodaoTech/everyone-can-use-english",
-      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
-      "description": "人人都能用英语",
+      "fullName": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 37777,
-      "forks": 5206,
-      "starsToday": 48,
+      "stars": 16819,
+      "forks": 2133,
+      "starsToday": 755,
       "ai": {
-        "shortSummary": "[mock] 人人都能用英语",
+        "shortSummary": "[mock] OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 48 stars 増。"
+        "whyTrending": "[mock] 直近で 755 stars 増。"
       }
     },
     {
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 25124,
-      "forks": 2994,
-      "starsToday": 281,
+      "fullName": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 16050,
+      "forks": 1541,
+      "starsToday": 379,
       "ai": {
-        "shortSummary": "[mock] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 281 stars 増。"
-      }
-    },
-    {
-      "fullName": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 11599,
-      "forks": 741,
-      "starsToday": 234,
-      "ai": {
-        "shortSummary": "[mock] Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart h",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 234 stars 増。"
-      }
-    },
-    {
-      "fullName": "yynxxxxx/Codex-X",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3390,
-      "forks": 445,
-      "starsToday": 32,
-      "ai": {
-        "shortSummary": "[mock] OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+        "shortSummary": "[mock] Secure environments for developers and their agents",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 32 stars 増。"
+        "whyTrending": "[mock] 直近で 379 stars 増。"
+      }
+    },
+    {
+      "fullName": "vercel-labs/json-render",
+      "url": "https://github.com/vercel-labs/json-render",
+      "description": "The Generative UI framework",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 17305,
+      "forks": 919,
+      "starsToday": 291,
+      "ai": {
+        "shortSummary": "[mock] The Generative UI framework",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 291 stars 増。"
+      }
+    },
+    {
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 97691,
+      "forks": 10296,
+      "starsToday": 736,
+      "ai": {
+        "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 736 stars 増。"
       }
     }
   ]
