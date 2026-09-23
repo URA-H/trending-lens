@@ -1,112 +1,82 @@
 {
-  "fetchedAt": "2026-09-22T01:24:19.261Z",
+  "fetchedAt": "2026-09-23T01:12:32.328Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
-    {
-      "fullName": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5923,
-      "forks": 538,
-      "starsToday": 607,
-      "ai": {
-        "shortSummary": "[mock] A framework for building agentic apps",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 607 stars 増。"
-      }
-    },
-    {
-      "fullName": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 25711,
-      "forks": 1769,
-      "starsToday": 609,
-      "ai": {
-        "shortSummary": "[mock] Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 609 stars 増。"
-      }
-    },
-    {
-      "fullName": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 17756,
-      "forks": 2197,
-      "starsToday": 844,
-      "ai": {
-        "shortSummary": "[mock] OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 844 stars 増。"
-      }
-    },
-    {
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 7697,
-      "forks": 522,
-      "starsToday": 167,
-      "ai": {
-        "shortSummary": "[mock] Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 167 stars 増。"
-      }
-    },
-    {
-      "fullName": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 16431,
-      "forks": 1565,
-      "starsToday": 460,
-      "ai": {
-        "shortSummary": "[mock] Secure environments for developers and their agents",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 460 stars 増。"
-      }
-    },
     {
       "fullName": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "description": null,
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 35842,
-      "forks": 5268,
-      "starsToday": 424,
+      "stars": 36346,
+      "forks": 5315,
+      "starsToday": 438,
       "ai": {
         "shortSummary": "[mock] anthropics/financial-services (no description)",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 424 stars 増。"
+        "whyTrending": "[mock] 直近で 438 stars 増。"
       }
     },
     {
-      "fullName": "cloudflare/quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12364,
-      "forks": 1133,
-      "starsToday": 32,
+      "fullName": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2979,
+      "forks": 386,
+      "starsToday": 245,
       "ai": {
-        "shortSummary": "[mock] 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "shortSummary": "[mock] Agent Substrate: the core system",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 32 stars 増。"
+        "whyTrending": "[mock] 直近で 245 stars 増。"
+      }
+    },
+    {
+      "fullName": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 15415,
+      "forks": 1371,
+      "starsToday": 255,
+      "ai": {
+        "shortSummary": "[mock] The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 255 stars 増。"
+      }
+    },
+    {
+      "fullName": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 31131,
+      "forks": 3541,
+      "starsToday": 64,
+      "ai": {
+        "shortSummary": "[mock] CLI tool for configuring and monitoring Claude Code",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 64 stars 増。"
+      }
+    },
+    {
+      "fullName": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7617,
+      "forks": 355,
+      "starsToday": 2305,
+      "ai": {
+        "shortSummary": "[mock] Google's open agentic orchestration runtime",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 2305 stars 増。"
       }
     },
     {
@@ -115,73 +85,43 @@
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13605,
-      "forks": 1325,
-      "starsToday": 169,
+      "stars": 14117,
+      "forks": 1359,
+      "starsToday": 441,
       "ai": {
         "shortSummary": "[mock] MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 169 stars 増。"
+        "whyTrending": "[mock] 直近で 441 stars 増。"
       }
     },
     {
-      "fullName": "zhouxiaoka/autoclip",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "fullName": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8262,
-      "forks": 1573,
-      "starsToday": 250,
+      "stars": 2224,
+      "forks": 218,
+      "starsToday": 230,
       "ai": {
-        "shortSummary": "[mock] AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+        "shortSummary": "[mock] OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 250 stars 増。"
+        "whyTrending": "[mock] 直近で 230 stars 増。"
       }
     },
     {
-      "fullName": "ruanyf/weekly",
-      "url": "https://github.com/ruanyf/weekly",
-      "description": "科技爱好者周刊，每周五发布",
-      "language": null,
-      "languageColor": null,
-      "stars": 103960,
-      "forks": 4450,
-      "starsToday": 182,
+      "fullName": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 25849,
+      "forks": 3119,
+      "starsToday": 191,
       "ai": {
-        "shortSummary": "[mock] 科技爱好者周刊，每周五发布",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 182 stars 増。"
-      }
-    },
-    {
-      "fullName": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 37878,
-      "forks": 3767,
-      "starsToday": 394,
-      "ai": {
-        "shortSummary": "[mock] Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all r",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 394 stars 増。"
-      }
-    },
-    {
-      "fullName": "yynxxxxx/Codex-X",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3692,
-      "forks": 462,
-      "starsToday": 50,
-      "ai": {
-        "shortSummary": "[mock] OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 50 stars 増。"
+        "shortSummary": "[mock] Edit videos with coding agents",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 191 stars 増。"
       }
     }
   ]
