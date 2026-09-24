@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T01:12:32.328Z",
+  "fetchedAt": "2026-09-24T01:00:52.607Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,58 +10,13 @@
       "description": null,
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 36346,
-      "forks": 5315,
-      "starsToday": 438,
+      "stars": 36940,
+      "forks": 5377,
+      "starsToday": 664,
       "ai": {
         "shortSummary": "[mock] anthropics/financial-services (no description)",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 438 stars 増。"
-      }
-    },
-    {
-      "fullName": "agent-substrate/substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2979,
-      "forks": 386,
-      "starsToday": 245,
-      "ai": {
-        "shortSummary": "[mock] Agent Substrate: the core system",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 245 stars 増。"
-      }
-    },
-    {
-      "fullName": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 15415,
-      "forks": 1371,
-      "starsToday": 255,
-      "ai": {
-        "shortSummary": "[mock] The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 255 stars 増。"
-      }
-    },
-    {
-      "fullName": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 31131,
-      "forks": 3541,
-      "starsToday": 64,
-      "ai": {
-        "shortSummary": "[mock] CLI tool for configuring and monitoring Claude Code",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 64 stars 増。"
+        "whyTrending": "[mock] 直近で 664 stars 増。"
       }
     },
     {
@@ -70,28 +25,133 @@
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7617,
-      "forks": 355,
-      "starsToday": 2305,
+      "stars": 9055,
+      "forks": 435,
+      "starsToday": 1543,
       "ai": {
         "shortSummary": "[mock] Google's open agentic orchestration runtime",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 2305 stars 増。"
+        "whyTrending": "[mock] 直近で 1543 stars 増。"
       }
     },
     {
-      "fullName": "mvt-project/mvt",
-      "url": "https://github.com/mvt-project/mvt",
-      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "fullName": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14117,
-      "forks": 1359,
-      "starsToday": 441,
+      "stars": 31498,
+      "forks": 3579,
+      "starsToday": 389,
       "ai": {
-        "shortSummary": "[mock] MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "shortSummary": "[mock] CLI tool for configuring and monitoring Claude Code",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 441 stars 増。"
+        "whyTrending": "[mock] 直近で 389 stars 増。"
+      }
+    },
+    {
+      "fullName": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 6545,
+      "forks": 586,
+      "starsToday": 87,
+      "ai": {
+        "shortSummary": "[mock] A framework for building agentic apps",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 87 stars 増。"
+      }
+    },
+    {
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 290686,
+      "forks": 26012,
+      "starsToday": 474,
+      "ai": {
+        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 474 stars 増。"
+      }
+    },
+    {
+      "fullName": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 16327,
+      "forks": 1435,
+      "starsToday": 1142,
+      "ai": {
+        "shortSummary": "[mock] The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1142 stars 増。"
+      }
+    },
+    {
+      "fullName": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 18826,
+      "forks": 2284,
+      "starsToday": 344,
+      "ai": {
+        "shortSummary": "[mock] OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 344 stars 増。"
+      }
+    },
+    {
+      "fullName": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3495,
+      "forks": 413,
+      "starsToday": 558,
+      "ai": {
+        "shortSummary": "[mock] Agent Substrate: the core system",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 558 stars 増。"
+      }
+    },
+    {
+      "fullName": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 7843,
+      "forks": 1201,
+      "starsToday": 115,
+      "ai": {
+        "shortSummary": "[mock] Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 115 stars 増。"
+      }
+    },
+    {
+      "fullName": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 49928,
+      "forks": 4601,
+      "starsToday": 57,
+      "ai": {
+        "shortSummary": "[mock] \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 57 stars 増。"
       }
     },
     {
@@ -100,13 +160,73 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2224,
-      "forks": 218,
-      "starsToday": 230,
+      "stars": 2718,
+      "forks": 242,
+      "starsToday": 506,
       "ai": {
         "shortSummary": "[mock] OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 230 stars 増。"
+        "whyTrending": "[mock] 直近で 506 stars 増。"
+      }
+    },
+    {
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 70338,
+      "forks": 4270,
+      "starsToday": 304,
+      "ai": {
+        "shortSummary": "[mock] The design language that makes your AI harness better at design.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 304 stars 増。"
+      }
+    },
+    {
+      "fullName": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 14481,
+      "forks": 1383,
+      "starsToday": 543,
+      "ai": {
+        "shortSummary": "[mock] MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 543 stars 増。"
+      }
+    },
+    {
+      "fullName": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 44565,
+      "forks": 3637,
+      "starsToday": 190,
+      "ai": {
+        "shortSummary": "[mock] High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 langu",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 190 stars 増。"
+      }
+    },
+    {
+      "fullName": "harry7557558/spirula-studio",
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 739,
+      "forks": 56,
+      "starsToday": 69,
+      "ai": {
+        "shortSummary": "[mock] Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 69 stars 増。"
       }
     },
     {
@@ -115,13 +235,28 @@
       "description": "Edit videos with coding agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 25849,
-      "forks": 3119,
-      "starsToday": 191,
+      "stars": 26492,
+      "forks": 3166,
+      "starsToday": 746,
       "ai": {
         "shortSummary": "[mock] Edit videos with coding agents",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 191 stars 増。"
+        "whyTrending": "[mock] 直近で 746 stars 増。"
+      }
+    },
+    {
+      "fullName": "TNT-Likely/PanWatch",
+      "url": "https://github.com/TNT-Likely/PanWatch",
+      "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1504,
+      "forks": 297,
+      "starsToday": 95,
+      "ai": {
+        "shortSummary": "[mock] 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 95 stars 増。"
       }
     }
   ]
