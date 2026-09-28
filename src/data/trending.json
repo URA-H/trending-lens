@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-27T01:04:05.952Z",
+  "fetchedAt": "2026-09-28T01:22:19.838Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,13 +10,13 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 87341,
-      "forks": 15432,
-      "starsToday": 2608,
+      "stars": 89951,
+      "forks": 15670,
+      "starsToday": 2401,
       "ai": {
         "shortSummary": "[mock] The open-source app everyone uses to manage agents at work",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2608 stars 増。"
+        "whyTrending": "[mock] 直近で 2401 stars 増。"
       }
     },
     {
@@ -25,58 +25,28 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32209,
-      "forks": 3573,
-      "starsToday": 2147,
+      "stars": 37361,
+      "forks": 4840,
+      "starsToday": 4520,
       "ai": {
         "shortSummary": "[mock] Hindsight: Agent Memory That Learns",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2147 stars 増。"
+        "whyTrending": "[mock] 直近で 4520 stars 増。"
       }
     },
     {
-      "fullName": "NVIDIA/Model-Optimizer",
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4754,
-      "forks": 669,
-      "starsToday": 357,
+      "stars": 40201,
+      "forks": 4777,
+      "starsToday": 3086,
       "ai": {
-        "shortSummary": "[mock] A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative de",
+        "shortSummary": "[mock] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & ",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 357 stars 増。"
-      }
-    },
-    {
-      "fullName": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 19228,
-      "forks": 1635,
-      "starsToday": 849,
-      "ai": {
-        "shortSummary": "[mock] The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 849 stars 増。"
-      }
-    },
-    {
-      "fullName": "tensorflow/tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 200458,
-      "forks": 77617,
-      "starsToday": 46,
-      "ai": {
-        "shortSummary": "[mock] An Open Source Machine Learning Framework for Everyone",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 46 stars 増。"
+        "whyTrending": "[mock] 直近で 3086 stars 増。"
       }
     },
     {
@@ -85,148 +55,88 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 58385,
-      "forks": 10123,
-      "starsToday": 827,
+      "stars": 59317,
+      "forks": 10239,
+      "starsToday": 790,
       "ai": {
         "shortSummary": "[mock] Learn it. Build it. Ship it for others.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 827 stars 増。"
+        "whyTrending": "[mock] 直近で 790 stars 増。"
       }
     },
     {
-      "fullName": "openbao/openbao",
-      "url": "https://github.com/openbao/openbao",
-      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8008,
-      "forks": 590,
-      "starsToday": 364,
+      "fullName": "InfinityLoop1308/PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 6582,
+      "forks": 223,
+      "starsToday": 242,
       "ai": {
-        "shortSummary": "[mock] OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 364 stars 増。"
+        "shortSummary": "[mock] An open-source Android app to let you browse YouTube and other services freely.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 242 stars 増。"
       }
     },
     {
-      "fullName": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 34831,
-      "forks": 4594,
-      "starsToday": 339,
-      "ai": {
-        "shortSummary": "[mock] A hive mind communication platform",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 339 stars 増。"
-      }
-    },
-    {
-      "fullName": "microsoft/vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Visual Studio Code",
+      "fullName": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 193074,
-      "forks": 43553,
-      "starsToday": 95,
+      "stars": 5410,
+      "forks": 141,
+      "starsToday": 102,
       "ai": {
-        "shortSummary": "[mock] Visual Studio Code",
+        "shortSummary": "[mock] TypeScript-to-Native Compiler",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 95 stars 増。"
+        "whyTrending": "[mock] 直近で 102 stars 増。"
       }
     },
     {
-      "fullName": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 38012,
-      "forks": 5273,
-      "starsToday": 361,
-      "ai": {
-        "shortSummary": "[mock] Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstra",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 361 stars 増。"
-      }
-    },
-    {
-      "fullName": "llvm/llvm-project",
-      "url": "https://github.com/llvm/llvm-project",
-      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-      "language": "LLVM",
-      "languageColor": "#185619",
-      "stars": 40750,
-      "forks": 18823,
-      "starsToday": 41,
-      "ai": {
-        "shortSummary": "[mock] The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 41 stars 増。"
-      }
-    },
-    {
-      "fullName": "anthropics/claude-code-action",
-      "url": "https://github.com/anthropics/claude-code-action",
-      "description": null,
+      "fullName": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9092,
-      "forks": 2164,
-      "starsToday": 31,
+      "stars": 991,
+      "forks": 104,
+      "starsToday": 114,
       "ai": {
-        "shortSummary": "[mock] anthropics/claude-code-action (no description)",
+        "shortSummary": "[mock] Multi-agent harness that runs Claude Code and Codex together as one system",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 31 stars 増。"
+        "whyTrending": "[mock] 直近で 114 stars 増。"
       }
     },
     {
-      "fullName": "actions/runner-images",
-      "url": "https://github.com/actions/runner-images",
-      "description": "GitHub Actions runner images",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 13300,
-      "forks": 3868,
-      "starsToday": 19,
-      "ai": {
-        "shortSummary": "[mock] GitHub Actions runner images",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 19 stars 増。"
-      }
-    },
-    {
-      "fullName": "mobile-next/mobile-mcp",
-      "url": "https://github.com/mobile-next/mobile-mcp",
-      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+      "fullName": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7352,
-      "forks": 641,
-      "starsToday": 168,
+      "stars": 20258,
+      "forks": 1713,
+      "starsToday": 895,
       "ai": {
-        "shortSummary": "[mock] Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+        "shortSummary": "[mock] The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 168 stars 増。"
+        "whyTrending": "[mock] 直近で 895 stars 増。"
       }
     },
     {
-      "fullName": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 142637,
-      "forks": 33165,
-      "starsToday": 54,
+      "fullName": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 821,
+      "forks": 152,
+      "starsToday": 83,
       "ai": {
-        "shortSummary": "[mock] The React Framework",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 54 stars 増。"
+        "shortSummary": "[mock] Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 83 stars 増。"
       }
     }
   ]
