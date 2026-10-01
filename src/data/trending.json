@@ -1,82 +1,37 @@
 {
-  "fetchedAt": "2026-09-30T01:48:18.924Z",
+  "fetchedAt": "2026-10-01T01:47:17.477Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
-    {
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 48234,
-      "forks": 5405,
-      "starsToday": 4758,
-      "ai": {
-        "shortSummary": "[mock] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & ",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 4758 stars 増。"
-      }
-    },
     {
       "fullName": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10654,
-      "forks": 1423,
-      "starsToday": 990,
+      "stars": 12747,
+      "forks": 1551,
+      "starsToday": 1281,
       "ai": {
         "shortSummary": "[mock] OpenShell is the safe, private runtime for autonomous AI agents.",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 990 stars 増。"
+        "whyTrending": "[mock] 直近で 1281 stars 増。"
       }
     },
     {
-      "fullName": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 42900,
-      "forks": 5775,
-      "starsToday": 2575,
+      "stars": 50485,
+      "forks": 5604,
+      "starsToday": 3483,
       "ai": {
-        "shortSummary": "[mock] Hindsight: Agent Memory That Learns",
+        "shortSummary": "[mock] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & ",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2575 stars 増。"
-      }
-    },
-    {
-      "fullName": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 94500,
-      "forks": 16052,
-      "starsToday": 2458,
-      "ai": {
-        "shortSummary": "[mock] The open-source app everyone uses to manage agents at work",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2458 stars 増。"
-      }
-    },
-    {
-      "fullName": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 22087,
-      "forks": 2091,
-      "starsToday": 232,
-      "ai": {
-        "shortSummary": "[mock] 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 232 stars 増。"
+        "whyTrending": "[mock] 直近で 3483 stars 増。"
       }
     },
     {
@@ -85,73 +40,208 @@
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2456,
-      "forks": 177,
-      "starsToday": 737,
+      "stars": 3044,
+      "forks": 214,
+      "starsToday": 624,
       "ai": {
         "shortSummary": "[mock] Multi-agent harness that runs Claude Code and Codex together as one system",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 737 stars 増。"
+        "whyTrending": "[mock] 直近で 624 stars 増。"
       }
     },
     {
-      "fullName": "oblien/openship",
-      "url": "https://github.com/oblien/openship",
-      "description": "Self-hosted deployment platform",
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 13853,
-      "forks": 1239,
-      "starsToday": 437,
+      "stars": 24505,
+      "forks": 1769,
+      "starsToday": 90,
       "ai": {
-        "shortSummary": "[mock] Self-hosted deployment platform",
+        "shortSummary": "[mock] Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing acros",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 437 stars 増。"
+        "whyTrending": "[mock] 直近で 90 stars 増。"
       }
     },
     {
-      "fullName": "averygan/reclip",
-      "url": "https://github.com/averygan/reclip",
-      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 10145,
-      "forks": 1539,
-      "starsToday": 113,
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 149220,
+      "forks": 8022,
+      "starsToday": 743,
       "ai": {
-        "shortSummary": "[mock] Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 113 stars 増。"
+        "shortSummary": "[mock] Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 743 stars 増。"
       }
     },
     {
-      "fullName": "cs341-illinois/coursebook",
-      "url": "https://github.com/cs341-illinois/coursebook",
-      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": 3121,
-      "forks": 276,
-      "starsToday": 572,
-      "ai": {
-        "shortSummary": "[mock] Open Source Introductory Systems Programming Textbook for the University of Illinois",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 572 stars 増。"
-      }
-    },
-    {
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "fullName": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 61445,
-      "forks": 10536,
-      "starsToday": 786,
+      "stars": 127583,
+      "forks": 19956,
+      "starsToday": 431,
       "ai": {
-        "shortSummary": "[mock] Learn it. Build it. Ship it for others.",
+        "shortSummary": "[mock] 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 786 stars 増。"
+        "whyTrending": "[mock] 直近で 431 stars 増。"
+      }
+    },
+    {
+      "fullName": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 390993,
+      "forks": 82222,
+      "starsToday": 136,
+      "ai": {
+        "shortSummary": "[mock] The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 136 stars 増。"
+      }
+    },
+    {
+      "fullName": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 76145,
+      "forks": 8880,
+      "starsToday": 123,
+      "ai": {
+        "shortSummary": "[mock] A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 123 stars 増。"
+      }
+    },
+    {
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 273027,
+      "forks": 22961,
+      "starsToday": 876,
+      "ai": {
+        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 876 stars 増。"
+      }
+    },
+    {
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 54754,
+      "forks": 4977,
+      "starsToday": 349,
+      "ai": {
+        "shortSummary": "[mock] Write HTML. Render video. Built for agents.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 349 stars 増。"
+      }
+    },
+    {
+      "fullName": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6771,
+      "forks": 1800,
+      "starsToday": 8,
+      "ai": {
+        "shortSummary": "[mock] Firebase SDK for Apple App Development",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 8 stars 増。"
+      }
+    },
+    {
+      "fullName": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 90822,
+      "forks": 11725,
+      "starsToday": 50,
+      "ai": {
+        "shortSummary": "[mock] Model Context Protocol Servers",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 50 stars 増。"
+      }
+    },
+    {
+      "fullName": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 66401,
+      "forks": 6638,
+      "starsToday": 743,
+      "ai": {
+        "shortSummary": "[mock] An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 743 stars 増。"
+      }
+    },
+    {
+      "fullName": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 72605,
+      "forks": 4664,
+      "starsToday": 118,
+      "ai": {
+        "shortSummary": "[mock] Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, ",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 118 stars 増。"
+      }
+    },
+    {
+      "fullName": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 23210,
+      "forks": 2152,
+      "starsToday": 1138,
+      "ai": {
+        "shortSummary": "[mock] 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 1138 stars 増。"
+      }
+    },
+    {
+      "fullName": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "languageColor": "#dad8d8",
+      "stars": 26426,
+      "forks": 5972,
+      "starsToday": 263,
+      "ai": {
+        "shortSummary": "[mock] Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 263 stars 増。"
       }
     },
     {
@@ -160,58 +250,13 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 37412,
-      "forks": 3264,
-      "starsToday": 835,
+      "stars": 38146,
+      "forks": 3309,
+      "starsToday": 1097,
       "ai": {
         "shortSummary": "[mock] 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 835 stars 増。"
-      }
-    },
-    {
-      "fullName": "willfaust/Madeira",
-      "url": "https://github.com/willfaust/Madeira",
-      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1100,
-      "forks": 188,
-      "starsToday": 81,
-      "ai": {
-        "shortSummary": "[mock] Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 81 stars 増。"
-      }
-    },
-    {
-      "fullName": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 21877,
-      "forks": 1848,
-      "starsToday": 696,
-      "ai": {
-        "shortSummary": "[mock] The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 696 stars 増。"
-      }
-    },
-    {
-      "fullName": "rakyll/hey",
-      "url": "https://github.com/rakyll/hey",
-      "description": "HTTP load generator, ApacheBench (ab) replacement",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 20485,
-      "forks": 1312,
-      "starsToday": 34,
-      "ai": {
-        "shortSummary": "[mock] HTTP load generator, ApacheBench (ab) replacement",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 34 stars 増。"
+        "whyTrending": "[mock] 直近で 1097 stars 増。"
       }
     }
   ]
