@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T01:31:50.503Z",
+  "fetchedAt": "2026-10-12T02:01:31.505Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,13 +10,13 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 73398,
-      "forks": 15494,
-      "starsToday": 25793,
+      "stars": 107878,
+      "forks": 23875,
+      "starsToday": 25599,
       "ai": {
         "shortSummary": "[mock] Reverse engineer anything with agents, from app behavior down to native binaries.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 25793 stars 増。"
+        "whyTrending": "[mock] 直近で 25599 stars 増。"
       }
     },
     {
@@ -25,13 +25,13 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 26947,
-      "forks": 2263,
-      "starsToday": 5805,
+      "stars": 30282,
+      "forks": 2604,
+      "starsToday": 3952,
       "ai": {
         "shortSummary": "[mock] Tool for automatic PS5 executables porting to Linux and Windows",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 5805 stars 増。"
+        "whyTrending": "[mock] 直近で 3952 stars 増。"
       }
     },
     {
@@ -40,13 +40,13 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14570,
-      "forks": 2299,
-      "starsToday": 3222,
+      "stars": 18122,
+      "forks": 2963,
+      "starsToday": 2957,
       "ai": {
         "shortSummary": "[mock] ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 3222 stars 増。"
+        "whyTrending": "[mock] 直近で 2957 stars 増。"
       }
     },
     {
@@ -55,88 +55,28 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 48983,
-      "forks": 3095,
-      "starsToday": 1190,
+      "stars": 50460,
+      "forks": 3205,
+      "starsToday": 1083,
       "ai": {
         "shortSummary": "[mock] Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1190 stars 増。"
+        "whyTrending": "[mock] 直近で 1083 stars 増。"
       }
     },
     {
-      "fullName": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 26327,
-      "forks": 1894,
-      "starsToday": 178,
+      "fullName": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 51783,
+      "forks": 10393,
+      "starsToday": 886,
       "ai": {
-        "shortSummary": "[mock] Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing acros",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 178 stars 増。"
-      }
-    },
-    {
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 284533,
-      "forks": 23815,
-      "starsToday": 1736,
-      "ai": {
-        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1736 stars 増。"
-      }
-    },
-    {
-      "fullName": "flutter/flutter",
-      "url": "https://github.com/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 179531,
-      "forks": 33601,
-      "starsToday": 88,
-      "ai": {
-        "shortSummary": "[mock] Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 88 stars 増。"
-      }
-    },
-    {
-      "fullName": "tensorflow/tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 200729,
-      "forks": 78965,
-      "starsToday": 26,
-      "ai": {
-        "shortSummary": "[mock] An Open Source Machine Learning Framework for Everyone",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 26 stars 増。"
-      }
-    },
-    {
-      "fullName": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 59486,
-      "forks": 4688,
-      "starsToday": 461,
-      "ai": {
-        "shortSummary": "[mock] AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and table",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 461 stars 増。"
+        "shortSummary": "[mock] A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 886 stars 増。"
       }
     },
     {
@@ -145,58 +85,43 @@
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 104146,
-      "forks": 31956,
-      "starsToday": 84,
+      "stars": 104527,
+      "forks": 32137,
+      "starsToday": 315,
       "ai": {
         "shortSummary": "[mock] Tensors and Dynamic neural networks in Python with strong GPU acceleration",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 84 stars 増。"
+        "whyTrending": "[mock] 直近で 315 stars 増。"
       }
     },
     {
-      "fullName": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 167272,
-      "forks": 34797,
-      "starsToday": 96,
+      "fullName": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 36539,
+      "forks": 3820,
+      "starsToday": 548,
       "ai": {
-        "shortSummary": "[mock] 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, ",
+        "shortSummary": "[mock] AirLLM 70B inference with single 4GB GPU",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 96 stars 増。"
+        "whyTrending": "[mock] 直近で 548 stars 増。"
       }
     },
     {
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 28831,
-      "forks": 3277,
-      "starsToday": 625,
+      "fullName": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 74283,
+      "forks": 8108,
+      "starsToday": 466,
       "ai": {
-        "shortSummary": "[mock] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 625 stars 増。"
-      }
-    },
-    {
-      "fullName": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": null,
-      "languageColor": null,
-      "stars": 218298,
-      "forks": 21983,
-      "starsToday": 278,
-      "ai": {
-        "shortSummary": "[mock] A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "shortSummary": "[mock] Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 278 stars 増。"
+        "whyTrending": "[mock] 直近で 466 stars 増。"
       }
     }
   ]
