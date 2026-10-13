@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-12T02:01:31.505Z",
+  "fetchedAt": "2026-10-13T03:19:59.698Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,58 +10,13 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 107878,
-      "forks": 23875,
-      "starsToday": 25599,
+      "stars": 164844,
+      "forks": 38910,
+      "starsToday": 45327,
       "ai": {
         "shortSummary": "[mock] Reverse engineer anything with agents, from app behavior down to native binaries.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 25599 stars 増。"
-      }
-    },
-    {
-      "fullName": "boykopovar/AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 30282,
-      "forks": 2604,
-      "starsToday": 3952,
-      "ai": {
-        "shortSummary": "[mock] Tool for automatic PS5 executables porting to Linux and Windows",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 3952 stars 増。"
-      }
-    },
-    {
-      "fullName": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 18122,
-      "forks": 2963,
-      "starsToday": 2957,
-      "ai": {
-        "shortSummary": "[mock] ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 2957 stars 増。"
-      }
-    },
-    {
-      "fullName": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 50460,
-      "forks": 3205,
-      "starsToday": 1083,
-      "ai": {
-        "shortSummary": "[mock] Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1083 stars 増。"
+        "whyTrending": "[mock] 直近で 45327 stars 増。"
       }
     },
     {
@@ -70,58 +25,118 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 51783,
-      "forks": 10393,
-      "starsToday": 886,
+      "stars": 53872,
+      "forks": 10630,
+      "starsToday": 1895,
       "ai": {
         "shortSummary": "[mock] A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 886 stars 増。"
+        "whyTrending": "[mock] 直近で 1895 stars 増。"
       }
     },
     {
-      "fullName": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 27400,
+      "forks": 1952,
+      "starsToday": 246,
+      "ai": {
+        "shortSummary": "[mock] Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing acros",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 246 stars 増。"
+      }
+    },
+    {
+      "fullName": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 22475,
+      "forks": 3617,
+      "starsToday": 4095,
+      "ai": {
+        "shortSummary": "[mock] ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 4095 stars 増。"
+      }
+    },
+    {
+      "fullName": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 104527,
-      "forks": 32137,
-      "starsToday": 315,
+      "stars": 155150,
+      "forks": 22653,
+      "starsToday": 157,
       "ai": {
-        "shortSummary": "[mock] Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "shortSummary": "[mock] User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 315 stars 増。"
+        "whyTrending": "[mock] 直近で 157 stars 増。"
+      }
+    },
+    {
+      "fullName": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 52826,
+      "forks": 3341,
+      "starsToday": 2081,
+      "ai": {
+        "shortSummary": "[mock] Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 2081 stars 増。"
       }
     },
     {
       "fullName": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 36539,
-      "forks": 3820,
-      "starsToday": 548,
+      "stars": 37630,
+      "forks": 3879,
+      "starsToday": 879,
       "ai": {
-        "shortSummary": "[mock] AirLLM 70B inference with single 4GB GPU",
+        "shortSummary": "[mock] AirLLM 2.8T LLM inference with single 4GB GPU",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 548 stars 増。"
+        "whyTrending": "[mock] 直近で 879 stars 増。"
       }
     },
     {
-      "fullName": "chrislgarry/Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 74283,
-      "forks": 8108,
-      "starsToday": 466,
+      "fullName": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 40953,
+      "forks": 3815,
+      "starsToday": 97,
       "ai": {
-        "shortSummary": "[mock] Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "shortSummary": "[mock] Official inference framework for 1-bit LLMs",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 466 stars 増。"
+        "whyTrending": "[mock] 直近で 97 stars 増。"
+      }
+    },
+    {
+      "fullName": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 59284,
+      "forks": 9336,
+      "starsToday": 626,
+      "ai": {
+        "shortSummary": "[mock] Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 626 stars 増。"
       }
     }
   ]
