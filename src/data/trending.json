@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T03:19:59.698Z",
+  "fetchedAt": "2026-10-14T01:34:03.145Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,13 +10,13 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 164844,
-      "forks": 38910,
-      "starsToday": 45327,
+      "stars": 208755,
+      "forks": 51049,
+      "starsToday": 54679,
       "ai": {
         "shortSummary": "[mock] Reverse engineer anything with agents, from app behavior down to native binaries.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 45327 stars 増。"
+        "whyTrending": "[mock] 直近で 54679 stars 増。"
       }
     },
     {
@@ -25,13 +25,28 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 53872,
-      "forks": 10630,
-      "starsToday": 1895,
+      "stars": 55444,
+      "forks": 10838,
+      "starsToday": 1961,
       "ai": {
         "shortSummary": "[mock] A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 1895 stars 増。"
+        "whyTrending": "[mock] 直近で 1961 stars 増。"
+      }
+    },
+    {
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 63399,
+      "forks": 7051,
+      "starsToday": 1748,
+      "ai": {
+        "shortSummary": "[mock] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & ",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 1748 stars 増。"
       }
     },
     {
@@ -40,43 +55,13 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 27400,
-      "forks": 1952,
-      "starsToday": 246,
+      "stars": 28267,
+      "forks": 1995,
+      "starsToday": 969,
       "ai": {
         "shortSummary": "[mock] Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing acros",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 246 stars 増。"
-      }
-    },
-    {
-      "fullName": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 22475,
-      "forks": 3617,
-      "starsToday": 4095,
-      "ai": {
-        "shortSummary": "[mock] ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 4095 stars 増。"
-      }
-    },
-    {
-      "fullName": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 155150,
-      "forks": 22653,
-      "starsToday": 157,
-      "ai": {
-        "shortSummary": "[mock] User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 157 stars 増。"
+        "whyTrending": "[mock] 直近で 969 stars 増。"
       }
     },
     {
@@ -85,13 +70,28 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 52826,
-      "forks": 3341,
-      "starsToday": 2081,
+      "stars": 54179,
+      "forks": 3439,
+      "starsToday": 1815,
       "ai": {
         "shortSummary": "[mock] Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2081 stars 増。"
+        "whyTrending": "[mock] 直近で 1815 stars 増。"
+      }
+    },
+    {
+      "fullName": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 34530,
+      "forks": 2953,
+      "starsToday": 190,
+      "ai": {
+        "shortSummary": "[mock] The open agent skills tool - npx skills",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 190 stars 増。"
       }
     },
     {
@@ -100,43 +100,43 @@
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 37630,
-      "forks": 3879,
-      "starsToday": 879,
+      "stars": 38354,
+      "forks": 3922,
+      "starsToday": 1001,
       "ai": {
         "shortSummary": "[mock] AirLLM 2.8T LLM inference with single 4GB GPU",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 879 stars 増。"
+        "whyTrending": "[mock] 直近で 1001 stars 増。"
       }
     },
     {
-      "fullName": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 40953,
-      "forks": 3815,
-      "starsToday": 97,
+      "fullName": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 25754,
+      "forks": 4037,
+      "starsToday": 4081,
       "ai": {
-        "shortSummary": "[mock] Official inference framework for 1-bit LLMs",
+        "shortSummary": "[mock] ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 4081 stars 増。"
+      }
+    },
+    {
+      "fullName": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 9421,
+      "forks": 400,
+      "starsToday": 1198,
+      "ai": {
+        "shortSummary": "[mock] Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 97 stars 増。"
-      }
-    },
-    {
-      "fullName": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 59284,
-      "forks": 9336,
-      "starsToday": 626,
-      "ai": {
-        "shortSummary": "[mock] Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 626 stars 増。"
+        "whyTrending": "[mock] 直近で 1198 stars 増。"
       }
     }
   ]
