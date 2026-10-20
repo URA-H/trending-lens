@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19T00:45:02.289Z",
+  "fetchedAt": "2026-10-20T01:31:18.200Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,28 +10,13 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 53171,
-      "forks": 17376,
-      "starsToday": 2232,
+      "stars": 57367,
+      "forks": 18214,
+      "starsToday": 3856,
       "ai": {
         "shortSummary": "[mock] The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover lett",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2232 stars 増。"
-      }
-    },
-    {
-      "fullName": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 42687,
-      "forks": 4532,
-      "starsToday": 1175,
-      "ai": {
-        "shortSummary": "[mock] Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1175 stars 増。"
+        "whyTrending": "[mock] 直近で 3856 stars 増。"
       }
     },
     {
@@ -40,43 +25,13 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 216584,
-      "forks": 28997,
-      "starsToday": 1414,
+      "stars": 217846,
+      "forks": 29114,
+      "starsToday": 1311,
       "ai": {
         "shortSummary": "[mock] The open source coding agent.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1414 stars 増。"
-      }
-    },
-    {
-      "fullName": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 12742,
-      "forks": 1254,
-      "starsToday": 350,
-      "ai": {
-        "shortSummary": "[mock] Cursor plugin specification and official plugins",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 350 stars 増。"
-      }
-    },
-    {
-      "fullName": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 76517,
-      "forks": 9049,
-      "starsToday": 513,
-      "ai": {
-        "shortSummary": "[mock] 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 513 stars 増。"
+        "whyTrending": "[mock] 直近で 1311 stars 増。"
       }
     },
     {
@@ -85,103 +40,13 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10482,
-      "forks": 749,
-      "starsToday": 512,
+      "stars": 11374,
+      "forks": 810,
+      "starsToday": 666,
       "ai": {
         "shortSummary": "[mock] Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 512 stars 増。"
-      }
-    },
-    {
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 96636,
-      "forks": 6177,
-      "starsToday": 1146,
-      "ai": {
-        "shortSummary": "[mock] Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Availabl",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1146 stars 増。"
-      }
-    },
-    {
-      "fullName": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 54594,
-      "forks": 4946,
-      "starsToday": 589,
-      "ai": {
-        "shortSummary": "[mock] \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 589 stars 増。"
-      }
-    },
-    {
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 75356,
-      "forks": 8252,
-      "starsToday": 2082,
-      "ai": {
-        "shortSummary": "[mock] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & ",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2082 stars 増。"
-      }
-    },
-    {
-      "fullName": "android/skills",
-      "url": "https://github.com/android/skills",
-      "description": null,
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 8770,
-      "forks": 568,
-      "starsToday": 375,
-      "ai": {
-        "shortSummary": "[mock] android/skills (no description)",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 375 stars 増。"
-      }
-    },
-    {
-      "fullName": "mlabonne/llm-course",
-      "url": "https://github.com/mlabonne/llm-course",
-      "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-      "language": null,
-      "languageColor": null,
-      "stars": 84028,
-      "forks": 9782,
-      "starsToday": 81,
-      "ai": {
-        "shortSummary": "[mock] Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 81 stars 増。"
-      }
-    },
-    {
-      "fullName": "Kruk2/jasna",
-      "url": "https://github.com/Kruk2/jasna",
-      "description": "Video restoration tool",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2398,
-      "forks": 187,
-      "starsToday": 115,
-      "ai": {
-        "shortSummary": "[mock] Video restoration tool",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 115 stars 増。"
+        "whyTrending": "[mock] 直近で 666 stars 増。"
       }
     },
     {
@@ -190,13 +55,133 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 138613,
-      "forks": 16503,
-      "starsToday": 154,
+      "stars": 139754,
+      "forks": 16585,
+      "starsToday": 1011,
       "ai": {
         "shortSummary": "[mock] The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the w",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 154 stars 増。"
+        "whyTrending": "[mock] 直近で 1011 stars 増。"
+      }
+    },
+    {
+      "fullName": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 77210,
+      "forks": 9105,
+      "starsToday": 564,
+      "ai": {
+        "shortSummary": "[mock] 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 564 stars 増。"
+      }
+    },
+    {
+      "fullName": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 98325,
+      "forks": 6270,
+      "starsToday": 1590,
+      "ai": {
+        "shortSummary": "[mock] Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Availabl",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1590 stars 増。"
+      }
+    },
+    {
+      "fullName": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 76262,
+      "forks": 5923,
+      "starsToday": 310,
+      "ai": {
+        "shortSummary": "[mock] Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JS",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 310 stars 増。"
+      }
+    },
+    {
+      "fullName": "withmarbleapp/os-taxonomy",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": null,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 6146,
+      "forks": 1004,
+      "starsToday": 284,
+      "ai": {
+        "shortSummary": "[mock] withmarbleapp/os-taxonomy (no description)",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 284 stars 増。"
+      }
+    },
+    {
+      "fullName": "Kruk2/jasna",
+      "url": "https://github.com/Kruk2/jasna",
+      "description": "Video restoration tool",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2905,
+      "forks": 211,
+      "starsToday": 498,
+      "ai": {
+        "shortSummary": "[mock] Video restoration tool",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 498 stars 増。"
+      }
+    },
+    {
+      "fullName": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 55259,
+      "forks": 4986,
+      "starsToday": 606,
+      "ai": {
+        "shortSummary": "[mock] \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 606 stars 増。"
+      }
+    },
+    {
+      "fullName": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 152665,
+      "forks": 27143,
+      "starsToday": 167,
+      "ai": {
+        "shortSummary": "[mock] Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 167 stars 増。"
+      }
+    },
+    {
+      "fullName": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 41691,
+      "forks": 6929,
+      "starsToday": 363,
+      "ai": {
+        "shortSummary": "[mock] Kronos: A Foundation Model for the Language of Financial Markets",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 363 stars 増。"
       }
     }
   ]
