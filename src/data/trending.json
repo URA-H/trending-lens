@@ -1,67 +1,37 @@
 {
-  "fetchedAt": "2026-10-22T01:10:03.485Z",
+  "fetchedAt": "2026-10-23T01:09:54.091Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 36525,
-      "forks": 2280,
-      "starsToday": 2012,
+      "fullName": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 41164,
+      "forks": 8313,
+      "starsToday": 287,
       "ai": {
-        "shortSummary": "[mock] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 2012 stars 増。"
-      }
-    },
-    {
-      "fullName": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 94881,
-      "forks": 23743,
-      "starsToday": 441,
-      "ai": {
-        "shortSummary": "[mock] A high-throughput and memory-efficient inference and serving engine for LLMs",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 441 stars 増。"
-      }
-    },
-    {
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 101289,
-      "forks": 6406,
-      "starsToday": 1541,
-      "ai": {
-        "shortSummary": "[mock] Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Availabl",
+        "shortSummary": "[mock] The PHP Interpreter",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1541 stars 増。"
+        "whyTrending": "[mock] 直近で 287 stars 増。"
       }
     },
     {
-      "fullName": "headroomlabs-ai/headroom",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 77267,
-      "forks": 5992,
-      "starsToday": 474,
+      "stars": 31616,
+      "forks": 3532,
+      "starsToday": 303,
       "ai": {
-        "shortSummary": "[mock] Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JS",
+        "shortSummary": "[mock] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 474 stars 増。"
+        "whyTrending": "[mock] 直近で 303 stars 増。"
       }
     },
     {
@@ -70,103 +40,28 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 171664,
-      "forks": 9341,
-      "starsToday": 2079,
+      "stars": 173500,
+      "forks": 9440,
+      "starsToday": 1948,
       "ai": {
         "shortSummary": "[mock] Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 2079 stars 増。"
+        "whyTrending": "[mock] 直近で 1948 stars 増。"
       }
     },
     {
-      "fullName": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 141532,
-      "forks": 16725,
-      "starsToday": 939,
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 39597,
+      "forks": 2469,
+      "starsToday": 2979,
       "ai": {
-        "shortSummary": "[mock] The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the w",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 939 stars 増。"
-      }
-    },
-    {
-      "fullName": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 113013,
-      "forks": 16934,
-      "starsToday": 504,
-      "ai": {
-        "shortSummary": "[mock] The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 504 stars 増。"
-      }
-    },
-    {
-      "fullName": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 59175,
-      "forks": 9661,
-      "starsToday": 112,
-      "ai": {
-        "shortSummary": "[mock] The open alternative to Salesforce, designed for AI.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 112 stars 増。"
-      }
-    },
-    {
-      "fullName": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 42834,
-      "forks": 7070,
-      "starsToday": 575,
-      "ai": {
-        "shortSummary": "[mock] Kronos: A Foundation Model for the Language of Financial Markets",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 575 stars 増。"
-      }
-    },
-    {
-      "fullName": "strelov1/freehire",
-      "url": "https://github.com/strelov1/freehire",
-      "description": "freehire — the open-source search engine for job seekers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2396,
-      "forks": 244,
-      "starsToday": 360,
-      "ai": {
-        "shortSummary": "[mock] freehire — the open-source search engine for job seekers",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 360 stars 増。"
-      }
-    },
-    {
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12339,
-      "forks": 873,
-      "starsToday": 286,
-      "ai": {
-        "shortSummary": "[mock] Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 286 stars 増。"
+        "shortSummary": "[mock] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 2979 stars 増。"
       }
     },
     {
@@ -175,13 +70,73 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 131657,
-      "forks": 12639,
-      "starsToday": 1433,
+      "stars": 132968,
+      "forks": 12724,
+      "starsToday": 1408,
       "ai": {
         "shortSummary": "[mock] Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Curso",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1433 stars 増。"
+        "whyTrending": "[mock] 直近で 1408 stars 増。"
+      }
+    },
+    {
+      "fullName": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 113488,
+      "forks": 17001,
+      "starsToday": 693,
+      "ai": {
+        "shortSummary": "[mock] The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 693 stars 増。"
+      }
+    },
+    {
+      "fullName": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 103755,
+      "forks": 10088,
+      "starsToday": 101,
+      "ai": {
+        "shortSummary": "[mock] FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 101 stars 増。"
+      }
+    },
+    {
+      "fullName": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 43228,
+      "forks": 5391,
+      "starsToday": 177,
+      "ai": {
+        "shortSummary": "[mock] A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 177 stars 増。"
+      }
+    },
+    {
+      "fullName": "Meloong-Git/PCL",
+      "url": "https://github.com/Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "languageColor": "#945db7",
+      "stars": 8703,
+      "forks": 1201,
+      "starsToday": 119,
+      "ai": {
+        "shortSummary": "[mock] Minecraft 启动器 Plain Craft Launcher（PCL）。",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 119 stars 増。"
       }
     }
   ]
