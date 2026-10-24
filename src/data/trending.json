@@ -1,22 +1,37 @@
 {
-  "fetchedAt": "2026-10-23T01:09:54.091Z",
+  "fetchedAt": "2026-10-24T01:20:38.200Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
+    {
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 42173,
+      "forks": 2635,
+      "starsToday": 2716,
+      "ai": {
+        "shortSummary": "[mock] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 2716 stars 増。"
+      }
+    },
     {
       "fullName": "php/php-src",
       "url": "https://github.com/php/php-src",
       "description": "The PHP Interpreter",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41164,
-      "forks": 8313,
-      "starsToday": 287,
+      "stars": 41568,
+      "forks": 8361,
+      "starsToday": 716,
       "ai": {
         "shortSummary": "[mock] The PHP Interpreter",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 287 stars 増。"
+        "whyTrending": "[mock] 直近で 716 stars 増。"
       }
     },
     {
@@ -25,118 +40,88 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31616,
-      "forks": 3532,
-      "starsToday": 303,
+      "stars": 32232,
+      "forks": 3574,
+      "starsToday": 635,
       "ai": {
         "shortSummary": "[mock] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 303 stars 増。"
+        "whyTrending": "[mock] 直近で 635 stars 増。"
       }
     },
     {
-      "fullName": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 173500,
-      "forks": 9440,
-      "starsToday": 1948,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 18812,
+      "forks": 1886,
+      "starsToday": 1119,
       "ai": {
-        "shortSummary": "[mock] Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 1948 stars 増。"
+        "shortSummary": "[mock] OpenShell is the safe, private runtime for autonomous AI agents.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 1119 stars 増。"
       }
     },
     {
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 39597,
-      "forks": 2469,
-      "starsToday": 2979,
-      "ai": {
-        "shortSummary": "[mock] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 2979 stars 増。"
-      }
-    },
-    {
-      "fullName": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 132968,
-      "forks": 12724,
-      "starsToday": 1408,
-      "ai": {
-        "shortSummary": "[mock] Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Curso",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1408 stars 増。"
-      }
-    },
-    {
-      "fullName": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "fullName": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 113488,
-      "forks": 17001,
-      "starsToday": 693,
+      "stars": 6869,
+      "forks": 1410,
+      "starsToday": 546,
       "ai": {
-        "shortSummary": "[mock] The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "shortSummary": "[mock] 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 693 stars 増。"
+        "whyTrending": "[mock] 直近で 546 stars 増。"
       }
     },
     {
-      "fullName": "fastapi/fastapi",
-      "url": "https://github.com/fastapi/fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "fullName": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 103755,
-      "forks": 10088,
-      "starsToday": 101,
+      "stars": 8503,
+      "forks": 1103,
+      "starsToday": 226,
       "ai": {
-        "shortSummary": "[mock] FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "shortSummary": "[mock] claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 101 stars 増。"
+        "whyTrending": "[mock] 直近で 226 stars 増。"
       }
     },
     {
-      "fullName": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "fullName": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43228,
-      "forks": 5391,
-      "starsToday": 177,
+      "stars": 40269,
+      "forks": 4579,
+      "starsToday": 150,
       "ai": {
-        "shortSummary": "[mock] A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value",
+        "shortSummary": "[mock] VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 177 stars 増。"
+        "whyTrending": "[mock] 直近で 150 stars 増。"
       }
     },
     {
-      "fullName": "Meloong-Git/PCL",
-      "url": "https://github.com/Meloong-Git/PCL",
-      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "language": "Visual Basic .NET",
-      "languageColor": "#945db7",
-      "stars": 8703,
-      "forks": 1201,
-      "starsToday": 119,
+      "fullName": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 122875,
+      "forks": 39832,
+      "starsToday": 66,
       "ai": {
-        "shortSummary": "[mock] Minecraft 启动器 Plain Craft Launcher（PCL）。",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 119 stars 増。"
+        "shortSummary": "[mock] Node.js JavaScript runtime ✨🐢🚀✨",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 66 stars 増。"
       }
     }
   ]
