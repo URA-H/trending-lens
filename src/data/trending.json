@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T01:20:38.200Z",
+  "fetchedAt": "2026-10-25T00:46:22.475Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,43 +10,13 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 42173,
-      "forks": 2635,
-      "starsToday": 2716,
+      "stars": 44557,
+      "forks": 2769,
+      "starsToday": 2264,
       "ai": {
         "shortSummary": "[mock] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 2716 stars 増。"
-      }
-    },
-    {
-      "fullName": "php/php-src",
-      "url": "https://github.com/php/php-src",
-      "description": "The PHP Interpreter",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 41568,
-      "forks": 8361,
-      "starsToday": 716,
-      "ai": {
-        "shortSummary": "[mock] The PHP Interpreter",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 716 stars 増。"
-      }
-    },
-    {
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 32232,
-      "forks": 3574,
-      "starsToday": 635,
-      "ai": {
-        "shortSummary": "[mock] Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 635 stars 増。"
+        "whyTrending": "[mock] 直近で 2264 stars 増。"
       }
     },
     {
@@ -55,73 +25,133 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 18812,
-      "forks": 1886,
-      "starsToday": 1119,
+      "stars": 19477,
+      "forks": 1932,
+      "starsToday": 896,
       "ai": {
         "shortSummary": "[mock] OpenShell is the safe, private runtime for autonomous AI agents.",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 1119 stars 増。"
+        "whyTrending": "[mock] 直近で 896 stars 増。"
       }
     },
     {
-      "fullName": "Renhuai123/ziwei-doushu",
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "fullName": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3126,
+      "forks": 398,
+      "starsToday": 13,
+      "ai": {
+        "shortSummary": "[mock] Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 13 stars 増。"
+      }
+    },
+    {
+      "fullName": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": 32142,
+      "forks": 1651,
+      "starsToday": 455,
+      "ai": {
+        "shortSummary": "[mock] Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 455 stars 増。"
+      }
+    },
+    {
+      "fullName": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 44562,
+      "forks": 5493,
+      "starsToday": 392,
+      "ai": {
+        "shortSummary": "[mock] A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 392 stars 増。"
+      }
+    },
+    {
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 86410,
+      "forks": 5155,
+      "starsToday": 619,
+      "ai": {
+        "shortSummary": "[mock] The design language that makes your AI harness better at design.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 619 stars 増。"
+      }
+    },
+    {
+      "fullName": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 10993,
+      "forks": 1410,
+      "starsToday": 319,
+      "ai": {
+        "shortSummary": "[mock] A Tiny biped duck robot 🦆",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 319 stars 増。"
+      }
+    },
+    {
+      "fullName": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6869,
-      "forks": 1410,
-      "starsToday": 546,
+      "stars": 108054,
+      "forks": 14807,
+      "starsToday": 44,
       "ai": {
-        "shortSummary": "[mock] 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+        "shortSummary": "[mock] An open-source AI agent that brings the power of Gemini directly into your terminal.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 546 stars 増。"
+        "whyTrending": "[mock] 直近で 44 stars 増。"
       }
     },
     {
-      "fullName": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "fullName": "jbiaojerry/ebook-treasure-chest",
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8503,
-      "forks": 1103,
-      "starsToday": 226,
+      "stars": 22606,
+      "forks": 3191,
+      "starsToday": 227,
       "ai": {
-        "shortSummary": "[mock] claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file",
+        "shortSummary": "[mock] 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 226 stars 増。"
+        "whyTrending": "[mock] 直近で 227 stars 増。"
       }
     },
     {
-      "fullName": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 40269,
-      "forks": 4579,
-      "starsToday": 150,
+      "fullName": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 4101,
+      "forks": 587,
+      "starsToday": 477,
       "ai": {
-        "shortSummary": "[mock] VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 150 stars 増。"
-      }
-    },
-    {
-      "fullName": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 122875,
-      "forks": 39832,
-      "starsToday": 66,
-      "ai": {
-        "shortSummary": "[mock] Node.js JavaScript runtime ✨🐢🚀✨",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 66 stars 増。"
+        "shortSummary": "[mock] Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 477 stars 増。"
       }
     }
   ]
