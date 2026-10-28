@@ -1,127 +1,37 @@
 {
-  "fetchedAt": "2026-10-27T01:47:26.521Z",
+  "fetchedAt": "2026-10-28T01:59:56.131Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
+    {
+      "fullName": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": null,
+      "language": null,
+      "languageColor": null,
+      "stars": 9480,
+      "forks": 679,
+      "starsToday": 1395,
+      "ai": {
+        "shortSummary": "[mock] elayadesign/ai-design-skills (no description)",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1395 stars 増。"
+      }
+    },
     {
       "fullName": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": 36455,
-      "forks": 1900,
-      "starsToday": 2244,
+      "stars": 39096,
+      "forks": 2041,
+      "starsToday": 2830,
       "ai": {
         "shortSummary": "[mock] Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2244 stars 増。"
-      }
-    },
-    {
-      "fullName": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 116166,
-      "forks": 22288,
-      "starsToday": 1395,
-      "ai": {
-        "shortSummary": "[mock] TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1395 stars 増。"
-      }
-    },
-    {
-      "fullName": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2955,
-      "forks": 160,
-      "starsToday": 1173,
-      "ai": {
-        "shortSummary": "[mock] Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1173 stars 増。"
-      }
-    },
-    {
-      "fullName": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 6539,
-      "forks": 797,
-      "starsToday": 1296,
-      "ai": {
-        "shortSummary": "[mock] Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1296 stars 増。"
-      }
-    },
-    {
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 289885,
-      "forks": 42955,
-      "starsToday": 896,
-      "ai": {
-        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 896 stars 増。"
-      }
-    },
-    {
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 89265,
-      "forks": 5313,
-      "starsToday": 1506,
-      "ai": {
-        "shortSummary": "[mock] The design language that makes your AI harness better at design.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 1506 stars 増。"
-      }
-    },
-    {
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 22242,
-      "forks": 1939,
-      "starsToday": 214,
-      "ai": {
-        "shortSummary": "[mock] Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and s",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 214 stars 増。"
-      }
-    },
-    {
-      "fullName": "pollen-robotics/microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12444,
-      "forks": 1551,
-      "starsToday": 843,
-      "ai": {
-        "shortSummary": "[mock] A Tiny biped duck robot 🦆",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 843 stars 増。"
+        "whyTrending": "[mock] 直近で 2830 stars 増。"
       }
     },
     {
@@ -130,43 +40,58 @@
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1507,
-      "forks": 188,
-      "starsToday": 176,
+      "stars": 2497,
+      "forks": 253,
+      "starsToday": 777,
       "ai": {
         "shortSummary": "[mock] A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharin",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 176 stars 増。"
+        "whyTrending": "[mock] 直近で 777 stars 増。"
       }
     },
     {
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 103669,
-      "forks": 9191,
-      "starsToday": 746,
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 306479,
+      "forks": 27281,
+      "starsToday": 617,
       "ai": {
-        "shortSummary": "[mock] Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero AP",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 746 stars 増。"
+        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 617 stars 増。"
       }
     },
     {
-      "fullName": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 89345,
-      "forks": 9853,
-      "starsToday": 2297,
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 90629,
+      "forks": 5378,
+      "starsToday": 1449,
       "ai": {
-        "shortSummary": "[mock] VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & ",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2297 stars 増。"
+        "shortSummary": "[mock] The design language that makes your AI harness better at design.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 1449 stars 増。"
+      }
+    },
+    {
+      "fullName": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 7510,
+      "forks": 890,
+      "starsToday": 1465,
+      "ai": {
+        "shortSummary": "[mock] Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1465 stars 増。"
       }
     },
     {
@@ -175,43 +100,73 @@
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 38486,
-      "forks": 7459,
-      "starsToday": 188,
+      "stars": 39427,
+      "forks": 7521,
+      "starsToday": 951,
       "ai": {
         "shortSummary": "[mock] 📨 The ultimate agentic social media scheduling tool 🤖",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 188 stars 増。"
+        "whyTrending": "[mock] 直近で 951 stars 増。"
       }
     },
     {
-      "fullName": "alchaincyf/huashu-design",
-      "url": "https://github.com/alchaincyf/huashu-design",
-      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 26825,
-      "forks": 2968,
-      "starsToday": 251,
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 290929,
+      "forks": 43081,
+      "starsToday": 1165,
       "ai": {
-        "shortSummary": "[mock] Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native desig",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 251 stars 増。"
+        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 1165 stars 増。"
       }
     },
     {
-      "fullName": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 46021,
+      "forks": 5769,
+      "starsToday": 1598,
+      "ai": {
+        "shortSummary": "[mock] DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 1598 stars 増。"
+      }
+    },
+    {
+      "fullName": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 4065,
+      "forks": 219,
+      "starsToday": 1204,
+      "ai": {
+        "shortSummary": "[mock] Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1204 stars 増。"
+      }
+    },
+    {
+      "fullName": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
       "language": null,
       "languageColor": null,
-      "stars": 224684,
-      "forks": 22474,
-      "starsToday": 638,
+      "stars": 5626,
+      "forks": 831,
+      "starsToday": 902,
       "ai": {
-        "shortSummary": "[mock] A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "shortSummary": "[mock] LIST OF ALL MY JAILBREAKS",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 638 stars 増。"
+        "whyTrending": "[mock] 直近で 902 stars 増。"
       }
     }
   ]
