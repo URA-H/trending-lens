@@ -1,52 +1,37 @@
 {
-  "fetchedAt": "2026-10-28T01:59:56.131Z",
+  "fetchedAt": "2026-10-29T02:04:14.808Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
+    {
+      "fullName": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 5130,
+      "forks": 267,
+      "starsToday": 1068,
+      "ai": {
+        "shortSummary": "[mock] Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1068 stars 増。"
+      }
+    },
     {
       "fullName": "elayadesign/ai-design-skills",
       "url": "https://github.com/elayadesign/ai-design-skills",
       "description": null,
       "language": null,
       "languageColor": null,
-      "stars": 9480,
-      "forks": 679,
-      "starsToday": 1395,
+      "stars": 11203,
+      "forks": 805,
+      "starsToday": 2139,
       "ai": {
         "shortSummary": "[mock] elayadesign/ai-design-skills (no description)",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1395 stars 増。"
-      }
-    },
-    {
-      "fullName": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "languageColor": "#663399",
-      "stars": 39096,
-      "forks": 2041,
-      "starsToday": 2830,
-      "ai": {
-        "shortSummary": "[mock] Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2830 stars 増。"
-      }
-    },
-    {
-      "fullName": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2497,
-      "forks": 253,
-      "starsToday": 777,
-      "ai": {
-        "shortSummary": "[mock] A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharin",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 777 stars 増。"
+        "whyTrending": "[mock] 直近で 2139 stars 増。"
       }
     },
     {
@@ -55,73 +40,13 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 306479,
-      "forks": 27281,
-      "starsToday": 617,
+      "stars": 307498,
+      "forks": 27350,
+      "starsToday": 1095,
       "ai": {
         "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 617 stars 増。"
-      }
-    },
-    {
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 90629,
-      "forks": 5378,
-      "starsToday": 1449,
-      "ai": {
-        "shortSummary": "[mock] The design language that makes your AI harness better at design.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 1449 stars 増。"
-      }
-    },
-    {
-      "fullName": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7510,
-      "forks": 890,
-      "starsToday": 1465,
-      "ai": {
-        "shortSummary": "[mock] Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1465 stars 増。"
-      }
-    },
-    {
-      "fullName": "gitroomhq/postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 39427,
-      "forks": 7521,
-      "starsToday": 951,
-      "ai": {
-        "shortSummary": "[mock] 📨 The ultimate agentic social media scheduling tool 🤖",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 951 stars 増。"
-      }
-    },
-    {
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 290929,
-      "forks": 43081,
-      "starsToday": 1165,
-      "ai": {
-        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 1165 stars 増。"
+        "whyTrending": "[mock] 直近で 1095 stars 増。"
       }
     },
     {
@@ -130,28 +55,88 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 46021,
-      "forks": 5769,
-      "starsToday": 1598,
+      "stars": 48110,
+      "forks": 5965,
+      "starsToday": 2371,
       "ai": {
         "shortSummary": "[mock] DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1598 stars 増。"
+        "whyTrending": "[mock] 直近で 2371 stars 増。"
       }
     },
     {
-      "fullName": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "fullName": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5452,
+      "forks": 520,
+      "starsToday": 117,
+      "ai": {
+        "shortSummary": "[mock] Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 117 stars 増。"
+      }
+    },
+    {
+      "fullName": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": 40799,
+      "forks": 2114,
+      "starsToday": 2110,
+      "ai": {
+        "shortSummary": "[mock] Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 2110 stars 増。"
+      }
+    },
+    {
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 92822,
+      "forks": 5484,
+      "starsToday": 1472,
+      "ai": {
+        "shortSummary": "[mock] The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 1472 stars 増。"
+      }
+    },
+    {
+      "fullName": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4065,
-      "forks": 219,
-      "starsToday": 1204,
+      "stars": 8141,
+      "forks": 953,
+      "starsToday": 728,
       "ai": {
-        "shortSummary": "[mock] Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "shortSummary": "[mock] Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1204 stars 増。"
+        "whyTrending": "[mock] 直近で 728 stars 増。"
+      }
+    },
+    {
+      "fullName": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3297,
+      "forks": 316,
+      "starsToday": 1054,
+      "ai": {
+        "shortSummary": "[mock] A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharin",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1054 stars 増。"
       }
     },
     {
@@ -160,13 +145,73 @@
       "description": "LIST OF ALL MY JAILBREAKS",
       "language": null,
       "languageColor": null,
-      "stars": 5626,
-      "forks": 831,
-      "starsToday": 902,
+      "stars": 7199,
+      "forks": 1035,
+      "starsToday": 1477,
       "ai": {
         "shortSummary": "[mock] LIST OF ALL MY JAILBREAKS",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 902 stars 増。"
+        "whyTrending": "[mock] 直近で 1477 stars 増。"
+      }
+    },
+    {
+      "fullName": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 34897,
+      "forks": 2475,
+      "starsToday": 1616,
+      "ai": {
+        "shortSummary": "[mock] 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 1616 stars 増。"
+      }
+    },
+    {
+      "fullName": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 3610,
+      "forks": 229,
+      "starsToday": 90,
+      "ai": {
+        "shortSummary": "[mock] A collection of AI agent skills for working with Expo projects and Expo Application Services",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 90 stars 増。"
+      }
+    },
+    {
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 101092,
+      "forks": 13164,
+      "starsToday": 557,
+      "ai": {
+        "shortSummary": "[mock] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a sin",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 557 stars 増。"
+      }
+    },
+    {
+      "fullName": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "description": "One has no future if one couldn't teach themself.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 18545,
+      "forks": 17890,
+      "starsToday": 148,
+      "ai": {
+        "shortSummary": "[mock] One has no future if one couldn't teach themself.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 148 stars 増。"
       }
     }
   ]
