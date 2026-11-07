@@ -1,127 +1,142 @@
 {
-  "fetchedAt": "2026-11-06T03:05:02.538Z",
+  "fetchedAt": "2026-11-07T02:30:55.555Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
+    {
+      "fullName": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 93682,
+      "forks": 11504,
+      "starsToday": 306,
+      "ai": {
+        "shortSummary": "[mock] Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 306 stars 増。"
+      }
+    },
     {
       "fullName": "NVIDIA/auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7546,
-      "forks": 599,
-      "starsToday": 2679,
+      "stars": 9126,
+      "forks": 729,
+      "starsToday": 2015,
       "ai": {
         "shortSummary": "[mock] Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2679 stars 増。"
+        "whyTrending": "[mock] 直近で 2015 stars 増。"
       }
     },
     {
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 315417,
-      "forks": 26408,
-      "starsToday": 2071,
+      "fullName": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 59036,
+      "forks": 23832,
+      "starsToday": 142,
       "ai": {
-        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
+        "shortSummary": "[mock] Ruby on Rails",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2071 stars 増。"
+        "whyTrending": "[mock] 直近で 142 stars 増。"
       }
     },
     {
-      "fullName": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 140016,
-      "forks": 20699,
-      "starsToday": 612,
-      "ai": {
-        "shortSummary": "[mock] Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and Q",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 612 stars 増。"
-      }
-    },
-    {
-      "fullName": "Usagi-org/ai-goofish-monitor",
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 17707,
-      "forks": 2964,
-      "starsToday": 240,
-      "ai": {
-        "shortSummary": "[mock] 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 240 stars 増。"
-      }
-    },
-    {
-      "fullName": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 98113,
-      "forks": 10278,
-      "starsToday": 1655,
-      "ai": {
-        "shortSummary": "[mock] 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://di",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1655 stars 増。"
-      }
-    },
-    {
-      "fullName": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 17029,
-      "forks": 1202,
-      "starsToday": 2173,
-      "ai": {
-        "shortSummary": "[mock] Computer use CLI for AI agents",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 2173 stars 増。"
-      }
-    },
-    {
-      "fullName": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 11561,
-      "forks": 439,
-      "starsToday": 546,
-      "ai": {
-        "shortSummary": "[mock] Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 546 stars 増。"
-      }
-    },
-    {
-      "fullName": "lz4/lz4",
-      "url": "https://github.com/lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
+      "fullName": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12400,
-      "forks": 1636,
-      "starsToday": 23,
+      "stars": 37889,
+      "forks": 3633,
+      "starsToday": 37,
       "ai": {
-        "shortSummary": "[mock] Extremely Fast Compression algorithm",
+        "shortSummary": "[mock] 🎥 Command line media player",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 23 stars 増。"
+        "whyTrending": "[mock] 直近で 37 stars 増。"
+      }
+    },
+    {
+      "fullName": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 121471,
+      "forks": 17367,
+      "starsToday": 192,
+      "ai": {
+        "shortSummary": "[mock] Empowering everyone to build reliable and efficient software.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 192 stars 増。"
+      }
+    },
+    {
+      "fullName": "react/react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 252271,
+      "forks": 51812,
+      "starsToday": 248,
+      "ai": {
+        "shortSummary": "[mock] The library for web and native user interfaces.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 248 stars 増。"
+      }
+    },
+    {
+      "fullName": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 101379,
+      "forks": 28912,
+      "starsToday": 135,
+      "ai": {
+        "shortSummary": "[mock] Deliver web apps with confidence 🚀",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 135 stars 増。"
+      }
+    },
+    {
+      "fullName": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 31443,
+      "forks": 9948,
+      "starsToday": 128,
+      "ai": {
+        "shortSummary": "[mock] The Symfony PHP framework",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 128 stars 増。"
+      }
+    },
+    {
+      "fullName": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 67202,
+      "forks": 10989,
+      "starsToday": 148,
+      "ai": {
+        "shortSummary": "[mock] The Prometheus monitoring system and time series database.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 148 stars 増。"
       }
     },
     {
@@ -130,103 +145,118 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 22426,
-      "forks": 1895,
-      "starsToday": 211,
+      "stars": 22863,
+      "forks": 1922,
+      "starsToday": 534,
       "ai": {
         "shortSummary": "[mock] Agent Skills for Google products and technologies",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 211 stars 増。"
+        "whyTrending": "[mock] 直近で 534 stars 増。"
       }
     },
     {
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
+      "fullName": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 195036,
+      "forks": 44426,
+      "starsToday": 301,
+      "ai": {
+        "shortSummary": "[mock] Visual Studio Code",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 301 stars 増。"
+      }
+    },
+    {
+      "fullName": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 45970,
-      "forks": 3151,
-      "starsToday": 150,
+      "stars": 40995,
+      "forks": 2343,
+      "starsToday": 131,
       "ai": {
-        "shortSummary": "[mock] Browser automation CLI for AI agents",
+        "shortSummary": "[mock] A new type of shell",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 150 stars 増。"
+        "whyTrending": "[mock] 直近で 131 stars 増。"
       }
     },
     {
-      "fullName": "scenario-labs/skills",
-      "url": "https://github.com/scenario-labs/skills",
-      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3124,
-      "forks": 274,
-      "starsToday": 667,
+      "fullName": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 52620,
+      "forks": 10590,
+      "starsToday": 128,
       "ai": {
-        "shortSummary": "[mock] Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep chara",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 667 stars 増。"
+        "shortSummary": "[mock] Distributed reliable key-value store for the most critical data of a distributed system",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 128 stars 増。"
       }
     },
     {
-      "fullName": "ConardLi/garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "fullName": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 31301,
+      "forks": 11580,
+      "starsToday": 26,
+      "ai": {
+        "shortSummary": "[mock] General purpose TLS and crypto library",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 26 stars 増。"
+      }
+    },
+    {
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 316786,
+      "forks": 26502,
+      "starsToday": 2070,
+      "ai": {
+        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 2070 stars 増。"
+      }
+    },
+    {
+      "fullName": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 14195,
-      "forks": 1652,
-      "starsToday": 175,
+      "stars": 64149,
+      "forks": 4159,
+      "starsToday": 2548,
       "ai": {
-        "shortSummary": "[mock] ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+        "shortSummary": "[mock] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 175 stars 増。"
+        "whyTrending": "[mock] 直近で 2548 stars 増。"
       }
     },
     {
-      "fullName": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 56045,
-      "forks": 6305,
-      "starsToday": 223,
+      "fullName": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 50712,
+      "forks": 2613,
+      "starsToday": 169,
       "ai": {
-        "shortSummary": "[mock] Open-Source Frontier Voice AI",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 223 stars 増。"
-      }
-    },
-    {
-      "fullName": "floci-io/floci",
-      "url": "https://github.com/floci-io/floci",
-      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 30479,
-      "forks": 3333,
-      "starsToday": 779,
-      "ai": {
-        "shortSummary": "[mock] Light, fluffy, and always free - The AWS Local Emulator alternative",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 779 stars 増。"
-      }
-    },
-    {
-      "fullName": "JiaFeiMiao-K-Cat/DiscImageStudio",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "description": null,
-      "language": "C#",
-      "languageColor": "#7355dd",
-      "stars": 7350,
-      "forks": 263,
-      "starsToday": 984,
-      "ai": {
-        "shortSummary": "[mock] JiaFeiMiao-K-Cat/DiscImageStudio (no description)",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 984 stars 増。"
+        "shortSummary": "[mock] An extremely fast Python linter and code formatter, written in Rust.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 169 stars 増。"
       }
     }
   ]
