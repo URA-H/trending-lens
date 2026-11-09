@@ -1,217 +1,22 @@
 {
-  "fetchedAt": "2026-11-08T02:01:00.797Z",
+  "fetchedAt": "2026-11-09T02:19:47.925Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
-    {
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 46865,
-      "forks": 3211,
-      "starsToday": 190,
-      "ai": {
-        "shortSummary": "[mock] Browser automation CLI for AI agents",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 190 stars 増。"
-      }
-    },
-    {
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 65793,
-      "forks": 4273,
-      "starsToday": 2085,
-      "ai": {
-        "shortSummary": "[mock] A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 2085 stars 増。"
-      }
-    },
-    {
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 23433,
-      "forks": 1957,
-      "starsToday": 443,
-      "ai": {
-        "shortSummary": "[mock] Agent Skills for Google products and technologies",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 443 stars 増。"
-      }
-    },
-    {
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 317758,
-      "forks": 26583,
-      "starsToday": 1100,
-      "ai": {
-        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1100 stars 増。"
-      }
-    },
-    {
-      "fullName": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 188826,
-      "forks": 22257,
-      "starsToday": 390,
-      "ai": {
-        "shortSummary": "[mock] Public repository for Agent Skills",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 390 stars 増。"
-      }
-    },
-    {
-      "fullName": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 14577,
-      "forks": 1192,
-      "starsToday": 96,
-      "ai": {
-        "shortSummary": "[mock] An open source design system that's fully customizable and agent ready",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 96 stars 増。"
-      }
-    },
-    {
-      "fullName": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 67452,
-      "forks": 11004,
-      "starsToday": 322,
-      "ai": {
-        "shortSummary": "[mock] The Prometheus monitoring system and time series database.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 322 stars 増。"
-      }
-    },
     {
       "fullName": "sherlock-project/sherlock",
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 100577,
-      "forks": 11878,
-      "starsToday": 1766,
+      "stars": 103852,
+      "forks": 12149,
+      "starsToday": 2373,
       "ai": {
         "shortSummary": "[mock] Hunt down social media accounts by username across social networks",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1766 stars 増。"
-      }
-    },
-    {
-      "fullName": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 17045,
-      "forks": 2412,
-      "starsToday": 1955,
-      "ai": {
-        "shortSummary": "[mock] Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1955 stars 増。"
-      }
-    },
-    {
-      "fullName": "astral-sh/ruff",
-      "url": "https://github.com/astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 50985,
-      "forks": 2632,
-      "starsToday": 350,
-      "ai": {
-        "shortSummary": "[mock] An extremely fast Python linter and code formatter, written in Rust.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 350 stars 増。"
-      }
-    },
-    {
-      "fullName": "tailwindlabs/tailwindcss",
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 98491,
-      "forks": 7109,
-      "starsToday": 122,
-      "ai": {
-        "shortSummary": "[mock] A utility-first CSS framework for rapid UI development.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 122 stars 増。"
-      }
-    },
-    {
-      "fullName": "mbillow/localthings",
-      "url": "https://github.com/mbillow/localthings",
-      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1070,
-      "forks": 112,
-      "starsToday": 186,
-      "ai": {
-        "shortSummary": "[mock] Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 186 stars 増。"
-      }
-    },
-    {
-      "fullName": "zed-industries/zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 94297,
-      "forks": 11555,
-      "starsToday": 1114,
-      "ai": {
-        "shortSummary": "[mock] Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 1114 stars 増。"
-      }
-    },
-    {
-      "fullName": "ranxianglei/billion-context",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4634,
-      "forks": 370,
-      "starsToday": 191,
-      "ai": {
-        "shortSummary": "[mock] A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 191 stars 増。"
+        "whyTrending": "[mock] 直近で 2373 stars 増。"
       }
     },
     {
@@ -220,13 +25,118 @@
       "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 567,
-      "forks": 90,
-      "starsToday": 123,
+      "stars": 878,
+      "forks": 111,
+      "starsToday": 345,
       "ai": {
         "shortSummary": "[mock] NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 123 stars 増。"
+        "whyTrending": "[mock] 直近で 345 stars 増。"
+      }
+    },
+    {
+      "fullName": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 18376,
+      "forks": 2545,
+      "starsToday": 1439,
+      "ai": {
+        "shortSummary": "[mock] Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1439 stars 増。"
+      }
+    },
+    {
+      "fullName": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 19471,
+      "forks": 3281,
+      "starsToday": 32,
+      "ai": {
+        "shortSummary": "[mock] A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 32 stars 増。"
+      }
+    },
+    {
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 47688,
+      "forks": 3260,
+      "starsToday": 815,
+      "ai": {
+        "shortSummary": "[mock] Browser automation CLI for AI agents",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 815 stars 増。"
+      }
+    },
+    {
+      "fullName": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 17019,
+      "forks": 1340,
+      "starsToday": 875,
+      "ai": {
+        "shortSummary": "[mock] An open source design system that's fully customizable and agent ready",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 875 stars 増。"
+      }
+    },
+    {
+      "fullName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 189722,
+      "forks": 22353,
+      "starsToday": 792,
+      "ai": {
+        "shortSummary": "[mock] Public repository for Agent Skills",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 792 stars 増。"
+      }
+    },
+    {
+      "fullName": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 16454,
+      "forks": 1954,
+      "starsToday": 41,
+      "ai": {
+        "shortSummary": "[mock] Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 41 stars 増。"
+      }
+    },
+    {
+      "fullName": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 5216,
+      "forks": 407,
+      "starsToday": 460,
+      "ai": {
+        "shortSummary": "[mock] A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 460 stars 増。"
       }
     }
   ]
