@@ -1,82 +1,22 @@
 {
-  "fetchedAt": "2026-11-09T02:19:47.925Z",
+  "fetchedAt": "2026-11-10T04:28:24.561Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
+      "fullName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 103852,
-      "forks": 12149,
-      "starsToday": 2373,
+      "stars": 191253,
+      "forks": 22463,
+      "starsToday": 1038,
       "ai": {
-        "shortSummary": "[mock] Hunt down social media accounts by username across social networks",
+        "shortSummary": "[mock] Public repository for Agent Skills",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2373 stars 増。"
-      }
-    },
-    {
-      "fullName": "dsx-ai-factory/nvke",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 878,
-      "forks": 111,
-      "starsToday": 345,
-      "ai": {
-        "shortSummary": "[mock] NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 345 stars 増。"
-      }
-    },
-    {
-      "fullName": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 18376,
-      "forks": 2545,
-      "starsToday": 1439,
-      "ai": {
-        "shortSummary": "[mock] Open-source Grok Bot alternative with a virtual machine that bots can use",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1439 stars 増。"
-      }
-    },
-    {
-      "fullName": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 19471,
-      "forks": 3281,
-      "starsToday": 32,
-      "ai": {
-        "shortSummary": "[mock] A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 32 stars 増。"
-      }
-    },
-    {
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 47688,
-      "forks": 3260,
-      "starsToday": 815,
-      "ai": {
-        "shortSummary": "[mock] Browser automation CLI for AI agents",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 815 stars 増。"
+        "whyTrending": "[mock] 直近で 1038 stars 増。"
       }
     },
     {
@@ -85,28 +25,28 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 17019,
-      "forks": 1340,
-      "starsToday": 875,
+      "stars": 20574,
+      "forks": 1560,
+      "starsToday": 3278,
       "ai": {
         "shortSummary": "[mock] An open source design system that's fully customizable and agent ready",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 875 stars 増。"
+        "whyTrending": "[mock] 直近で 3278 stars 増。"
       }
     },
     {
-      "fullName": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
+      "fullName": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 189722,
-      "forks": 22353,
-      "starsToday": 792,
+      "stars": 107481,
+      "forks": 12435,
+      "starsToday": 4267,
       "ai": {
-        "shortSummary": "[mock] Public repository for Agent Skills",
+        "shortSummary": "[mock] Hunt down social media accounts by username across social networks",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 792 stars 増。"
+        "whyTrending": "[mock] 直近で 4267 stars 増。"
       }
     },
     {
@@ -115,28 +55,118 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16454,
-      "forks": 1954,
-      "starsToday": 41,
+      "stars": 17007,
+      "forks": 2001,
+      "starsToday": 574,
       "ai": {
         "shortSummary": "[mock] Multi-Joint dynamics with Contact. A general purpose physics simulator.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 41 stars 増。"
+        "whyTrending": "[mock] 直近で 574 stars 増。"
       }
     },
     {
-      "fullName": "ranxianglei/billion-context",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "fullName": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 20113,
+      "forks": 3321,
+      "starsToday": 551,
+      "ai": {
+        "shortSummary": "[mock] A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 551 stars 増。"
+      }
+    },
+    {
+      "fullName": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5216,
-      "forks": 407,
-      "starsToday": 460,
+      "stars": 32257,
+      "forks": 4775,
+      "starsToday": 216,
       "ai": {
-        "shortSummary": "[mock] A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token",
+        "shortSummary": "[mock] Garry's Opinionated OpenClaw/Hermes Agent Brain",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 460 stars 増。"
+        "whyTrending": "[mock] 直近で 216 stars 増。"
+      }
+    },
+    {
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 48625,
+      "forks": 3310,
+      "starsToday": 916,
+      "ai": {
+        "shortSummary": "[mock] Browser automation CLI for AI agents",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 916 stars 増。"
+      }
+    },
+    {
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 103582,
+      "forks": 13419,
+      "starsToday": 172,
+      "ai": {
+        "shortSummary": "[mock] π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a sin",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 172 stars 増。"
+      }
+    },
+    {
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 69101,
+      "forks": 56443,
+      "starsToday": 506,
+      "ai": {
+        "shortSummary": "[mock] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 506 stars 増。"
+      }
+    },
+    {
+      "fullName": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 6096,
+      "forks": 297,
+      "starsToday": 31,
+      "ai": {
+        "shortSummary": "[mock] Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 31 stars 増。"
+      }
+    },
+    {
+      "fullName": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 19932,
+      "forks": 2720,
+      "starsToday": 1587,
+      "ai": {
+        "shortSummary": "[mock] Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1587 stars 増。"
       }
     }
   ]
