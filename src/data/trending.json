@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-11T02:29:30.017Z",
+  "fetchedAt": "2026-11-12T03:33:41.787Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,28 +10,58 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 23066,
-      "forks": 1831,
-      "starsToday": 3108,
+      "stars": 25238,
+      "forks": 1967,
+      "starsToday": 2776,
       "ai": {
         "shortSummary": "[mock] An open source design system that's fully customizable and agent ready",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 3108 stars 増。"
+        "whyTrending": "[mock] 直近で 2776 stars 増。"
       }
     },
     {
-      "fullName": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 192401,
-      "forks": 22651,
-      "starsToday": 1679,
+      "stars": 70448,
+      "forks": 56913,
+      "starsToday": 278,
       "ai": {
-        "shortSummary": "[mock] Public repository for Agent Skills",
+        "shortSummary": "[mock] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1679 stars 増。"
+        "whyTrending": "[mock] 直近で 278 stars 増。"
+      }
+    },
+    {
+      "fullName": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": null,
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 1883,
+      "forks": 147,
+      "starsToday": 159,
+      "ai": {
+        "shortSummary": "[mock] GoogleChrome/modern-web-guidance-src (no description)",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 159 stars 増。"
+      }
+    },
+    {
+      "fullName": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": null,
+      "languageColor": null,
+      "stars": 11022,
+      "forks": 448,
+      "starsToday": 361,
+      "ai": {
+        "shortSummary": "[mock] Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 361 stars 増。"
       }
     },
     {
@@ -40,73 +70,13 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 115230,
-      "forks": 12098,
-      "starsToday": 465,
+      "stars": 116048,
+      "forks": 12170,
+      "starsToday": 787,
       "ai": {
         "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
         "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 465 stars 増。"
-      }
-    },
-    {
-      "fullName": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 20534,
-      "forks": 3471,
-      "starsToday": 531,
-      "ai": {
-        "shortSummary": "[mock] A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 531 stars 増。"
-      }
-    },
-    {
-      "fullName": "google-deepmind/mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 17405,
-      "forks": 2148,
-      "starsToday": 456,
-      "ai": {
-        "shortSummary": "[mock] Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 456 stars 増。"
-      }
-    },
-    {
-      "fullName": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 12045,
-      "forks": 895,
-      "starsToday": 159,
-      "ai": {
-        "shortSummary": "[mock] The personal finance app for everyone (by everyone)",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 159 stars 増。"
-      }
-    },
-    {
-      "fullName": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 6710,
-      "forks": 432,
-      "starsToday": 790,
-      "ai": {
-        "shortSummary": "[mock] Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 790 stars 増。"
+        "whyTrending": "[mock] 直近で 787 stars 増。"
       }
     },
     {
@@ -115,73 +85,73 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 49277,
-      "forks": 3452,
-      "starsToday": 780,
+      "stars": 49961,
+      "forks": 3492,
+      "starsToday": 708,
       "ai": {
         "shortSummary": "[mock] Browser automation CLI for AI agents",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 780 stars 増。"
+        "whyTrending": "[mock] 直近で 708 stars 増。"
       }
     },
     {
-      "fullName": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
+      "fullName": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 13069,
+      "forks": 962,
+      "starsToday": 1078,
+      "ai": {
+        "shortSummary": "[mock] The personal finance app for everyone (by everyone)",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1078 stars 増。"
+      }
+    },
+    {
+      "fullName": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 109092,
-      "forks": 12670,
-      "starsToday": 2393,
+      "stars": 7447,
+      "forks": 454,
+      "starsToday": 645,
       "ai": {
-        "shortSummary": "[mock] Hunt down social media accounts by username across social networks",
+        "shortSummary": "[mock] Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 2393 stars 増。"
+        "whyTrending": "[mock] 直近で 645 stars 増。"
       }
     },
     {
-      "fullName": "tokio-rs/topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6870,
-      "forks": 303,
-      "starsToday": 192,
-      "ai": {
-        "shortSummary": "[mock] A batteries-included framework for building web apps",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 192 stars 増。"
-      }
-    },
-    {
-      "fullName": "ranxianglei/billion-context",
-      "url": "https://github.com/ranxianglei/billion-context",
-      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "fullName": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6365,
-      "forks": 533,
-      "starsToday": 375,
+      "stars": 11836,
+      "forks": 945,
+      "starsToday": 52,
       "ai": {
-        "shortSummary": "[mock] A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token",
+        "shortSummary": "[mock] OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/pack",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 375 stars 増。"
+        "whyTrending": "[mock] 直近で 52 stars 増。"
       }
     },
     {
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 321002,
-      "forks": 26912,
-      "starsToday": 1225,
+      "fullName": "TheAlgorithms/Java",
+      "url": "https://github.com/TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 67085,
+      "forks": 21513,
+      "starsToday": 51,
       "ai": {
-        "shortSummary": "[mock] Skills for Real Engineers. Straight from my .agents directory.",
+        "shortSummary": "[mock] All Algorithms implemented in Java",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1225 stars 増。"
+        "whyTrending": "[mock] 直近で 51 stars 増。"
       }
     }
   ]
