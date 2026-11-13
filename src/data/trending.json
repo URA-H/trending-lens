@@ -1,127 +1,22 @@
 {
-  "fetchedAt": "2026-11-12T03:33:41.787Z",
+  "fetchedAt": "2026-11-13T03:06:20.936Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 25238,
-      "forks": 1967,
-      "starsToday": 2776,
-      "ai": {
-        "shortSummary": "[mock] An open source design system that's fully customizable and agent ready",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2776 stars 増。"
-      }
-    },
-    {
-      "fullName": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 70448,
-      "forks": 56913,
-      "starsToday": 278,
-      "ai": {
-        "shortSummary": "[mock] LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time ne",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 278 stars 増。"
-      }
-    },
-    {
       "fullName": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": null,
+      "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1883,
-      "forks": 147,
-      "starsToday": 159,
+      "stars": 3245,
+      "forks": 208,
+      "starsToday": 739,
       "ai": {
-        "shortSummary": "[mock] GoogleChrome/modern-web-guidance-src (no description)",
+        "shortSummary": "[mock] Keep your coding agent up to date with the latest web best practices",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 159 stars 増。"
-      }
-    },
-    {
-      "fullName": "shadcn/improve",
-      "url": "https://github.com/shadcn/improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "language": null,
-      "languageColor": null,
-      "stars": 11022,
-      "forks": 448,
-      "starsToday": 361,
-      "ai": {
-        "shortSummary": "[mock] Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 361 stars 増。"
-      }
-    },
-    {
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 116048,
-      "forks": 12170,
-      "starsToday": 787,
-      "ai": {
-        "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 787 stars 増。"
-      }
-    },
-    {
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 49961,
-      "forks": 3492,
-      "starsToday": 708,
-      "ai": {
-        "shortSummary": "[mock] Browser automation CLI for AI agents",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 708 stars 増。"
-      }
-    },
-    {
-      "fullName": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 13069,
-      "forks": 962,
-      "starsToday": 1078,
-      "ai": {
-        "shortSummary": "[mock] The personal finance app for everyone (by everyone)",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1078 stars 増。"
-      }
-    },
-    {
-      "fullName": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 7447,
-      "forks": 454,
-      "starsToday": 645,
-      "ai": {
-        "shortSummary": "[mock] Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-        "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 645 stars 増。"
+        "whyTrending": "[mock] 直近で 739 stars 増。"
       }
     },
     {
@@ -130,28 +25,178 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11836,
-      "forks": 945,
-      "starsToday": 52,
+      "stars": 12523,
+      "forks": 979,
+      "starsToday": 643,
       "ai": {
         "shortSummary": "[mock] OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/pack",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 52 stars 増。"
+        "whyTrending": "[mock] 直近で 643 stars 増。"
       }
     },
     {
-      "fullName": "TheAlgorithms/Java",
-      "url": "https://github.com/TheAlgorithms/Java",
-      "description": "All Algorithms implemented in Java",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 67085,
-      "forks": 21513,
-      "starsToday": 51,
+      "fullName": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 96029,
+      "forks": 10760,
+      "starsToday": 63,
       "ai": {
-        "shortSummary": "[mock] All Algorithms implemented in Java",
+        "shortSummary": "[mock] Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 51 stars 増。"
+        "whyTrending": "[mock] 直近で 63 stars 増。"
+      }
+    },
+    {
+      "fullName": "pookjw/HermesEnabler",
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 1581,
+      "forks": 142,
+      "starsToday": 218,
+      "ai": {
+        "shortSummary": "[mock] Enable Hermès Watch Faces on any Apple Watch devices",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 218 stars 増。"
+      }
+    },
+    {
+      "fullName": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 14009,
+      "forks": 1051,
+      "starsToday": 967,
+      "ai": {
+        "shortSummary": "[mock] The personal finance app for everyone (by everyone)",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 967 stars 増。"
+      }
+    },
+    {
+      "fullName": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 29875,
+      "forks": 3401,
+      "starsToday": 151,
+      "ai": {
+        "shortSummary": "[mock] An open-source AI coding agent that lives in your terminal.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 151 stars 増。"
+      }
+    },
+    {
+      "fullName": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 1970,
+      "forks": 394,
+      "starsToday": 54,
+      "ai": {
+        "shortSummary": "[mock] LLM Inference Engine for Metal, CUDA and Vulkan.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 54 stars 増。"
+      }
+    },
+    {
+      "fullName": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 123615,
+      "forks": 38057,
+      "starsToday": 62,
+      "ai": {
+        "shortSummary": "[mock] Node.js JavaScript runtime ✨🐢🚀✨",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 62 stars 増。"
+      }
+    },
+    {
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 116745,
+      "forks": 12212,
+      "starsToday": 816,
+      "ai": {
+        "shortSummary": "[mock] Production-grade engineering skills for AI coding agents.",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 816 stars 増。"
+      }
+    },
+    {
+      "fullName": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 26687,
+      "forks": 2069,
+      "starsToday": 1830,
+      "ai": {
+        "shortSummary": "[mock] An open source design system that's fully customizable and agent ready",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 1830 stars 増。"
+      }
+    },
+    {
+      "fullName": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 11683,
+      "forks": 1443,
+      "starsToday": 298,
+      "ai": {
+        "shortSummary": "[mock] Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and ",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 298 stars 増。"
+      }
+    },
+    {
+      "fullName": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 69400,
+      "forks": 10770,
+      "starsToday": 415,
+      "ai": {
+        "shortSummary": "[mock] Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, ",
+        "category": "[mock] AI / Data",
+        "whyTrending": "[mock] 直近で 415 stars 増。"
+      }
+    },
+    {
+      "fullName": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 134617,
+      "forks": 25510,
+      "starsToday": 176,
+      "ai": {
+        "shortSummary": "[mock] LLM inference in C/C++",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 176 stars 増。"
       }
     }
   ]
