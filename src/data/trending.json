@@ -1,22 +1,37 @@
 {
-  "fetchedAt": "2026-11-18T04:00:03.287Z",
+  "fetchedAt": "2026-11-19T03:57:17.867Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
   "repos": [
     {
-      "fullName": "elementalsouls/Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "fullName": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 17281,
+      "forks": 1907,
+      "starsToday": 314,
+      "ai": {
+        "shortSummary": "[mock] Cursor plugin specification and official plugins",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 314 stars 増。"
+      }
+    },
+    {
+      "fullName": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9593,
-      "forks": 1381,
-      "starsToday": 1005,
+      "stars": 59893,
+      "forks": 5437,
+      "starsToday": 389,
       "ai": {
-        "shortSummary": "[mock] A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated ",
+        "shortSummary": "[mock] \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1005 stars 増。"
+        "whyTrending": "[mock] 直近で 389 stars 増。"
       }
     },
     {
@@ -25,58 +40,13 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 69230,
-      "forks": 6158,
-      "starsToday": 696,
+      "stars": 70154,
+      "forks": 6251,
+      "starsToday": 1059,
       "ai": {
         "shortSummary": "[mock] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 696 stars 増。"
-      }
-    },
-    {
-      "fullName": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 53853,
-      "forks": 4436,
-      "starsToday": 763,
-      "ai": {
-        "shortSummary": "[mock] Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precis",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 763 stars 増。"
-      }
-    },
-    {
-      "fullName": "Tencent/LoopForge",
-      "url": "https://github.com/Tencent/LoopForge",
-      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 3388,
-      "forks": 458,
-      "starsToday": 591,
-      "ai": {
-        "shortSummary": "[mock] Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Include",
-        "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 591 stars 増。"
-      }
-    },
-    {
-      "fullName": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 28986,
-      "forks": 2622,
-      "starsToday": 1774,
-      "ai": {
-        "shortSummary": "[mock] Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1774 stars 増。"
+        "whyTrending": "[mock] 直近で 1059 stars 増。"
       }
     },
     {
@@ -85,133 +55,58 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9403,
-      "forks": 516,
-      "starsToday": 618,
+      "stars": 9878,
+      "forks": 568,
+      "starsToday": 547,
       "ai": {
         "shortSummary": "[mock] Modern Docker Management, Designed for Everyone",
         "category": "[mock] Infra / Tooling",
-        "whyTrending": "[mock] 直近で 618 stars 増。"
+        "whyTrending": "[mock] 直近で 547 stars 増。"
       }
     },
     {
-      "fullName": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 10159,
-      "forks": 1335,
-      "starsToday": 350,
-      "ai": {
-        "shortSummary": "[mock] A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility ",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 350 stars 増。"
-      }
-    },
-    {
-      "fullName": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 16942,
-      "forks": 1833,
-      "starsToday": 201,
-      "ai": {
-        "shortSummary": "[mock] Cursor plugin specification and official plugins",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 201 stars 増。"
-      }
-    },
-    {
-      "fullName": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 319448,
-      "forks": 28484,
-      "starsToday": 1917,
-      "ai": {
-        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1917 stars 増。"
-      }
-    },
-    {
-      "fullName": "ag-ui-protocol/ag-ui",
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 20082,
-      "forks": 2071,
-      "starsToday": 1445,
-      "ai": {
-        "shortSummary": "[mock] AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 1445 stars 増。"
-      }
-    },
-    {
-      "fullName": "backnotprop/plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 13125,
-      "forks": 1315,
-      "starsToday": 691,
-      "ai": {
-        "shortSummary": "[mock] The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback ",
-        "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 691 stars 増。"
-      }
-    },
-    {
-      "fullName": "sveltejs/svelte",
-      "url": "https://github.com/sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 89637,
-      "forks": 6244,
-      "starsToday": 477,
-      "ai": {
-        "shortSummary": "[mock] web development for the rest of us",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 477 stars 増。"
-      }
-    },
-    {
-      "fullName": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 305655,
-      "forks": 44988,
-      "starsToday": 883,
-      "ai": {
-        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
-        "category": "[mock] Web / Frontend",
-        "whyTrending": "[mock] 直近で 883 stars 増。"
-      }
-    },
-    {
-      "fullName": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "fullName": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 66126,
-      "forks": 8676,
-      "starsToday": 192,
+      "stars": 3806,
+      "forks": 523,
+      "starsToday": 312,
       "ai": {
-        "shortSummary": "[mock] 🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+        "shortSummary": "[mock] Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 192 stars 増。"
+        "whyTrending": "[mock] 直近で 312 stars 増。"
+      }
+    },
+    {
+      "fullName": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 96167,
+      "forks": 10781,
+      "starsToday": 237,
+      "ai": {
+        "shortSummary": "[mock] Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 237 stars 増。"
+      }
+    },
+    {
+      "fullName": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 92271,
+      "forks": 3924,
+      "starsToday": 258,
+      "ai": {
+        "shortSummary": "[mock] An extremely fast Python package and project manager, written in Rust.",
+        "category": "[mock] Infra / Tooling",
+        "whyTrending": "[mock] 直近で 258 stars 増。"
       }
     },
     {
@@ -220,13 +115,178 @@
       "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3214,
-      "forks": 427,
-      "starsToday": 1072,
+      "stars": 4419,
+      "forks": 545,
+      "starsToday": 1524,
       "ai": {
         "shortSummary": "[mock] PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1072 stars 増。"
+        "whyTrending": "[mock] 直近で 1524 stars 増。"
+      }
+    },
+    {
+      "fullName": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 10454,
+      "forks": 1370,
+      "starsToday": 365,
+      "ai": {
+        "shortSummary": "[mock] A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility ",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 365 stars 増。"
+      }
+    },
+    {
+      "fullName": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 89653,
+      "forks": 6208,
+      "starsToday": 692,
+      "ai": {
+        "shortSummary": "[mock] web development for the rest of us",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 692 stars 増。"
+      }
+    },
+    {
+      "fullName": "jquery/jquery",
+      "url": "https://github.com/jquery/jquery",
+      "description": "jQuery JavaScript Library",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 60029,
+      "forks": 20709,
+      "starsToday": 266,
+      "ai": {
+        "shortSummary": "[mock] jQuery JavaScript Library",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 266 stars 増。"
+      }
+    },
+    {
+      "fullName": "appwrite/appwrite",
+      "url": "https://github.com/appwrite/appwrite",
+      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 58265,
+      "forks": 5884,
+      "starsToday": 232,
+      "ai": {
+        "shortSummary": "[mock] The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 232 stars 増。"
+      }
+    },
+    {
+      "fullName": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 11368,
+      "forks": 3604,
+      "starsToday": 24,
+      "ai": {
+        "shortSummary": "[mock] OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 24 stars 増。"
+      }
+    },
+    {
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 321416,
+      "forks": 28568,
+      "starsToday": 822,
+      "ai": {
+        "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 822 stars 増。"
+      }
+    },
+    {
+      "fullName": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 306644,
+      "forks": 45145,
+      "starsToday": 1108,
+      "ai": {
+        "shortSummary": "[mock] The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 1108 stars 増。"
+      }
+    },
+    {
+      "fullName": "DeanChensj/jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 8101,
+      "forks": 991,
+      "starsToday": 218,
+      "ai": {
+        "shortSummary": "[mock] 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-mode",
+        "category": "[mock] Web / Frontend",
+        "whyTrending": "[mock] 直近で 218 stars 増。"
+      }
+    },
+    {
+      "fullName": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 211167,
+      "forks": 61573,
+      "starsToday": 325,
+      "ai": {
+        "shortSummary": "[mock] Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integ",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 325 stars 増。"
+      }
+    },
+    {
+      "fullName": "solidjs/solid",
+      "url": "https://github.com/solidjs/solid",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 36631,
+      "forks": 1185,
+      "starsToday": 40,
+      "ai": {
+        "shortSummary": "[mock] A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 40 stars 増。"
+      }
+    },
+    {
+      "fullName": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "language": null,
+      "languageColor": null,
+      "stars": 98092,
+      "forks": 20363,
+      "starsToday": 53,
+      "ai": {
+        "shortSummary": "[mock] A collection of MCP servers.",
+        "category": "[mock] General",
+        "whyTrending": "[mock] 直近で 53 stars 増。"
       }
     }
   ]
