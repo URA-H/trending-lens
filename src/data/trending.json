@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-20T03:50:49.228Z",
+  "fetchedAt": "2026-11-21T03:43:30.873Z",
   "range": "daily",
   "language": null,
   "aiEnabled": false,
@@ -10,13 +10,13 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12733,
-      "forks": 1604,
-      "starsToday": 1349,
+      "stars": 14479,
+      "forks": 1709,
+      "starsToday": 1622,
       "ai": {
         "shortSummary": "[mock] A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated ",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 1349 stars 増。"
+        "whyTrending": "[mock] 直近で 1622 stars 増。"
       }
     },
     {
@@ -25,13 +25,13 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 322199,
-      "forks": 28640,
-      "starsToday": 2028,
+      "stars": 322919,
+      "forks": 28674,
+      "starsToday": 890,
       "ai": {
         "shortSummary": "[mock] An agentic skills framework & software development methodology that works.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 2028 stars 増。"
+        "whyTrending": "[mock] 直近で 890 stars 増。"
       }
     },
     {
@@ -40,13 +40,13 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 60671,
-      "forks": 5505,
-      "starsToday": 898,
+      "stars": 61465,
+      "forks": 5574,
+      "starsToday": 773,
       "ai": {
         "shortSummary": "[mock] \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 898 stars 増。"
+        "whyTrending": "[mock] 直近で 773 stars 増。"
       }
     },
     {
@@ -55,13 +55,13 @@
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 67047,
-      "forks": 8805,
-      "starsToday": 238,
+      "stars": 67745,
+      "forks": 8857,
+      "starsToday": 847,
       "ai": {
         "shortSummary": "[mock] 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 238 stars 増。"
+        "whyTrending": "[mock] 直近で 847 stars 増。"
       }
     },
     {
@@ -70,28 +70,28 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 17599,
-      "forks": 1936,
-      "starsToday": 384,
+      "stars": 17880,
+      "forks": 1960,
+      "starsToday": 299,
       "ai": {
         "shortSummary": "[mock] Cursor plugin specification and official plugins",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 384 stars 増。"
+        "whyTrending": "[mock] 直近で 299 stars 増。"
       }
     },
     {
       "fullName": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 204383,
-      "forks": 10708,
-      "starsToday": 825,
+      "stars": 205391,
+      "forks": 10742,
+      "starsToday": 1241,
       "ai": {
-        "shortSummary": "[mock] Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+        "shortSummary": "[mock] Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 825 stars 増。"
+        "whyTrending": "[mock] 直近で 1241 stars 増。"
       }
     },
     {
@@ -100,13 +100,13 @@
       "description": "The official NGINX Open Source repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 32374,
-      "forks": 8417,
-      "starsToday": 73,
+      "stars": 32597,
+      "forks": 8367,
+      "starsToday": 246,
       "ai": {
         "shortSummary": "[mock] The official NGINX Open Source repository.",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 73 stars 増。"
+        "whyTrending": "[mock] 直近で 246 stars 増。"
       }
     },
     {
@@ -115,13 +115,13 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11594,
-      "forks": 3621,
-      "starsToday": 246,
+      "stars": 11811,
+      "forks": 3638,
+      "starsToday": 217,
       "ai": {
         "shortSummary": "[mock] OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 246 stars 増。"
+        "whyTrending": "[mock] 直近で 217 stars 増。"
       }
     },
     {
@@ -130,13 +130,13 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 68743,
-      "forks": 4622,
-      "starsToday": 271,
+      "stars": 69349,
+      "forks": 4653,
+      "starsToday": 636,
       "ai": {
         "shortSummary": "[mock] Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 271 stars 増。"
+        "whyTrending": "[mock] 直近で 636 stars 増。"
       }
     },
     {
@@ -145,13 +145,13 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 70900,
-      "forks": 6316,
-      "starsToday": 954,
+      "stars": 71513,
+      "forks": 6342,
+      "starsToday": 681,
       "ai": {
         "shortSummary": "[mock] AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 954 stars 増。"
+        "whyTrending": "[mock] 直近で 681 stars 増。"
       }
     },
     {
@@ -160,13 +160,13 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10771,
-      "forks": 1389,
-      "starsToday": 302,
+      "stars": 11088,
+      "forks": 1412,
+      "starsToday": 315,
       "ai": {
         "shortSummary": "[mock] A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility ",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 302 stars 増。"
+        "whyTrending": "[mock] 直近で 315 stars 増。"
       }
     },
     {
@@ -175,13 +175,13 @@
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1957,
-      "forks": 131,
-      "starsToday": 377,
+      "stars": 2822,
+      "forks": 179,
+      "starsToday": 869,
       "ai": {
         "shortSummary": "[mock] Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, ",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 377 stars 増。"
+        "whyTrending": "[mock] 直近で 869 stars 増。"
       }
     },
     {
@@ -190,13 +190,13 @@
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13198,
-      "forks": 1907,
-      "starsToday": 38,
+      "stars": 13669,
+      "forks": 1927,
+      "starsToday": 466,
       "ai": {
         "shortSummary": "[mock] The open-source agent for CI/CD reliability.",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 38 stars 増。"
+        "whyTrending": "[mock] 直近で 466 stars 増。"
       }
     },
     {
@@ -205,13 +205,13 @@
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 75253,
-      "forks": 5567,
-      "starsToday": 182,
+      "stars": 75868,
+      "forks": 5582,
+      "starsToday": 676,
       "ai": {
         "shortSummary": "[mock] There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating ",
         "category": "[mock] General",
-        "whyTrending": "[mock] 直近で 182 stars 増。"
+        "whyTrending": "[mock] 直近で 676 stars 増。"
       }
     },
     {
@@ -220,13 +220,13 @@
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12918,
-      "forks": 804,
-      "starsToday": 341,
+      "stars": 13822,
+      "forks": 842,
+      "starsToday": 1082,
       "ai": {
         "shortSummary": "[mock] The only downloader you need. 下载器的集大成者。",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 341 stars 増。"
+        "whyTrending": "[mock] 直近で 1082 stars 増。"
       }
     },
     {
@@ -235,13 +235,13 @@
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11423,
-      "forks": 1948,
-      "starsToday": 126,
+      "stars": 12277,
+      "forks": 2022,
+      "starsToday": 979,
       "ai": {
         "shortSummary": "[mock] AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & c",
         "category": "[mock] AI / Data",
-        "whyTrending": "[mock] 直近で 126 stars 増。"
+        "whyTrending": "[mock] 直近で 979 stars 増。"
       }
     }
   ]
